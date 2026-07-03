@@ -1,0 +1,10 @@
+# sent_id = BOA3017_0a
+# text = eccoci qua
+# jefferson_text = eccoci qua.
+# speaker_id = BO139
+# conversation_id = BOA3017
+1-2	eccoci	_	_	_	_	_	_	_	Begin=0.4|KID=0-0
+1	ecco	ecco	ADV	_	_	0	root	_	KID=0-0a
+2	ci	ci	PRON	_	PronType=Prs	1	expl	_	Clitic=Yes|KID=0-0b
+3	qua	qua	ADV	_	_	1	advmod	_	Intonation=Falling|KID=0-1
+

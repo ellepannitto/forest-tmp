@@ -1,0 +1,16 @@
+# sent_id = BOD2018_0_1
+# text = dovresti parlarmi della tua casa attuale
+# jefferson_text = dovresti parlarmi della tua casa. | attuale.
+# speaker_id = BO118
+# conversation_id = BOD2018
+1	dovresti	dovere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=0.96|KID=0-0
+2-3	parlarmi	_	_	_	_	_	_	_	KID=0-1
+2	parlar	parlare	VERB	_	VerbForm=Inf	0	root	_	KID=0-1a
+3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Clitic=Yes|KID=0-1b
+4-5	della	_	_	_	_	_	_	_	KID=0-2
+4	di	di	ADP	_	_	7	case	_	KID=0-2a
+5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=0-2b
+6	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod	_	KID=0-3
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	End=2.78|Intonation=Falling|KID=0-4
+8	attuale	attuale	ADJ	_	Number=Sing	7	amod	_	Begin=2.81|End=3.4|Intonation=Falling|KID=1-0
+
