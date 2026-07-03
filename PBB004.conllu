@@ -23,7 +23,7 @@
 4	zona	zona	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	KID=4-2
 5	di	di	ADP	_	_	6	case	_	KID=4-3
 6	bologna	Bologna	PROPN	_	Gender=Fem|Number=Sing	4	nmod	_	KID=4-4
-7	vivete	vivere	VERB	_	Gender=Fem|Number=Plur	0	root	_	End=6.858|Intonation=rising|KID=4-5
+7	vivete	vivere	VERB	_	Gender=Fem|Number=Plur	0	root	_	End=6.858|Intonation=Rising|KID=4-5
 
 # sent_id = PBB004_5
 # text = corticella
@@ -40,7 +40,7 @@
 3	avete	avere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	KID=7-1
 4	sempre	sempre	ADV	_	_	5	advmod	_	KID=7-2
 5	vissuto	vivere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=7-3
-6	qua	qua	ADV	_	_	5	advmod	_	End=10.358|Intonation=rising|KID=7-4
+6	qua	qua	ADV	_	_	5	advmod	_	End=10.358|Intonation=Rising|KID=7-4
 
 # sent_id = PBB004_8
 # text = no
@@ -96,7 +96,7 @@
 # jefferson_text = [mh] no?
 # speaker_id = BOR005
 1	mh	mh	INTJ	_	Gender=Masc	2	discourse	_	Begin=23.099|End=23.414|KID=14-0|OverlappingGroup=1
-2	no	no	ADV	_	PronType=Neg	0	root	_	Begin=24.179|End=24.592|Intonation=rising|KID=15-0
+2	no	no	ADV	_	PronType=Neg	0	root	_	Begin=24.179|End=24.592|Intonation=Rising|KID=15-0
 
 # sent_id = PBB004_16
 # text = questa è la dozza eh
@@ -137,17 +137,17 @@
 1	e	e	CCONJ	_	_	6	cc	_	Begin=28.77|KID=20-0|PauseAfter=Yes
 2	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	KID=20-2
 3	scuole	scuola	NOUN	_	Gender=Fem|Number=Plur	6	dislocated	_	KID=20-3
-4	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=20-4
+4	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=20-4
 5	avete	avere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	KID=20-5
 6	frequentate	frequentare	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=20-6
-7	qui	qui	ADV	_	_	6	advmod	_	Intonation=weakly_rising|KID=20-7
+7	qui	qui	ADV	_	_	6	advmod	_	Intonation=WeaklyRising|KID=20-7
 8	o	o	CCONJ	_	_	11	cc	_	KID=20-8
 9	in	in	ADP	_	_	11	case	_	KID=20-9
 10	altri	altro	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	KID=20-10
-11	quartieri	quartiere	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	Intonation=weakly_rising|KID=20-11
+11	quartieri	quartiere	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	Intonation=WeaklyRising|KID=20-11
 12	in	in	ADP	_	_	14	case	_	KID=20-12
 13	altre	altro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	KID=20-13
-14	città	città	NOUN	_	Gender=Fem	11	nmod	_	End=33.085|Intonation=weakly_rising|KID=20-14
+14	città	città	NOUN	_	Gender=Fem	11	nmod	_	End=33.085|Intonation=WeaklyRising|KID=20-14
 
 # sent_id = PBB004_21
 # text = altri quartieri
@@ -218,10 +218,10 @@
 # jefferson_text = e (.) vi piace questa zona?
 # speaker_id = BOR005
 1	e	e	CCONJ	_	_	3	cc	_	Begin=43.941|KID=28-0|PauseAfter=Yes
-2	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	3	iobj	_	Clitic=Yes|KID=28-2
+2	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	3	iobj	_	KID=28-2
 3	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=28-3
 4	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	KID=28-4
-5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	End=46.006|Intonation=rising|KID=28-5
+5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	End=46.006|Intonation=Rising|KID=28-5
 
 # sent_id = PBB004_29
 # text = no
@@ -247,8 +247,8 @@
 1	e	e	CCONJ	_	_	5	cc	_	Begin=51.02|KID=32-0
 2	perché	perché	SCONJ	_	_	5	mark	_	KID=32-1
 3	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=32-2
-4	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	5	expl	_	Clitic=Yes|KID=32-3
-5	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=52.642|Intonation=rising|KID=32-4
+4	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	5	expl	_	KID=32-3
+5	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=52.642|Intonation=Rising|KID=32-4
 
 # sent_id = PBB004_33
 # text = perché viviamo su una strada troppo trafficata per quello che mi riguarda
@@ -264,7 +264,7 @@
 8	per	per	ADP	_	_	9	case	_	KID=33-7
 9	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	KID=33-8|OverlappingGroup=8
 10	che	che	PRON	_	PronType=Rel	12	nsubj	_	KID=33-9|OverlappingGroup=8
-11	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	obj	_	Clitic=Yes|KID=33-10|OverlappingGroup=8
+11	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	obj	_	KID=33-10|OverlappingGroup=8
 12	riguarda	riguardare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	End=56.506|KID=33-11|OverlappingGroup=8
 
 # sent_id = PBB004_34
@@ -272,14 +272,14 @@
 # jefferson_text = [non ci sono ne]gozi non ci sono: non c'è niente nessun servizio
 # speaker_id = BOI013
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=55.75|KID=34-0|OverlappingGroup=8
-2	ci	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=34-1|OverlappingGroup=8
+2	ci	ci	PRON	_	PronType=Prs	3	expl	_	KID=34-1|OverlappingGroup=8
 3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=34-2|OverlappingGroup=8
 4	negozi	negozio	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	KID=34-3|OverlappingGroup=8
 5	non	non	ADV	_	PronType=Neg	7	advmod	_	KID=34-4
-6	ci	ci	PRON	_	PronType=Prs	7	expl	_	Clitic=Yes|KID=34-5
+6	ci	ci	PRON	_	PronType=Prs	7	expl	_	KID=34-5
 7	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj:reform	_	KID=34-6|Prolonged=Yes
 8	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=34-7
-9	c'	ci	PRON	_	PronType=Prs	10	expl	_	Clitic=Yes|KID=34-8|SpaceAfter=No
+9	c'	ci	PRON	_	PronType=Prs	10	expl	_	KID=34-8|SpaceAfter=No
 10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj:reform	_	KID=34-9
 11	niente	niente	PRON	_	Number=Sing|PronType=Ind	10	nsubj	_	KID=34-10
 12	nessun	nessuno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	13	det	_	KID=34-11
@@ -294,7 +294,7 @@
 3	migliorereste	migliorare	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=36-1
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=36-2
 5	vostra	vostro	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	KID=36-3
-6	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	End=62.976|Intonation=rising|KID=36-4
+6	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	End=62.976|Intonation=Rising|KID=36-4
 
 # sent_id = PBB004_38
 # text = ah beh se avessi la possibilità di far venire dei negozi e i negozianti
@@ -334,7 +334,7 @@
 2	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	KID=41-1
 3	strada	strada	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	KID=41-2
 4	e	e	CCONJ	_	_	6	cc	_	KID=41-3
-5	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=41-4
+5	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=41-4
 6	farei	fare	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	KID=41-5
 7	solamente	solo	ADV	_	_	6	advmod	_	KID=41-6
 8	per	per	ADP	_	_	9	case	_	KID=41-7
@@ -357,7 +357,7 @@
 # speaker_id = BOI013
 1	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=79.005|KID=44-0|Volume=low
 2	se~	X	X	_	_	_	_	_	Interrupted=Yes|KID=44-1|Volume=low
-3	si	si	PRON	_	Person=3|PronType=Prs	4	expl	_	Clitic=Yes|KID=44-2|Volume=low
+3	si	si	PRON	_	Person=3|PronType=Prs	4	expl	_	KID=44-2|Volume=low
 4	sta	stare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=44-3|Volume=low
 5	più	più	ADV	_	_	4	advmod	_	End=80.185|KID=44-4|Volume=low
 
@@ -534,8 +534,8 @@
 3	principalmente	principalmente	ADV	_	_	2	advmod	_	KID=64-3
 4	come	come	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	mark	_	KID=64-4
 5	come	come	ADP	_	_	8	mark	_	KID=64-5
-6	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	reparandum	_	Clitic=Yes|KID=64-6
-7	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	8	obj	_	Clitic=Yes|KID=64-7
+6	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	reparandum	_	KID=64-6
+7	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	8	obj	_	KID=64-7
 8	muovete	muovere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=64-8
 9	in	in	ADP	_	_	10	case	_	KID=64-9
 10	città	città	NOUN	_	Gender=Fem	8	obl	_	End=116.015|KID=64-10
@@ -560,7 +560,7 @@
 1	e	e	CCONJ	_	_	5	cc	_	Begin=119.33|KID=67-0
 2	qua	qua	ADV	_	_	5	advmod	_	KID=67-1|PaceFast=Yes
 3	però	però	CCONJ	_	_	5	cc	_	KID=67-2|PaceFast=Yes
-4	ne	ne	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=67-3
+4	ne	ne	PRON	_	PronType=Prs	5	expl	_	KID=67-3
 5	passano	passare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=67-4
 6	pochi	poco	DET	_	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	End=120.65|KID=67-5
 
@@ -578,7 +578,7 @@
 # jefferson_text = e quindi? (.) °m:h° la fermata più vicina qual è
 # speaker_id = BOR005
 1	e	e	CCONJ	_	_	5	cc	_	Begin=123.07|KID=69-0
-2	quindi	quindi	CCONJ	_	_	5	cc	_	Intonation=rising|KID=69-1|PauseAfter=Yes
+2	quindi	quindi	CCONJ	_	_	5	cc	_	Intonation=Rising|KID=69-1|PauseAfter=Yes
 3	mh	mh	INTJ	_	_	5	discourse	_	KID=69-3|Prolonged=Yes|Volume=low
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=69-4
 5	fermata	fermare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=69-5
@@ -604,10 +604,10 @@
 # jefferson_text = no la vici~ la:: fermata è vicina (.) però: ci sono gli orari,
 # speaker_id = BOI013
 1	però	però	CCONJ	_	_	3	cc	_	KID=70-8|Prolonged=Yes
-2	ci	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=70-9
+2	ci	ci	PRON	_	PronType=Prs	3	expl	_	KID=70-9
 3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=70-10
 4	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=70-11
-5	orari	orario	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	End=129.425|Intonation=weakly_rising|KID=70-12
+5	orari	orario	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	End=129.425|Intonation=WeaklyRising|KID=70-12
 
 # sent_id = PBB004_71
 # text = ah
@@ -676,7 +676,7 @@
 # speaker_id = BOI012
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=143.1|KID=78-0
 2	eh	eh	INTJ	_	_	4	discourse	_	End=144.16|KID=78-1|Prolonged=Yes
-3	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obj	_	Begin=144.3|Clitic=Yes|KID=79-0
+3	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obj	_	Begin=144.3|KID=79-0
 4	sposti	spostare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=79-1
 5	in	in	ADP	_	_	6	case	_	KID=79-2
 6	auto	auto	NOUN	_	Gender=Fem	4	obl	_	KID=79-3
@@ -686,7 +686,7 @@
 10	tutte	tutto	DET	_	Gender=Fem|Number=Plur|PronType=Tot	13	det:predet	_	KID=79-7
 11	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	KID=79-8
 12	altre	altro	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	KID=79-9
-13	parti	parte	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	Intonation=weakly_rising|KID=79-10
+13	parti	parte	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	Intonation=WeaklyRising|KID=79-10
 
 # sent_id = PBB004_78_79_split2
 # text = prendi la macchina e vai dove devi andare cioè
@@ -761,7 +761,7 @@
 # jefferson_text = per te no {ride}
 # speaker_id = BOR005
 1	per	per	ADP	_	_	2	case	_	Begin=162.895|KID=88-0
-2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	Clitic=Yes|KID=88-1
+2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	KID=88-1
 3	no	no	ADV	_	PronType=Neg	2	advmod	_	End=163.785|KID=88-2
 
 # sent_id = PBB004_89
@@ -815,11 +815,11 @@
 # speaker_id = BOR005
 1	quindi	quindi	CCONJ	_	_	5	cc	_	Begin=171.65|KID=93-0
 2	per	per	ADP	_	_	3	case	_	KID=93-1
-3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obl	_	Clitic=Yes|KID=93-2
+3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obl	_	KID=93-2
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=93-3
 5	cambiata	cambiare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=93-4
 6	in	in	ADP	_	_	7	case	_	KID=93-5
-7	peggio	peggio	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	End=173.22|Intonation=rising|KID=93-6
+7	peggio	peggio	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	End=173.22|Intonation=Rising|KID=93-6
 
 # sent_id = PBB004_94
 # text = per me è cambiata in peggio
@@ -854,7 +854,7 @@
 4	perché	perché	SCONJ	_	_	8	mark	_	KID=96-3
 5	non	non	ADV	_	PronType=Neg	8	advmod	_	KID=96-4|PauseAfter=Yes
 6	prima	prima	ADV	_	_	8	advmod	_	KID=96-6
-7	c'	ci	PRON	_	PronType=Prs	8	expl	_	Clitic=Yes|KID=96-7|SpaceAfter=No
+7	c'	ci	PRON	_	PronType=Prs	8	expl	_	KID=96-7|SpaceAfter=No
 8	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=96-8
 9	più	più	ADV	_	_	10	advmod	_	KID=96-9
 10	sicurezza	sicurezza	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	KID=96-10
@@ -880,7 +880,7 @@
 5	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	8	discourse	_	KID=97-4
 6	in	in	ADP	_	_	8	case	_	KID=97-5
 7	determinate	determinato	DET	_	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	KID=97-6
-8	zone	zona	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	Intonation=weakly_rising|KID=97-7
+8	zone	zona	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	Intonation=WeaklyRising|KID=97-7
 9	o	o	CCONJ	_	_	12	cc	_	KID=97-8
 10	più	più	ADV	_	_	12	advmod	_	KID=97-9
 11	in	in	ADP	_	_	12	case	_	KID=97-10
@@ -897,7 +897,7 @@
 4	eh	eh	INTJ	_	_	7	discourse	_	KID=98-3|OverlappingGroup=15|Prolonged=Yes
 5	in	in	ADP	_	_	7	case	_	KID=98-4
 6	determinate	determinato	DET	_	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	KID=98-5
-7	zone	zona	NOUN	_	Gender=Fem|Number=Plur	0	root	_	End=187.05|Intonation=weakly_rising|KID=98-6
+7	zone	zona	NOUN	_	Gender=Fem|Number=Plur	0	root	_	End=187.05|Intonation=WeaklyRising|KID=98-6
 
 # sent_id = PBB004_99
 # text = prima era più tranquilla bologna
@@ -971,7 +971,7 @@
 1	mh	mh	INTJ	_	Gender=Masc	5	discourse	_	Begin=198.31|End=198.85|KID=105-0|OverlappingGroup=17|Prolonged=Yes|Volume=low
 2	ma	ma	CCONJ	_	_	5	cc	_	Begin=199.025|KID=106-0|Language=NO_ISO_CODE|OverlappingGroup=18|Volume=low
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=106-1|OverlappingGroup=18
-4	c'	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=106-2|SpaceAfter=No
+4	c'	ci	PRON	_	PronType=Prs	5	expl	_	KID=106-2|SpaceAfter=No
 5	entra	entrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=106-3
 6	u	i	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=106-4
 7	covid	Covid	PROPN	_	Gender=Masc	5	nsubj	_	End=200.685|KID=106-5
@@ -985,7 +985,7 @@
 3	ah	ah	INTJ	_	_	7	discourse	_	Begin=201.21|KID=109-0|OverlappingGroup=19
 4	c'	ci	PRON	_	Gender=Fem|Number=Sing	5	expl	_	KID=109-1|OverlappingGroup=19|PauseAfter=Yes
 5	entra	entrare	VERB	_	Gender=Fem|Number=Sing	7	reparandum	_	KID=109-1|OverlappingGroup=19|PauseAfter=Yes
-6	c'	ci	PRON	_	PronType=Prs	7	expl	_	Clitic=Yes|KID=109-3|SpaceAfter=No
+6	c'	ci	PRON	_	PronType=Prs	7	expl	_	KID=109-3|SpaceAfter=No
 7	entra	entrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=202.6|KID=109-4
 
 # sent_id = PBB004_108
@@ -1040,7 +1040,7 @@
 2	quindi	quindi	CCONJ	_	_	3	cc	_	KID=114-1|PaceFast=Yes
 3	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	KID=114-2|PaceFast=Yes
 4	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=114-3|PaceFast=Yes
-5	lo	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=114-4|PaceFast=Yes
+5	lo	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=114-4|PaceFast=Yes
 6	noti	notare	VERB	_	Gender=Masc|Number=Plur	0	root	_	KID=114-5|PaceFast=Yes
 7	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	KID=114-6|OverlappingGroup=20
 8	cambiamento	cambiamento	NOUN	_	Gender=Masc|Number=Sing	6	dislocated	_	KID=114-7|OverlappingGroup=20
@@ -1065,19 +1065,19 @@
 5	abitavo	abitare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	KID=118-1
 6	in	in	ADP	_	_	7	case	_	KID=118-2
 7	stazione	stazione	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=118-3
-8	centrale	centrale	ADJ	_	Number=Sing	7	amod	_	End=212.995|Intonation=weakly_rising|KID=118-4
+8	centrale	centrale	ADJ	_	Number=Sing	7	amod	_	End=212.995|Intonation=WeaklyRising|KID=118-4
 
 # sent_id = PBB004_119_121
 # text = x traffico magari c'è più traffico però cioè mh
 # jefferson_text = xxx (.) traffico, magari c'è più [traffico], però: cioè::: [mh]
 # speaker_id = BOI012
 1	x	x	X	_	_	5	dep	_	Begin=213.0|KID=119-0|PauseAfter=Yes|Unintelligible=Yes
-2	traffico	traffico	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	Intonation=weakly_rising|KID=119-2
+2	traffico	traffico	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	Intonation=WeaklyRising|KID=119-2
 3	magari	magari	ADV	_	_	5	advmod	_	KID=119-3
-4	c'	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=119-4|SpaceAfter=No
+4	c'	ci	PRON	_	PronType=Prs	5	expl	_	KID=119-4|SpaceAfter=No
 5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=119-5
 6	più	più	ADV	_	_	7	advmod	_	KID=119-6
-7	traffico	traffico	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	End=215.84|Intonation=weakly_rising|KID=119-7|OverlappingGroup=22
+7	traffico	traffico	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	End=215.84|Intonation=WeaklyRising|KID=119-7|OverlappingGroup=22
 8	però	però	CCONJ	_	_	5	cc	_	Begin=216.59|KID=121-0|Prolonged=Yes
 9	cioè	cioè	CCONJ	_	_	10	cc	_	KID=121-1|Prolonged=Yes
 10	mh	mh	ADJ	_	_	8	discourse	_	End=217.78|KID=121-2|OverlappingGroup=23
@@ -1086,7 +1086,7 @@
 # text = si nota la differenza enrico
 # jefferson_text = [si no]ta [la] differenza enrico
 # speaker_id = BOI013
-1	si	si	PRON	_	Person=3|PronType=Prs	2	expl:impers	_	Begin=215.17|Clitic=Yes|KID=120-0|OverlappingGroup=22
+1	si	si	PRON	_	Person=3|PronType=Prs	2	expl:impers	_	Begin=215.17|KID=120-0|OverlappingGroup=22
 2	nota	notare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=216.02|KID=120-1|OverlappingGroup=22
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Begin=217.63|KID=122-0|OverlappingGroup=23
 4	differenza	differenza	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	KID=122-1
@@ -1196,16 +1196,16 @@
 # text = prima si u~ si c'è troppa delinquenza in giro troppe persone troppo spaccio
 # jefferson_text = >prima si u~ si< c'è troppa:: delinquenza in giro troppe persone, troppo spac[cio],
 # speaker_id = BOI013
-1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Begin=238.31|Clitic=Yes|KID=133-0|SpaceAfter=No
+1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Begin=238.31|KID=133-0|SpaceAfter=No
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=133-1
 3	troppa	troppo	DET	_	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	KID=133-2|Prolonged=Yes
 4	delinquenza	delinquenza	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	KID=133-3
 5	in	in	ADP	_	_	6	case	_	KID=133-4
 6	giro	giro	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	End=240.39|KID=133-5
 7	troppe	troppo	DET	_	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	Begin=240.61|KID=134-0
-8	persone	persona	NOUN	_	Gender=Fem|Number=Plur	2	conj:reform	_	Intonation=weakly_rising|KID=134-1
+8	persone	persona	NOUN	_	Gender=Fem|Number=Plur	2	conj:reform	_	Intonation=WeaklyRising|KID=134-1
 9	troppo	troppo	ADV	_	_	10	det	_	KID=134-2
-10	spaccio	spaccio	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	End=242.63|Intonation=weakly_rising|KID=134-3|OverlappingGroup=27
+10	spaccio	spaccio	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	End=242.63|Intonation=WeaklyRising|KID=134-3|OverlappingGroup=27
 
 # sent_id = PBB004_135
 # text = ma quando vai tu in centro lascia sta ma quando ci vai
@@ -1221,14 +1221,14 @@
 8	sta	stare	VERB	_	_	7	xcomp	_	Interrupted=Yes|KID=135-7|OverlappingGroup=28
 9	ma	ma	CCONJ	_	_	12	cc	_	KID=135-8|OverlappingGroup=28
 10	quando	quando	SCONJ	_	_	12	mark	_	KID=135-9
-11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|KID=135-10
+11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	KID=135-10
 12	vai	andare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	End=244.99|KID=135-11
 
 # sent_id = PBB004_136_138
 # text = eh enrico
 # jefferson_text = [eh]? [enrico:]
 # speaker_id = BOI013
-1	eh	eh	INTJ	_	_	0	root	_	Begin=243.92|End=244.24|Intonation=rising|KID=136-0|OverlappingGroup=28
+1	eh	eh	INTJ	_	_	0	root	_	Begin=243.92|End=244.24|Intonation=Rising|KID=136-0|OverlappingGroup=28
 2	enrico	Enrico	PROPN	_	Gender=Masc|Number=Sing	1	vocative	_	Begin=245.35|End=245.98|KID=138-0|OverlappingGroup=29|Prolonged=Yes
 
 # sent_id = PBB004_137_139
@@ -1253,7 +1253,7 @@
 3	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=140-2|PaceFast=Yes
 4	in	in	ADP	_	_	5	case	_	KID=140-3
 5	centro	centro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	KID=140-4|OverlappingGroup=30
-6	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	End=249.635|Intonation=rising|KID=140-5|OverlappingGroup=30
+6	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	End=249.635|Intonation=Rising|KID=140-5|OverlappingGroup=30
 
 # sent_id = PBB004_141
 # text = vabbè dire in questo
@@ -1271,11 +1271,11 @@
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	Begin=249.985|KID=142-0|OverlappingGroup=31
 2	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=142-1|OverlappingGroup=31
 3	in	in	ADP	_	_	4	case	_	KID=142-2
-4	piazzola	Piazzola	PROPN	_	Gender=Fem|Number=Sing	2	obl	_	Intonation=rising|KID=142-3
+4	piazzola	Piazzola	PROPN	_	Gender=Fem|Number=Sing	2	obl	_	Intonation=Rising|KID=142-3
 5	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=142-4
 6	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	KID=142-5
 7	in	in	ADP	_	_	8	case	_	KID=142-6
-8	montagnola	Montagnola	PROPN	_	Gender=Fem|Number=Sing	6	obl	_	End=252.395|Intonation=rising|KID=142-7|OverlappingGroup=32
+8	montagnola	Montagnola	PROPN	_	Gender=Fem|Number=Sing	6	obl	_	End=252.395|Intonation=Rising|KID=142-7|OverlappingGroup=32
 
 # sent_id = PBB004_143
 # text = beh vabbè oh punti di vista io non mh
@@ -1342,7 +1342,7 @@
 1	uh	uh	INTJ	_	_	3	discourse	_	Begin=262.09|KID=149-0|Prolonged=Yes
 2	vuole	volere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=149-1
 3	qualcosa	qualcosa	ADJ	_	Gender=Fem|Number=Sing	0	root	_	KID=149-2|Volume=high
-4	signora	signore	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	End=264.12|Intonation=rising|KID=149-3
+4	signora	signore	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	End=264.12|Intonation=Rising|KID=149-3
 
 # sent_id = PBB004_150
 # text = ne vuole ma ma sa vut dalla vita
@@ -1394,9 +1394,9 @@
 1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Begin=271.76|KID=153-0|Volume=high
 2	prendo	prendere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=153-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=153-2
-4	corriera	corriera	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	Intonation=weakly_rising|KID=153-3
+4	corriera	corriera	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	Intonation=WeaklyRising|KID=153-3
 5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=153-4|SpaceAfter=No
-6	autostazione	autostazione	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	End=273.9|Intonation=weakly_rising|KID=153-5
+6	autostazione	autostazione	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	End=273.9|Intonation=WeaklyRising|KID=153-5
 
 # sent_id = PBB004_154
 # text = è piena piena piena
@@ -1426,7 +1426,7 @@
 # speaker_id = BOR005
 1	ma	ma	CCONJ	_	_	12	cc	_	Begin=279.345|KID=156-0
 2	secondo	secondo	ADP	_	_	3	case	_	KID=156-1
-3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	12	obl	_	Clitic=Yes|KID=156-2
+3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	12	obl	_	KID=156-2
 4	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	KID=156-3
 5	problemi	problema	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	KID=156-4|PaceSlow=Yes
 6	quindi	quindi	CCONJ	_	_	8	cc	_	KID=156-5|PaceFast=Yes
@@ -1438,7 +1438,7 @@
 12	limitati	limitare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=156-11
 13	ad	a	ADP	_	_	15	case	_	KID=156-12
 14	alcune	alcuno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	KID=156-13
-15	aree	area	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	Intonation=rising|KID=156-14
+15	aree	area	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	Intonation=Rising|KID=156-14
 16	o	o	CCONJ	_	_	21	cc	_	KID=156-15|PauseAfter=Yes
 17	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	KID=156-17
 18	po'	poco	ADV	_	_	21	advmod	_	KID=156-18
@@ -1471,8 +1471,8 @@
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=158-2|PaceFast=Yes
 4	stazione	stazione	NOUN	_	Gender=Fem|Number=Sing	8	dislocated	_	KID=158-3|PaceFast=Yes
 5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=158-4|SpaceAfter=No
-6	autostazione	autostazione	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	Intonation=weakly_rising|KID=158-5
-7	ci	ci	PRON	_	PronType=Prs	8	expl	_	Clitic=Yes|KID=158-6
+6	autostazione	autostazione	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	Intonation=WeaklyRising|KID=158-5
+7	ci	ci	PRON	_	PronType=Prs	8	expl	_	KID=158-6
 8	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=291.385|KID=158-7
 9	determinati	determinato	DET	_	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	Begin=291.68|KID=159-0
 10	punti	punto	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	KID=159-1
@@ -1493,11 +1493,11 @@
 # jefferson_text = l'autostazione, via amendola, via petramellara,
 # speaker_id = BOI013
 1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	Begin=295.615|KID=161-0|SpaceAfter=No
-2	autostazione	autostazione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=296.735|Intonation=weakly_rising|KID=161-1
+2	autostazione	autostazione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=296.735|Intonation=WeaklyRising|KID=161-1
 3	via	via	NOUN	_	_	4	nmod	_	Begin=296.925|KID=162-0
 4	amendola	Amendola	PROPN	_	_	2	conj:reform	_	_
 5	via	via	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=162-2
-6	petramellara	Petramellara	PROPN	_	Gender=Fem|Number=Sing	4	conj:reform	_	End=299.225|Intonation=weakly_rising|KID=162-3
+6	petramellara	Petramellara	PROPN	_	Gender=Fem|Number=Sing	4	conj:reform	_	End=299.225|Intonation=WeaklyRising|KID=162-3
 
 # sent_id = PBB004_163_164
 # text = cioè cioè non è che io sto mu~ in mummia in casa
@@ -1602,7 +1602,7 @@
 3	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	obj	_	KID=176-2
 4	noti	notare	VERB	_	Gender=Fem|Number=Plur	0	root	_	KID=176-3
 5	queste	questo	DET	_	Gender=Fem|Number=Plur|PronType=Dem	4	det	_	KID=176-4
-6	cose	cosa	NOUN	_	Gender=Fem|Number=Plur	4	dislocated	_	End=323.525|Intonation=rising|KID=176-5
+6	cose	cosa	NOUN	_	Gender=Fem|Number=Plur	4	dislocated	_	End=323.525|Intonation=Rising|KID=176-5
 
 # sent_id = PBB004_177
 # text = ma lui è a lavorare lui non c'è di mattina
@@ -1615,10 +1615,10 @@
 5	lavorare	lavorare	VERB	_	VerbForm=Inf	0	root	_	KID=177-4|OverlappingGroup=40|Prolonged=Yes
 6	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	vocative	_	KID=177-5|OverlappingGroup=40
 7	non	non	ADV	_	PronType=Neg	9	advmod	_	KID=177-6|OverlappingGroup=40
-8	c'	ci	PRON	_	PronType=Prs	9	expl	_	Clitic=Yes|KID=177-7|OverlappingGroup=40|SpaceAfter=No
+8	c'	ci	PRON	_	PronType=Prs	9	expl	_	KID=177-7|OverlappingGroup=40|SpaceAfter=No
 9	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj:reform	_	KID=177-8|OverlappingGroup=40
 10	di	di	ADP	_	_	11	case	_	KID=177-9|OverlappingGroup=40
-11	mattina	mattina	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	End=325.765|Intonation=weakly_rising|KID=177-10|OverlappingGroup=40
+11	mattina	mattina	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	End=325.765|Intonation=WeaklyRising|KID=177-10|OverlappingGroup=40
 
 # sent_id = PBB004_178
 # text = mh no onestamente no
@@ -1644,7 +1644,7 @@
 3	in	in	ADP	_	_	4	case	_	KID=180-2
 4	giro	giro	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	KID=180-3|Prolonged=Yes
 5	che	che	PRON	_	PronType=Rel	7	mark	_	KID=180-4|PaceFast=Yes
-6	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	Clitic=Yes|KID=180-5|PaceFast=Yes
+6	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	KID=180-5|PaceFast=Yes
 7	capita	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	KID=180-6|PaceFast=Yes
 8	di	di	ADP	_	_	9	mark	_	KID=180-7|PaceFast=Yes
 9	andare	andare	VERB	_	VerbForm=Inf	7	xcomp	_	KID=180-8|PaceFast=Yes
@@ -1684,7 +1684,7 @@
 3	sti	questo	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	KID=184-1
 4	spacciatori	spacciatore	NOUN	_	Gender=Masc|Number=Plur	7	dislocated	_	KID=184-2
 5	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=184-3
-6	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|KID=184-4
+6	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	KID=184-4
 7	noto	notare	VERB	_	Gender=Masc|Number=Sing	0	root	_	KID=184-5
 8	cioè	cioè	CCONJ	_	_	7	cc	_	KID=184-6
 9	non	non	ADV	_	PronType=Neg	7	advmod	_	End=337.035|KID=184-7
@@ -1695,9 +1695,9 @@
 # speaker_id = BOR005
 1	quindi	quindi	CCONJ	_	_	7	cc	_	Begin=338.185|KID=185-0
 2	per	per	ADP	_	_	3	case	_	KID=185-1
-3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	7	obl	_	Clitic=Yes|KID=185-2
+3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	7	obl	_	KID=185-2
 4	non	non	ADV	_	PronType=Neg	7	advmod	_	KID=185-3
-5	c'	ci	PRON	_	PronType=Prs	7	expl	_	Clitic=Yes|KID=185-4|SpaceAfter=No
+5	c'	ci	PRON	_	PronType=Prs	7	expl	_	KID=185-4|SpaceAfter=No
 6	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=185-5
 7	stato	essere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=185-6
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=185-7
@@ -1759,7 +1759,7 @@
 2	ecco	ecco	ADV	_	_	5	advmod	_	KID=191-1|PaceFast=Yes
 3	nonostante	nonostante	ADP	_	_	5	case	_	KID=191-2
 4	queste	questo	DET	_	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	KID=191-3
-5	cose	cosa	NOUN	_	Gender=Fem|Number=Plur	0	root	_	End=351.445|Intonation=weakly_rising|KID=191-4
+5	cose	cosa	NOUN	_	Gender=Fem|Number=Plur	0	root	_	End=351.445|Intonation=WeaklyRising|KID=191-4
 
 # sent_id = PBB004_192_193
 # text = no no io preferisco bologna di altre città
@@ -1805,7 +1805,7 @@
 2	a	a	ADP	_	_	3	case	_	KID=196-1
 3	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	6	obl	_	KID=196-2
 4	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=196-3
-5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	iobj	_	Clitic=Yes|KID=196-4
+5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	iobj	_	KID=196-4
 6	piacerebbe	piacere	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=196-5
 7	abitare	abitare	VERB	_	VerbForm=Inf	6	xcomp	_	KID=196-6
 8	a	a	ADP	_	_	9	case	_	KID=196-7
@@ -1818,14 +1818,14 @@
 # jefferson_text = [che ne sai io::] non ci so~ [non ci sono]
 # speaker_id = BOI012
 1	che	che	SCONJ	_	_	3	mark	_	Begin=360.659|KID=197-0|OverlappingGroup=43
-2	ne	ne	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=197-1|OverlappingGroup=43
+2	ne	ne	PRON	_	PronType=Prs	3	expl	_	KID=197-1|OverlappingGroup=43
 3	sai	sapere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj:reform	_	KID=197-2|OverlappingGroup=43
 4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	KID=197-3|OverlappingGroup=43|Prolonged=Yes
 5	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=197-4
-6	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|KID=197-5
+6	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	KID=197-5
 7	so~	so~	PROPN	_	_	_	_	_	Interrupted=Yes|KID=197-6
 8	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=197-7|OverlappingGroup=44
-9	ci	ci	PRON	_	PronType=Prs	10	expl	_	Clitic=Yes|KID=197-8|OverlappingGroup=44
+9	ci	ci	PRON	_	PronType=Prs	10	expl	_	KID=197-8|OverlappingGroup=44
 10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=363.517|KID=197-9|OverlappingGroup=44
 
 # sent_id = PBB004_198
@@ -1896,15 +1896,15 @@
 6	confronto	confronto	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	KID=206-5
 7	perché	perché	SCONJ	_	_	15	mark	_	KID=206-6|PaceFast=Yes
 8	non	non	ADV	_	PronType=Neg	15	reparandum	_	KID=206-7|PaceFast=Yes
-9	ci	ci	PRON	_	PronType=Prs	15	reparandum	_	Clitic=Yes|KID=206-8|PaceFast=Yes
+9	ci	ci	PRON	_	PronType=Prs	15	reparandum	_	KID=206-8|PaceFast=Yes
 10	sei	essere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	reparandum	_	KID=206-9|PaceFast=Yes
 11	non	non	ADV	_	PronType=Neg	15	advmod	_	KID=206-10
-12	ci	ci	PRON	_	PronType=Prs	15	expl	_	Clitic=Yes|KID=206-11
+12	ci	ci	PRON	_	PronType=Prs	15	expl	_	KID=206-11
 13	sei	essere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	KID=206-12
 14	mai	mai	ADV	_	_	15	advmod	_	KID=206-13|OverlappingGroup=49
 15	abitata	abitare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	KID=206-14|OverlappingGroup=49
 16	di	di	ADP	_	_	17	case	_	KID=206-15
-17	fatto	fatto	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	End=374.955|Intonation=weakly_rising|KID=206-16
+17	fatto	fatto	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	End=374.955|Intonation=WeaklyRising|KID=206-16
 
 # sent_id = PBB004_207
 # text = certo
@@ -1928,7 +1928,7 @@
 # jefferson_text = ma si vedono le città cioè:: milano è: il doppio di bologna
 # speaker_id = BOI013
 1	ma	ma	CCONJ	_	_	3	cc	_	Begin=376.145|KID=209-0
-2	si	si	PRON	_	Person=3|PronType=Prs	3	expl:pass	_	Clitic=Yes|KID=209-1
+2	si	si	PRON	_	Person=3|PronType=Prs	3	expl:pass	_	KID=209-1
 3	vedono	vedere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=377.005|KID=209-2
 4	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	Begin=377.235|KID=210-0
 5	città	città	NOUN	_	Gender=Fem	3	nsubj	_	KID=210-1
@@ -1945,8 +1945,8 @@
 # jefferson_text = e allora? ci <devi> >vivere per forza peggio< a milano che a bologna
 # speaker_id = BOI012
 1	e	e	CCONJ	_	_	2	cc	_	Begin=380.655|KID=211-0
-2	allora	allora	ADV	_	_	5	advmod	_	End=381.365|Intonation=rising|KID=211-1
-3	ci	ci	PRON	_	PronType=Prs	5	expl	_	Begin=381.69|Clitic=Yes|KID=212-0
+2	allora	allora	ADV	_	_	5	advmod	_	End=381.365|Intonation=Rising|KID=211-1
+3	ci	ci	PRON	_	PronType=Prs	5	expl	_	Begin=381.69|KID=212-0
 4	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	KID=212-1|PaceSlow=Yes
 5	vivere	vivere	VERB	_	VerbForm=Inf	0	root	_	KID=212-2|PaceFast=Yes
 6	per	per	ADP	_	_	7	case	_	KID=212-3|PaceFast=Yes
@@ -1980,10 +1980,10 @@
 # jefferson_text = non [lo so °non] lo so° poi [magari]
 # speaker_id = BOI012
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=387.52|KID=216-0
-2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Clitic=Yes|KID=216-1|OverlappingGroup=50
+2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	KID=216-1|OverlappingGroup=50
 3	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=216-2|OverlappingGroup=50
 4	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=216-3|OverlappingGroup=50|Volume=low
-5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=216-4|Volume=low
+5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=216-4|Volume=low
 6	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	reparandum	_	KID=216-5|Volume=low
 7	poi	poi	ADV	_	_	6	advmod	_	KID=216-6
 8	magari	magari	ADV	_	_	6	advmod	_	End=389.33|KID=216-7|OverlappingGroup=51
@@ -2006,7 +2006,7 @@
 # jefferson_text = non lo so non ho mai abitato da: altre parti [quindi]
 # speaker_id = BOI012
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=389.975|KID=219-0
-2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Clitic=Yes|KID=219-1
+2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	KID=219-1
 3	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=219-2
 4	non	non	ADV	_	PronType=Neg	7	advmod	_	KID=219-3
 5	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	KID=219-4
@@ -2091,11 +2091,11 @@
 # speaker_id = BOI012
 1	abbastanza	abbastanza	ADV	_	_	2	advmod	_	Begin=408.72|KID=229-0|PaceFast=Yes
 2	grandino	grande	ADJ	_	Gender=Masc|Number=Sing	_	_	_	KID=229-1|PaceFast=Yes
-3	c'	ci	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=229-2|SpaceAfter=No
+3	c'	ci	PRON	_	PronType=Prs	4	expl	_	KID=229-2|SpaceAfter=No
 4	avrà	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj:reform	_	KID=229-3|Prolonged=Yes
 5	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=229-4
 6	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=410.76|KID=229-5
-7	quarantacinque	quarantacinque	SCONJ	_	_	9	nummod	_	Begin=411.9|Intonation=weakly_rising|KID=230-0|Prolonged=Yes
+7	quarantacinque	quarantacinque	SCONJ	_	_	9	nummod	_	Begin=411.9|Intonation=WeaklyRising|KID=230-0|Prolonged=Yes
 8	cinquantamila	cinquantamila	NUM	_	NumType=Card	9	nummod	_	KID=230-1
 9	abitanti	abitante	NOUN	_	Number=Plur	4	obj	_	End=413.91|KID=230-2
 
@@ -2141,7 +2141,7 @@
 13	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	KID=238-6
 14	che	che	SCONJ	_	_	15	mark	_	KID=238-7|PaceFast=Yes
 15	comunque	comunque	ADV	_	_	13	advmod	_	End=425.335|KID=238-8|PaceFast=Yes
-16	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	17	iobj	_	Begin=425.665|Clitic=Yes|KID=239-0
+16	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	17	iobj	_	Begin=425.665|KID=239-0
 17	capita	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	KID=239-1
 18	di	di	ADP	_	_	19	mark	_	KID=239-2
 19	stare	stare	VERB	_	VerbForm=Inf	17	xcomp	_	KID=239-3
@@ -2183,7 +2183,7 @@
 2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	KID=242-1
 3	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	dislocated	_	KID=242-2|OverlappingGroup=54
 4	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=242-3|OverlappingGroup=54
-5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=242-4|OverlappingGroup=54
+5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=242-4|OverlappingGroup=54
 6	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=435.57|KID=242-5|OverlappingGroup=54
 
 # sent_id = PBB004_243
@@ -2217,7 +2217,7 @@
 1	non	non	ADV	_	PronType=Neg	4	reparandum	_	Begin=438.515|KID=244-0|OverlappingGroup=55|PaceFast=Yes
 2	non	non	ADV	_	PronType=Neg	4	reparandum	_	KID=244-1|OverlappingGroup=55|PaceFast=Yes
 3	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=244-2|OverlappingGroup=55
-4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|KID=244-3|OverlappingGroup=55
+4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	KID=244-3|OverlappingGroup=55
 5	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=439.485|KID=244-4|OverlappingGroup=55
 
 # sent_id = PBB004_245
@@ -2226,7 +2226,7 @@
 # speaker_id = BOI012
 1	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=440.615|KID=245-0|OverlappingGroup=56
 2	mh	mh	INTJ	_	_	4	discourse	_	KID=245-1|OverlappingGroup=56
-3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=245-2|OverlappingGroup=56
+3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=245-2|OverlappingGroup=56
 4	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=245-3
 5	cosa	cosa	PRON	_	Number=Sing|PronType=Int	6	obj	_	KID=245-4
 6	fanno	fare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	KID=245-5
@@ -2288,7 +2288,7 @@
 4	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	KID=252-2|Volume=low
 5	boh	boh	INTJ	_	_	8	discourse	_	KID=252-3|PaceFast=Yes|Volume=low
 6	non	non	ADV	_	PronType=Neg	8	advmod	_	KID=252-4|PaceFast=Yes|Volume=low
-7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=252-5|PaceFast=Yes|Volume=low
+7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=252-5|PaceFast=Yes|Volume=low
 8	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=456.82|KID=252-6|PaceFast=Yes|Volume=low
 
 # sent_id = PBB004_253_254_PBB004_256
@@ -2373,13 +2373,13 @@
 # text = ci noi ci siamo andati tis~ ti ricordi ve
 # jefferson_text = °ci: noi ci siamo andati° tis~ ti ricordi ve
 # speaker_id = BOI013
-1	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	reparandum	_	Begin=476.185|Clitic=Yes|KID=261-0|Prolonged=Yes|Volume=low
+1	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	reparandum	_	Begin=476.185|KID=261-0|Prolonged=Yes|Volume=low
 2	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	KID=261-1|Volume=low
-3	ci	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=261-2|Volume=low
+3	ci	ci	PRON	_	PronType=Prs	5	expl	_	KID=261-2|Volume=low
 4	siamo	essere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=261-3|Volume=low
 5	andati	andare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	End=477.255|KID=261-4|Volume=low
 6	tis~	X	X	_	_	_	_	_	Begin=478.32|Interrupted=Yes|KID=262-0
-7	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	8	expl	_	Clitic=Yes|KID=262-1
+7	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	8	expl	_	KID=262-1
 8	ricordi	ricordare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj:reform	_	KID=262-2
 9	ve	vero	ADV	_	Number=Plur|Person=2|PronType=Prs	8	advmod	_	Clitic=Yes|End=479.61|KID=262-3
 
@@ -2449,12 +2449,12 @@
 # jefferson_text = [e c]om'era l'ultimo che ci siamo andati
 # speaker_id = BOI013
 1	e	e	CCONJ	_	_	5	cc	_	Begin=491.25|KID=268-0|OverlappingGroup=59
-2	com'	come	PRON	_	Number=Sing|Person=1|PronType=Prs	3	mark	_	Clitic=Yes|KID=268-1|OverlappingGroup=59|SpaceAfter=No
+2	com'	come	PRON	_	Number=Sing|Person=1|PronType=Prs	3	mark	_	KID=268-1|OverlappingGroup=59|SpaceAfter=No
 3	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	KID=268-2
 4	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=268-3|SpaceAfter=No
 5	ultimo	ultimo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=268-4
 6	che	che	PRON	_	PronType=Rel	9	obj	_	KID=268-5
-7	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	9	expl	_	Clitic=Yes|KID=268-6
+7	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	9	expl	_	KID=268-6
 8	siamo	essere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	KID=268-7
 9	andati	andare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl:relcl	_	End=493.06|KID=268-8
 
@@ -2463,13 +2463,13 @@
 # jefferson_text = ma c'era (u)na gran confusione ma si sa è logico
 # speaker_id = BOI012
 1	ma	ma	CCONJ	_	_	3	cc	_	Begin=493.585|KID=269-0
-2	c'	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=269-1|SpaceAfter=No
+2	c'	ci	PRON	_	PronType=Prs	3	expl	_	KID=269-1|SpaceAfter=No
 3	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=269-2
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=269-3
 5	gran	grande	ADJ	_	Number=Sing	6	amod	_	KID=269-4
 6	confusione	confusione	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	KID=269-5
 7	ma	ma	CCONJ	_	_	9	cc	_	KID=269-6
-8	si	si	PRON	_	Person=3|PronType=Prs	9	expl:impers	_	Clitic=Yes|KID=269-7
+8	si	si	PRON	_	Person=3|PronType=Prs	9	expl:impers	_	KID=269-7
 9	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	KID=269-8
 10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	KID=269-9
 11	logico	logico	ADJ	_	Gender=Masc|Number=Sing	9	conj:reform	_	End=496.285|KID=269-10
@@ -2478,18 +2478,18 @@
 # text = bottiglie per terra macchine bruciate questo in via sant'isaia te lo ricordi no io
 # jefferson_text = bottiglie, per terra, macchine bruciate, questo: in via sant'isaia te lo ricordi no io
 # speaker_id = BOI013
-1	bottiglie	bottiglia	NOUN	_	Gender=Fem|Number=Plur	13	conj:reform	_	Begin=496.305|End=497.275|Intonation=weakly_rising|KID=270-0
+1	bottiglie	bottiglia	NOUN	_	Gender=Fem|Number=Plur	13	conj:reform	_	Begin=496.305|End=497.275|Intonation=WeaklyRising|KID=270-0
 2	per	per	ADP	_	_	3	case	_	Begin=499.97|KID=271-0
-3	terra	terra	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	End=500.82|Intonation=weakly_rising|KID=271-1
+3	terra	terra	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	End=500.82|Intonation=WeaklyRising|KID=271-1
 4	macchine	macchina	NOUN	_	Gender=Fem|Number=Plur	1	conj:reform	_	Begin=501.205|KID=272-0
-5	bruciate	bruciato	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	Intonation=weakly_rising|KID=272-1
+5	bruciate	bruciato	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	Intonation=WeaklyRising|KID=272-1
 6	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	nmod	_	KID=272-2|Prolonged=Yes
 7	in	in	ADP	_	_	8	case	_	KID=272-3
 8	via	via	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	KID=272-4
 9	sant'	sant'	ADJ	_	Number=Sing	10	amod	_	KID=272-5|SpaceAfter=No
 10	isaia	Isaia	PROPN	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	nmod	_	KID=272-6
-11	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	13	expl	_	Clitic=Yes|KID=272-7
-12	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	Clitic=Yes|KID=272-8
+11	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	13	expl	_	KID=272-7
+12	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	KID=272-8
 13	ricordi	ricordare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=272-9
 14	no	no	ADV	_	PronType=Neg	13	advmod	_	KID=272-10
 15	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	14	discourse	_	End=505.365|KID=272-11
@@ -2503,8 +2503,8 @@
 3	che	che	PRON	_	PronType=Rel	4	nsubj	_	KID=273-2
 4	bruciava	bruciare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	acl:relcl	_	KID=273-3
 5	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=273-4
-6	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	7	expl	_	Clitic=Yes|KID=273-5
-7	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=273-6
+6	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	7	expl	_	KID=273-5
+7	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=273-6
 8	ricordo	ricordare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=507.885|KID=273-7|OverlappingGroup=60
 
 # sent_id = PBB004_274
@@ -2517,21 +2517,21 @@
 4	sì	sì	ADV	_	_	2	advmod	_	KID=274-3
 5	perché	perché	SCONJ	_	_	9	mark	_	KID=274-4
 6	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	KID=274-5
-7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	Clitic=Yes|KID=274-6
+7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	KID=274-6
 8	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	KID=274-7
 9	presa	prendere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=274-8
-10	paura	paura	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	End=509.915|Intonation=weakly_rising|KID=274-9
+10	paura	paura	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	End=509.915|Intonation=WeaklyRising|KID=274-9
 
 # sent_id = PBB004_275
 # text = ah c'era una macchina bruciata
 # jefferson_text = ah c'era una macchina bruciata?
 # speaker_id = BOR005
 1	ah	ah	INTJ	_	_	3	discourse	_	Begin=511.06|KID=275-0
-2	c'	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=275-1|SpaceAfter=No
+2	c'	ci	PRON	_	PronType=Prs	3	expl	_	KID=275-1|SpaceAfter=No
 3	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=275-2
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=275-3
 5	macchina	macchina	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	KID=275-4
-6	bruciata	bruciato	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	amod	_	End=512.29|Intonation=rising|KID=275-5
+6	bruciata	bruciato	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	amod	_	End=512.29|Intonation=Rising|KID=275-5
 
 # sent_id = PBB004_276
 # text = sì
@@ -2575,7 +2575,7 @@
 6	cioè	cioè	CCONJ	_	_	8	cc	_	KID=278-5|PaceFast=Yes
 7	voglio	volere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	KID=278-6|PaceFast=Yes
 8	dire	dire	VERB	_	VerbForm=Inf	0	root	_	KID=278-7|PaceFast=Yes
-9	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	8	expl	_	Clitic=Yes|KID=278-8
+9	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	8	expl	_	KID=278-8
 10	puoi	potere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	KID=278-9
 11	andare	andare	VERB	_	VerbForm=Inf	8	conj:reform	_	KID=278-10
 12	con	con	ADP	_	_	13	case	_	KID=278-11
@@ -2593,7 +2593,7 @@
 3	che	che	SCONJ	_	_	2	fixed	_	KID=281-1
 4	parliamo	parlare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	advcl	_	KID=281-2
 5	di	di	ADP	_	_	6	case	_	KID=281-3
-6	bologna	Bologna	PROPN	_	Gender=Fem|Number=Sing	4	obl	_	Intonation=weakly_rising|KID=281-4
+6	bologna	Bologna	PROPN	_	Gender=Fem|Number=Sing	4	obl	_	Intonation=WeaklyRising|KID=281-4
 7	uh	uh	INTJ	_	_	6	discourse	_	KID=281-5|Prolonged=Yes
 8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=281-6
 9	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	KID=281-7
@@ -2625,7 +2625,7 @@
 14	esperienza	esperienza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	End=540.305|KID=284-2|Prolonged=Yes
 15	che	che	SCONJ	_	_	17	obj	_	Begin=540.605|KID=285-0
 16	vi	vi	PRON	_	_	17	expl	_	KID=285-1
-17	ricordate	ricordare	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	14	advcl:relcl	_	Intonation=weakly_rising|KID=285-2
+17	ricordate	ricordare	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	14	advcl:relcl	_	Intonation=WeaklyRising|KID=285-2
 18	che	che	SCONJ	_	_	21	nsubj	_	KID=285-3
 19	vi	vi	PRON	_	_	21	expl	_	KID=285-4
 20	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux:pass	_	KID=285-5
@@ -2667,7 +2667,7 @@
 1	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Begin=551.925|KID=288-0
 2	murales	murales	NOUN	_	_	0	root	_	End=552.905|KID=288-1
 3	che	che	SCONJ	_	_	5	nsubj	_	Begin=553.995|KID=290-0|OverlappingGroup=61
-4	ci	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=290-1|OverlappingGroup=61
+4	ci	ci	PRON	_	PronType=Prs	5	expl	_	KID=290-1|OverlappingGroup=61
 5	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	KID=290-2
 6	in	in	ADP	_	_	8	case	_	KID=290-4
 7	alcuni	alcuno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	KID=290-5
@@ -2694,7 +2694,7 @@
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=292-5|OverlappingGroup=62
 8	gente	gente	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=292-6
 9	che	che	PRON	_	PronType=Rel	11	nsubj	_	KID=292-7
-10	si	si	PRON	_	Person=3|PronType=Prs	11	expl	_	Clitic=Yes|KID=292-8
+10	si	si	PRON	_	Person=3|PronType=Prs	11	expl	_	KID=292-8
 11	fermava	fermare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	KID=292-9
 12	a	a	ADP	_	_	13	mark	_	KID=292-10
 13	suonare	suonare	VERB	_	VerbForm=Inf	11	xcomp	_	KID=292-11
@@ -2751,7 +2751,7 @@
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=298-3
 5	portici	portico	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	End=569.99|KID=298-4|OverlappingGroup=63
 6	non	non	ADV	_	PronType=Neg	10	advmod	_	Begin=570.225|KID=300-0|OverlappingGroup=64
-7	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	Clitic=Yes|KID=300-1|OverlappingGroup=64
+7	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	KID=300-1|OverlappingGroup=64
 8	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	KID=300-2|OverlappingGroup=64
 9	mai	mai	ADV	_	_	10	advmod	_	KID=300-3|OverlappingGroup=64
 10	visti	vedere	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	End=571.135|KID=300-4|OverlappingGroup=64
@@ -2760,7 +2760,7 @@
 # text = ci sono dei
 # jefferson_text = [ci s]ono [dei (.) sì so~] sì sì
 # speaker_id = BOI013
-1	ci	ci	PRON	_	PronType=Prs	2	expl	_	Begin=569.82|Clitic=Yes|KID=299-0|OverlappingGroup=63
+1	ci	ci	PRON	_	PronType=Prs	2	expl	_	Begin=569.82|KID=299-0|OverlappingGroup=63
 2	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=299-1|OverlappingGroup=63
 3	dei	del	DET	_	_	2	obj	_	_
 
@@ -2795,7 +2795,7 @@
 # jefferson_text = [non c'ho fatto caso]
 # speaker_id = BOI012
 1	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=572.25|KID=304-0|OverlappingGroup=65
-2	c'	ci	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=304-1|OverlappingGroup=65|SpaceAfter=No
+2	c'	ci	PRON	_	PronType=Prs	4	expl	_	KID=304-1|OverlappingGroup=65|SpaceAfter=No
 3	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	KID=304-2|OverlappingGroup=65
 4	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=304-3|OverlappingGroup=65
 5	caso	caso	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	End=572.99|KID=304-4|OverlappingGroup=65
@@ -2811,7 +2811,7 @@
 5	centro	centro	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	KID=305-4
 6	storico	storico	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	KID=305-5
 7	eh	eh	INTJ	_	_	9	discourse	_	End=577.17|KID=305-6|Prolonged=Yes
-8	ci	ci	PRON	_	PronType=Prs	9	expl	_	Begin=577.39|Clitic=Yes|KID=306-0
+8	ci	ci	PRON	_	PronType=Prs	9	expl	_	Begin=577.39|KID=306-0
 9	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=578.04|KID=306-1
 
 # sent_id = PBB004_307
@@ -2903,7 +2903,7 @@
 # jefferson_text = [via indipendenza],
 # speaker_id = BOI013
 1	via	via	NOUN	_	_	0	root	_	Begin=594.35|KID=316-0|OverlappingGroup=68
-2	indipendenza	Indipendenza	PROPN	_	Gender=Fem|Number=Sing	1	nmod	_	End=595.75|Intonation=weakly_rising|KID=316-1|OverlappingGroup=68
+2	indipendenza	Indipendenza	PROPN	_	Gender=Fem|Number=Sing	1	nmod	_	End=595.75|Intonation=WeaklyRising|KID=316-1|OverlappingGroup=68
 
 # sent_id = PBB004_317
 # text = anche a te è capitato di suonarci
@@ -2994,8 +2994,8 @@
 # jefferson_text = in piazza, maggiore, anche avo[glia]
 # speaker_id = BOI012
 1	in	in	ADP	_	_	2	case	_	Begin=620.32|KID=331-0
-2	piazza	piazza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Intonation=weakly_rising|KID=331-1
-3	maggiore	Maggiore	ADJ	_	Degree=Cmp|Number=Sing	2	amod	_	Intonation=weakly_rising|KID=331-2
+2	piazza	piazza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Intonation=WeaklyRising|KID=331-1
+3	maggiore	Maggiore	ADJ	_	Degree=Cmp|Number=Sing	2	amod	_	Intonation=WeaklyRising|KID=331-2
 4	anche	anche	ADV	_	_	3	advmod	_	KID=331-3
 5	avoglia	avoglia	INTJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	discourse	_	End=622.15|KID=331-4|OverlappingGroup=69
 
@@ -3064,7 +3064,7 @@
 12	stati	essere	AUX	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	acl:relcl	_	KID=339-8
 13	a	a	ADP	_	_	14	case	_	KID=339-9
 14	san	San	ADJ	_	Gender=Fem|Number=Sing	12	obl	_	KID=339-10|PaceSlow=Yes
-15	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	14	nmod	_	End=635.66|Intonation=rising|KID=339-11|PaceSlow=Yes
+15	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	14	nmod	_	End=635.66|Intonation=Rising|KID=339-11|PaceSlow=Yes
 
 # sent_id = PBB004_340
 # text = bah io non mi ric~
@@ -3073,7 +3073,7 @@
 1	bah	bah	INTJ	_	_	5	discourse	_	Begin=637.085|KID=340-0|Prolonged=Yes
 2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	KID=340-1
 3	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=340-2|OverlappingGroup=71
-4	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=340-3|OverlappingGroup=71
+4	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	expl	_	KID=340-3|OverlappingGroup=71
 5	ric~	X	X	_	_	0	root	_	End=637.975|Interrupted=Yes|KID=340-4|OverlappingGroup=71
 
 # sent_id = PBB004_341
@@ -3092,9 +3092,9 @@
 # jefferson_text = mh bambino, anch'io, da piccolo [con i miei genitori]
 # speaker_id = BOI012
 1	mh	mh	INTJ	_	_	2	discourse	_	Begin=639.22|KID=342-0
-2	bambino	bambino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Intonation=weakly_rising|KID=342-1
+2	bambino	bambino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Intonation=WeaklyRising|KID=342-1
 3	anch'	anche	ADV	_	_	2	advmod	_	KID=342-2|SpaceAfter=No
-4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nmod	_	Intonation=weakly_rising|KID=342-3
+4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nmod	_	Intonation=WeaklyRising|KID=342-3
 5	da	da	ADP	_	_	6	case	_	KID=342-4
 6	piccolo	piccolo	ADJ	_	Gender=Masc|Number=Sing	4	nmod	_	KID=342-5
 7	con	con	ADP	_	_	10	case	_	KID=342-6|OverlappingGroup=72
@@ -3129,7 +3129,7 @@
 8	tutti	tutto	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det:predet	_	KID=345-7
 9	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=345-8
 10	portici	portico	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	KID=345-9
-11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	13	iobj	_	Clitic=Yes|KID=345-10|PaceFast=Yes
+11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	13	iobj	_	KID=345-10|PaceFast=Yes
 12	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	KID=345-11|PaceFast=Yes
 13	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=345-12|PaceFast=Yes
 14	fare	fare	VERB	_	VerbForm=Inf	13	xcomp	_	KID=345-13|PaceFast=Yes
@@ -3226,7 +3226,7 @@
 # speaker_id = BOR005
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=664.57|End=664.92|KID=354-0|Prolonged=Yes
 2	ah	ah	INTJ	_	_	4	discourse	_	Begin=665.625|KID=356-0|OverlappingGroup=76
-3	c'	ci	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=356-1|SpaceAfter=No
+3	c'	ci	PRON	_	PronType=Prs	4	expl	_	KID=356-1|SpaceAfter=No
 4	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=356-2
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=356-3
 6	funivia	funivia	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	End=666.585|KID=356-4|OverlappingGroup=77
@@ -3253,7 +3253,7 @@
 # speaker_id = BOR005
 1	quanti	quanto	DET	_	Gender=Masc|Number=Plur|PronType=Int	2	det	_	Begin=668.285|KID=359-0
 2	anni	anno	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=359-1
-3	fa	fa	ADV	_	_	2	advmod	_	End=669.035|Intonation=rising|KID=359-2
+3	fa	fa	ADV	_	_	2	advmod	_	End=669.035|Intonation=Rising|KID=359-2
 
 # sent_id = PBB004_360_361_PBB004_362
 # text = eh uff anni e anni fa non so quaranta o cinquant'anni fa forse cinquanta
@@ -3267,13 +3267,13 @@
 6	fa	fa	ADV	_	_	3	advmod	_	KID=361-3|Prolonged=Yes
 7	non	non	ADV	_	PronType=Neg	8	advmod	_	KID=361-4
 8	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=672.0|KID=361-5
-9	quaranta	quaranta	NUM	_	NumType=Card	12	nummod	_	Begin=672.555|Intonation=weakly_rising|KID=362-0
+9	quaranta	quaranta	NUM	_	NumType=Card	12	nummod	_	Begin=672.555|Intonation=WeaklyRising|KID=362-0
 10	o	o	CCONJ	_	_	12	cc	_	KID=362-1
 11	cinquant'	cinquanta	NUM	_	NumType=Card	12	nummod	_	KID=362-2|SpaceAfter=No
 12	anni	anno	NOUN	_	Gender=Masc|Number=Plur	8	conj:reform	_	KID=362-3
-13	fa	fa	ADV	_	_	12	advmod	_	Intonation=weakly_rising|KID=362-4
+13	fa	fa	ADV	_	_	12	advmod	_	Intonation=WeaklyRising|KID=362-4
 14	forse	forse	ADV	_	_	12	advmod	_	KID=362-5
-15	cinquanta	cinquanta	NUM	_	NumType=Card	14	nummod	_	End=675.195|Intonation=weakly_rising|KID=362-6|OverlappingGroup=78
+15	cinquanta	cinquanta	NUM	_	NumType=Card	14	nummod	_	End=675.195|Intonation=WeaklyRising|KID=362-6|OverlappingGroup=78
 
 # sent_id = PBB004_363_364
 # text = no federico ci è andato con la funivia
@@ -3281,7 +3281,7 @@
 # speaker_id = BOI013
 1	no	no	ADV	_	PronType=Neg	5	advmod	_	Begin=674.505|End=675.085|KID=363-0|OverlappingGroup=78|Prolonged=Yes|Volume=high
 2	federico	Federico	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	Begin=675.565|KID=364-0|PaceSlow=Yes
-3	ci	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=364-1|PaceSlow=Yes
+3	ci	ci	PRON	_	PronType=Prs	5	expl	_	KID=364-1|PaceSlow=Yes
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=364-2|PaceSlow=Yes
 5	andato	andare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=364-3|PaceSlow=Yes
 6	con	con	ADP	_	_	8	case	_	KID=364-4|PaceSlow=Yes
@@ -3336,7 +3336,7 @@
 # speaker_id = BOI013
 1	no	no	ADV	_	PronType=Neg	4	advmod	_	Begin=684.875|KID=369-0
 2	qualcosa	qualcosa	PRON	_	Number=Sing|PronType=Ind	4	nsubj	_	KID=369-1
-3	ci	ci	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=369-2|OverlappingGroup=79
+3	ci	ci	PRON	_	PronType=Prs	4	expl	_	KID=369-2|OverlappingGroup=79
 4	doveva	dovere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=369-3|OverlappingGroup=79
 5	essere	essere	AUX	_	VerbForm=Inf	4	xcomp	_	End=686.505|KID=369-4|OverlappingGroup=79
 
@@ -3362,12 +3362,12 @@
 2	da	da	ADP	_	_	3	reparandum	_	KID=372-2|Prolonged=Yes
 3	da	da	ADP	_	_	7	case	_	KID=372-3|Prolonged=Yes
 4	come	come	SCONJ	_	_	6	fixed	_	KID=372-4|PaceFast=Yes
-5	si	si	PRON	_	Person=3|PronType=Prs	6	expl	_	Clitic=Yes|KID=372-5|PaceFast=Yes
+5	si	si	PRON	_	Person=3|PronType=Prs	6	expl	_	KID=372-5|PaceFast=Yes
 6	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	KID=372-6|PaceFast=Yes
 7	via	via	ADV	_	_	1	obl	_	KID=372-7|PauseAfter=Yes
-8	porrettana	Porrettana	PROPN	_	Gender=Fem|Number=Sing	7	nmod	_	Intonation=rising|KID=372-9
-9	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	Clitic=Yes|KID=372-10|OverlappingGroup=80|PaceFast=Yes
-10	sembra	sembrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis:insert	_	End=696.13|Intonation=rising|KID=372-11|OverlappingGroup=80|PaceFast=Yes
+8	porrettana	Porrettana	PROPN	_	Gender=Fem|Number=Sing	7	nmod	_	Intonation=Rising|KID=372-9
+9	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	KID=372-10|OverlappingGroup=80|PaceFast=Yes
+10	sembra	sembrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis:insert	_	End=696.13|Intonation=Rising|KID=372-11|OverlappingGroup=80|PaceFast=Yes
 
 # sent_id = PBB004_373
 # text = mhmh
@@ -3389,7 +3389,7 @@
 # text = okay
 # jefferson_text = okay?
 # speaker_id = BOR005
-1	okay	okay	INTJ	_	_	0	root	_	Begin=698.585|End=698.935|Intonation=rising|KID=375-0
+1	okay	okay	INTJ	_	_	0	root	_	Begin=698.585|End=698.935|Intonation=Rising|KID=375-0
 
 # sent_id = PBB004_376_377
 # text = cioè proprio c'era la stazione della funivia e andava su fino a san luca
@@ -3426,10 +3426,10 @@
 1	e	e	CCONJ	_	_	6	cc	_	Begin=703.9|KID=379-0|PaceFast=Yes
 2	anche	anche	ADV	_	_	6	advmod	_	KID=379-1|PaceFast=Yes|PauseAfter=Yes
 3	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	KID=379-3
-4	l'	il	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=379-4|SpaceAfter=No
+4	l'	il	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=379-4|SpaceAfter=No
 5	hai	avere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	KID=379-5
 6	presa	prendere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=379-6|OverlappingGroup=82
-7	mai	mai	ADV	_	_	6	advmod	_	End=705.3|Intonation=rising|KID=379-7|OverlappingGroup=82
+7	mai	mai	ADV	_	_	6	advmod	_	End=705.3|Intonation=Rising|KID=379-7|OverlappingGroup=82
 
 # sent_id = PBB004_380
 # text = no no no no
@@ -3491,7 +3491,7 @@
 10	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	KID=386-4
 11	che	che	PRON	_	PronType=Rel	14	nsubj	_	KID=386-5
 12	non	non	ADV	_	PronType=Neg	14	advmod	_	KID=386-6
-13	c'	ci	PRON	_	PronType=Prs	14	expl	_	Clitic=Yes|KID=386-7|SpaceAfter=No
+13	c'	ci	PRON	_	PronType=Prs	14	expl	_	KID=386-7|SpaceAfter=No
 14	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	KID=386-8
 15	più	più	ADV	_	_	14	advmod	_	End=714.515|KID=386-9
 
@@ -3505,7 +3505,7 @@
 # text = ci son stato proprio da da piccolo cioè
 # jefferson_text = >ci son stato proprio da:: da< piccolo (.) cioè
 # speaker_id = BOI012
-1	ci	ci	PRON	_	PronType=Prs	3	expl	_	Begin=714.97|Clitic=Yes|KID=388-0|PaceFast=Yes
+1	ci	ci	PRON	_	PronType=Prs	3	expl	_	Begin=714.97|KID=388-0|PaceFast=Yes
 2	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	KID=388-1|PaceFast=Yes
 3	stato	essere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=388-2|PaceFast=Yes
 4	proprio	proprio	ADV	_	_	3	advmod	_	KID=388-3|PaceFast=Yes
@@ -3526,7 +3526,7 @@
 6	legato	legare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	KID=390-1|Prolonged=Yes
 7	a	a	ADP	_	_	8	case	_	KID=390-2
 8	san	San	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	KID=390-3
-9	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	6	obl	_	End=722.685|Intonation=rising|KID=390-4
+9	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	6	obl	_	End=722.685|Intonation=Rising|KID=390-4
 
 # sent_id = PBB004_391_392
 # text = un'esperienza di cui vi ricordate particolarmente
@@ -3536,7 +3536,7 @@
 2	esperienza	esperienza	NOUN	_	Gender=Fem|Number=Sing	6	dislocated	_	End=724.37|KID=391-1
 3	di	di	ADP	_	_	4	case	_	Begin=724.675|KID=392-0
 4	cui	cui	PRON	_	PronType=Rel	6	obl	_	KID=392-1
-5	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	6	obj	_	Clitic=Yes|KID=392-2
+5	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	6	obj	_	KID=392-2
 6	ricordate	ricordare	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=392-3
 7	particolarmente	particolare	ADV	_	_	6	advmod	_	End=726.855|KID=392-4
 
@@ -3553,7 +3553,7 @@
 # jefferson_text = >che ci sono andata con don stefano io< il mio parroco
 # speaker_id = BOI013
 1	che	che	SCONJ	_	_	4	mark	_	Begin=732.26|KID=394-0|PaceFast=Yes
-2	ci	ci	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=394-1|PaceFast=Yes
+2	ci	ci	PRON	_	PronType=Prs	4	expl	_	KID=394-1|PaceFast=Yes
 3	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	KID=394-2|PaceFast=Yes
 4	andata	andare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=394-3|PaceFast=Yes
 5	con	con	ADP	_	_	6	case	_	KID=394-4|PaceFast=Yes
@@ -3570,15 +3570,15 @@
 # speaker_id = BOI012
 1	no	no	ADV	_	PronType=Neg	6	advmod	_	Begin=738.56|KID=396-0|Prolonged=Yes
 2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	KID=396-1
-3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|KID=396-2
+3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	expl	_	KID=396-2
 4	ricordo	ricordare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	reparandum	_	KID=396-3|Prolonged=Yes
-5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|KID=396-4
+5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	expl	_	KID=396-4
 6	ricordo	ricordare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=396-5|Prolonged=Yes
 7	com'	come	SCONJ	_	_	6	advmod	_	KID=396-6|SpaceAfter=No
 8	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	End=741.19|KID=396-7
 9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Begin=741.4|KID=397-0
-10	basilica	basilica	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	Intonation=weakly_rising|KID=397-1
-11	dentro	dentro	ADV	_	_	10	advmod	_	Intonation=weakly_rising|KID=397-2
+10	basilica	basilica	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	Intonation=WeaklyRising|KID=397-1
+11	dentro	dentro	ADV	_	_	10	advmod	_	Intonation=WeaklyRising|KID=397-2
 12	ma	ma	CCONJ	_	_	11	cc	_	KID=397-3|Prolonged=Yes
 13	non	non	ADV	_	PronType=Neg	11	advmod	_	End=743.14|KID=397-4
 
@@ -3642,10 +3642,10 @@
 # speaker_id = BOI012
 1	sì	sì	ADV	_	_	7	advmod	_	Begin=752.01|KID=403-0
 2	perché	perché	SCONJ	_	_	7	mark	_	KID=403-1
-3	c'	ci	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=403-2|SpaceAfter=No
+3	c'	ci	PRON	_	PronType=Prs	4	expl	_	KID=403-2|SpaceAfter=No
 4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	KID=403-3|Prolonged=Yes
 5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	obj	_	End=753.29|KID=403-4|Prolonged=Yes
-6	c'	ci	PRON	_	PronType=Prs	7	expl	_	Begin=753.92|Clitic=Yes|KID=404-0|SpaceAfter=No
+6	c'	ci	PRON	_	PronType=Prs	7	expl	_	Begin=753.92|KID=404-0|SpaceAfter=No
 7	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=404-1
 8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	obj	_	KID=404-2
 9	vecchia	vecchio	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	End=755.37|KID=404-3|OverlappingGroup=85|Prolonged=Yes
@@ -3691,7 +3691,7 @@
 # speaker_id = BOR005
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=761.745|End=762.265|KID=408-0|Prolonged=Yes
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=762.375|KID=409-0
-3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=409-1|OverlappingGroup=86
+3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=409-1|OverlappingGroup=86
 4	sapevo	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	End=763.225|KID=409-2|OverlappingGroup=86,87
 
 # sent_id = PBB004_410
@@ -3704,7 +3704,7 @@
 # text = vedi
 # jefferson_text = vedi?
 # speaker_id = BOI013
-1	vedi	vedere	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=763.17|End=763.67|Intonation=rising|KID=411-0
+1	vedi	vedere	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=763.17|End=763.67|Intonation=Rising|KID=411-0
 
 # sent_id = PBB004_412
 # text = un po' come i laureandi non devono andare sulla torre degli asinelli se no non si laureano
@@ -3767,9 +3767,9 @@
 # jefferson_text = [ah sì]? >non lo sa[pevo mi~<]
 # speaker_id = BOI013
 1	ah	ah	INTJ	_	_	5	discourse	_	Begin=773.255|KID=417-0|OverlappingGroup=89
-2	sì	sì	ADV	_	_	1	advmod	_	End=773.875|Intonation=rising|KID=417-1|OverlappingGroup=89
+2	sì	sì	ADV	_	_	1	advmod	_	End=773.875|Intonation=Rising|KID=417-1|OverlappingGroup=89
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	Begin=774.37|KID=418-0|PaceFast=Yes
-4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|KID=418-1|PaceFast=Yes
+4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	KID=418-1|PaceFast=Yes
 5	sapevo	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	KID=418-2|OverlappingGroup=90|PaceFast=Yes
 6	mi~	X	X	_	_	_	_	_	End=775.08|Interrupted=Yes|KID=418-3|OverlappingGroup=90|PaceFast=Yes
 
@@ -3780,13 +3780,13 @@
 1	sai	sapere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=774.735|KID=419-0|OverlappingGroup=90
 2	quante	quanto	DET	_	Gender=Fem|Number=Plur|PronType=Int	3	det	_	KID=419-1|OverlappingGroup=90
 3	volte	volta	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	KID=419-2
-4	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=419-3|SpaceAfter=No
+4	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=419-3|SpaceAfter=No
 5	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	KID=419-4
-6	attraversata	attraversare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	xcomp	_	Intonation=weakly_rising|KID=419-5
+6	attraversata	attraversare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	xcomp	_	Intonation=WeaklyRising|KID=419-5
 7	per	per	ADP	_	_	8	case	_	KID=419-6
-8	diagonale	diagonale	ADJ	_	Number=Sing	6	obl	_	Intonation=weakly_rising|KID=419-7
+8	diagonale	diagonale	ADJ	_	Number=Sing	6	obl	_	Intonation=WeaklyRising|KID=419-7
 9	piazza	piazza	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	KID=419-8
-10	maggiore	Maggiore	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	Intonation=weakly_rising|KID=419-9
+10	maggiore	Maggiore	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	Intonation=WeaklyRising|KID=419-9
 11	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	End=777.965|KID=419-10|Volume=low
 
 # sent_id = PBB004_420
@@ -3795,7 +3795,7 @@
 # speaker_id = BOI013
 1	ma	ma	CCONJ	_	_	5	cc	_	Begin=778.615|KID=420-0
 2	mica	mica	ADV	_	PronType=Neg	5	advmod	_	KID=420-1
-3	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obj	_	Clitic=Yes|KID=420-2
+3	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obj	_	KID=420-2
 4	dovevi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	KID=420-3
 5	laureare	laureare	VERB	_	VerbForm=Inf	0	root	_	KID=420-4
 6	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	End=780.325|KID=420-5
@@ -3810,7 +3810,7 @@
 4	ma	ma	CCONJ	_	_	9	cc	_	KID=422-3|PaceFast=Yes
 5	infatti	infatti	ADV	_	_	9	advmod	_	KID=422-4|PaceFast=Yes
 6	non	non	ADV	_	PronType=Neg	9	advmod	_	KID=422-5|PaceFast=Yes
-7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obj	_	Clitic=Yes|KID=422-6|PaceFast=Yes
+7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obj	_	KID=422-6|PaceFast=Yes
 8	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	KID=422-7|PaceFast=Yes
 9	laureato	laureare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	KID=422-8|PaceFast=Yes
 10	ma	ma	CCONJ	_	_	12	cc	_	KID=422-9
@@ -3885,7 +3885,7 @@
 6	a	a	ADP	_	_	7	case	_	KID=434-5
 7	san	San	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	KID=434-6
 8	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	11	obl	_	KID=434-7
-9	ci	ci	PRON	_	PronType=Prs	11	expl	_	Clitic=Yes|KID=434-8
+9	ci	ci	PRON	_	PronType=Prs	11	expl	_	KID=434-8
 10	sei	essere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	KID=434-9
 11	andato	andare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=434-10
 12	parecchie	parecchio	DET	_	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	KID=434-11
@@ -3904,18 +3904,18 @@
 # jefferson_text = >ma c'andavi di più con la famiglia:, con gli amici:<, con gina::,
 # speaker_id = BOR005
 1	ma	ma	CCONJ	_	_	3	cc	_	Begin=810.46|KID=437-0|PaceFast=Yes
-2	c'	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=437-1|PaceFast=Yes|SpaceAfter=No
+2	c'	ci	PRON	_	PronType=Prs	3	expl	_	KID=437-1|PaceFast=Yes|SpaceAfter=No
 3	andavi	andare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=437-2|PaceFast=Yes
 4	di	di	ADP	_	_	5	case	_	KID=437-3|PaceFast=Yes
 5	più	più	ADV	_	_	3	advmod	_	KID=437-4|PaceFast=Yes
 6	con	con	ADP	_	_	8	case	_	KID=437-5|PaceFast=Yes
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=437-6|PaceFast=Yes
-8	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	Intonation=weakly_rising|KID=437-7|PaceFast=Yes|Prolonged=Yes
+8	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	Intonation=WeaklyRising|KID=437-7|PaceFast=Yes|Prolonged=Yes
 9	con	con	ADP	_	_	11	case	_	KID=437-8|PaceFast=Yes
 10	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=437-9|PaceFast=Yes
-11	amici	amico	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	Intonation=weakly_rising|KID=437-10|PaceFast=Yes|Prolonged=Yes
+11	amici	amico	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	Intonation=WeaklyRising|KID=437-10|PaceFast=Yes|Prolonged=Yes
 12	con	con	ADP	_	_	13	case	_	KID=437-11
-13	gina	Gina	PROPN	_	Gender=Fem|Number=Sing	3	obl	_	End=813.16|Intonation=weakly_rising|KID=437-12|Prolonged=Yes
+13	gina	Gina	PROPN	_	Gender=Fem|Number=Sing	3	obl	_	End=813.16|Intonation=WeaklyRising|KID=437-12|Prolonged=Yes
 
 # sent_id = PBB004_438
 # text = son stato con la famiglia da bambino
@@ -3927,7 +3927,7 @@
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=438-3
 5	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	KID=438-4
 6	da	da	ADP	_	_	7	case	_	KID=438-5
-7	bambino	bambino	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	End=815.205|Intonation=weakly_rising|KID=438-6|OverlappingGroup=
+7	bambino	bambino	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	End=815.205|Intonation=WeaklyRising|KID=438-6|OverlappingGroup=
 
 # sent_id = PBB004_439
 # text = no con me due volte e basta
@@ -3965,7 +3965,7 @@
 3	mh	mh	INTJ	_	_	5	discourse	_	Begin=820.895|KID=442-0|Prolonged=Yes
 4	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=442-1
 5	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=442-2|Prolonged=Yes
-6	neanche	neanche	ADV	_	PronType=Neg	5	advmod	_	Intonation=weakly_rising|KID=442-3
+6	neanche	neanche	ADV	_	PronType=Neg	5	advmod	_	Intonation=WeaklyRising|KID=442-3
 7	poi	poi	ADV	_	_	5	advmod	_	KID=442-4|PaceFast=Yes
 8	con	con	ADP	_	_	10	case	_	KID=442-5|PaceFast=Yes
 9	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=442-6|PaceFast=Yes
@@ -3974,11 +3974,11 @@
 12	andavamo	andare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	advcl	_	KID=442-9|PaceFast=Yes
 13	su	su	ADP	_	_	12	case	_	KID=442-10|PaceFast=Yes
 14	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	12	nsubj	_	KID=442-11|PaceFast=Yes
-15	c'	ci	PRON	_	PronType=Prs	16	expl	_	Clitic=Yes|KID=442-12|SpaceAfter=No
+15	c'	ci	PRON	_	PronType=Prs	16	expl	_	KID=442-12|SpaceAfter=No
 16	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	conj:reform	_	KID=442-13
 17	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	KID=442-14|SpaceAfter=No
 18	osteria	osteria	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	KID=442-15
-19	lì	lì	ADV	_	_	16	advmod	_	End=824.965|Intonation=weakly_rising|KID=442-16
+19	lì	lì	ADV	_	_	16	advmod	_	End=824.965|Intonation=WeaklyRising|KID=442-16
 
 # sent_id = PBB004_443
 # text = a san luca proprio
@@ -3994,7 +3994,7 @@
 # jefferson_text = da [vi]to?
 # speaker_id = BOR005
 1	da	da	ADP	_	_	2	case	_	Begin=827.325|KID=444-0
-2	vito	Vito	PROPN	_	Gender=Masc|Number=Sing	0	root	_	End=827.855|Intonation=rising|KID=444-1|OverlappingGroup=95
+2	vito	Vito	PROPN	_	Gender=Masc|Number=Sing	0	root	_	End=827.855|Intonation=Rising|KID=444-1|OverlappingGroup=95
 
 # sent_id = PBB004_445
 # text = s~
@@ -4032,10 +4032,10 @@
 # jefferson_text = >non mi ricordo come si chiamava l'osteria< lì
 # speaker_id = BOI012
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=833.955|KID=448-0|PaceFast=Yes
-2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|KID=448-1|PaceFast=Yes
+2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	expl	_	KID=448-1|PaceFast=Yes
 3	ricordo	ricordare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=448-2|PaceFast=Yes
 4	come	come	SCONJ	_	_	6	mark	_	KID=448-3|PaceFast=Yes
-5	si	si	PRON	_	Person=3|PronType=Prs	6	expl	_	Clitic=Yes|KID=448-4|PaceFast=Yes
+5	si	si	PRON	_	Person=3|PronType=Prs	6	expl	_	KID=448-4|PaceFast=Yes
 6	chiamava	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	KID=448-5|PaceFast=Yes
 7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	KID=448-6|PaceFast=Yes|SpaceAfter=No
 8	osteria	osteria	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	KID=448-7|PaceFast=Yes
@@ -4052,23 +4052,23 @@
 # jefferson_text = [però] c'era un mh posto >che facevano< panini,
 # speaker_id = BOI012
 1	però	però	ADV	_	_	3	advmod	_	Begin=835.895|KID=450-0|OverlappingGroup=96
-2	c'	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=450-1|SpaceAfter=No
+2	c'	ci	PRON	_	PronType=Prs	3	expl	_	KID=450-1|SpaceAfter=No
 3	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=450-2
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=450-3
 5	mh	mh	INTJ	_	_	6	discourse	_	KID=450-4
 6	posto	posto	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	KID=450-5
 7	che	che	PRON	_	PronType=Rel	8	nsubj	_	KID=450-6|PaceFast=Yes
 8	facevano	fare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	KID=450-7|PaceFast=Yes
-9	panini	panino	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	End=838.165|Intonation=weakly_rising|KID=450-8
+9	panini	panino	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	End=838.165|Intonation=WeaklyRising|KID=450-8
 
 # sent_id = PBB004_451
 # text = si beveva la birra
 # jefferson_text = >si beveva la birra::,
 # speaker_id = BOI012
-1	si	si	PRON	_	Person=3|PronType=Prs	2	expl	_	Begin=838.345|Clitic=Yes|KID=451-0
+1	si	si	PRON	_	Person=3|PronType=Prs	2	expl	_	Begin=838.345|KID=451-0
 2	beveva	bere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=451-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=451-2
-4	birra	birra	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	End=839.585|Intonation=weakly_rising|KID=451-3|Prolonged=Yes
+4	birra	birra	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	End=839.585|Intonation=WeaklyRising|KID=451-3|Prolonged=Yes
 
 # sent_id = PBB004_452
 # text = e un sacco di sere andavamo su
@@ -4142,14 +4142,14 @@
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	Begin=849.315|KID=459-0|OverlappingGroup=99
 2	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=459-1
 3	se	se	SCONJ	_	_	5	mark	_	KID=459-2
-4	c'	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=459-3|SpaceAfter=No
+4	c'	ci	PRON	_	PronType=Prs	5	expl	_	KID=459-3|SpaceAfter=No
 5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=459-4
 6	ancora	ancora	ADV	_	_	5	advmod	_	KID=459-5
 7	perché	perché	SCONJ	_	_	12	mark	_	KID=459-6
 8	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	KID=459-7
 9	che	che	SCONJ	_	_	12	mark	_	KID=459-8
 10	non	non	ADV	_	PronType=Neg	12	advmod	_	KID=459-9
-11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|KID=459-10
+11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	KID=459-10
 12	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	End=851.335|KID=459-11
 
 # sent_id = PBB004_460_461_PBB004_462
@@ -4158,9 +4158,9 @@
 # speaker_id = BOI012
 1	saran	essere	VERB	_	Gender=Masc	0	root	_	Begin=851.925|KID=460-0
 2	eh	eh	INTJ	_	_	1	discourse	_	End=852.665|KID=460-1|Prolonged=Yes
-3	dieci	dieci	NUM	_	NumType=Card	5	nummod	_	Begin=853.545|Intonation=weakly_rising|KID=461-0
+3	dieci	dieci	NUM	_	NumType=Card	5	nummod	_	Begin=853.545|Intonation=WeaklyRising|KID=461-0
 4	quindic'	quindici	NUM	_	NumType=Card	5	nummod	_	KID=461-1|SpaceAfter=No
-5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	Intonation=weakly_rising|KID=461-2
+5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	Intonation=WeaklyRising|KID=461-2
 6	forse	forse	ADV	_	_	7	advmod	_	KID=461-3
 7	venti	venti	NUM	_	Number=Plur	5	nummod	_	End=855.215|KID=461-4
 8	che	che	PRON	_	PronType=Rel	10	mark	_	Begin=856.04|KID=462-0|PaceFast=Yes
@@ -4202,7 +4202,7 @@
 # jefferson_text = a te gi[na]
 # speaker_id = BOR005
 1	a	a	ADP	_	_	2	case	_	Begin=861.4|KID=465-0
-2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	Clitic=Yes|KID=465-1
+2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	KID=465-1
 3	gina	Gina	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=861.96|KID=465-2|OverlappingGroup=100
 
 # sent_id = PBB004_467
@@ -4230,11 +4230,11 @@
 1	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=867.945|KID=469-0|PaceFast=Yes
 2	volta	volta	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=469-1|PaceFast=Yes
 3	che	che	SCONJ	_	_	6	mark	_	KID=469-2|PaceFast=Yes
-4	l'	il	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=469-3|PaceFast=Yes|SpaceAfter=No
+4	l'	il	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=469-3|PaceFast=Yes|SpaceAfter=No
 5	hai	avere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	KID=469-4|PaceFast=Yes
 6	vista	vedere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	KID=469-5|PaceFast=Yes
 7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=469-6|PaceFast=Yes
-8	volta	volta	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	End=869.295|Intonation=weakly_rising|KID=469-7|PaceFast=Yes
+8	volta	volta	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	End=869.295|Intonation=WeaklyRising|KID=469-7|PaceFast=Yes
 
 # sent_id = PBB004_470_471
 # text = beh però dai è una bella passeggiata ti fai tutto il portico da giù
@@ -4247,11 +4247,11 @@
 5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=470-4|PaceFast=Yes
 6	bella	bello	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	KID=470-5|PaceFast=Yes
 7	passeggiata	passeggiata	NOUN	_	Gender=Fem|Number=Sing	8	conj:reform	_	KID=470-6|PaceFast=Yes
-8	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	9	iobj	_	Clitic=Yes|KID=470-7|PaceFast=Yes
+8	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	9	iobj	_	KID=470-7|PaceFast=Yes
 9	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=470-8|PaceFast=Yes
 10	tutto	tutto	DET	_	Gender=Masc|Number=Sing|PronType=Tot	12	det:predet	_	KID=470-9|PaceFast=Yes
 11	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=470-10|PaceFast=Yes
-12	portico	portico	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	End=872.975|Intonation=weakly_rising|KID=470-11|PaceFast=Yes
+12	portico	portico	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	End=872.975|Intonation=WeaklyRising|KID=470-11|PaceFast=Yes
 13	da	da	ADP	_	_	14	case	_	Begin=873.12|KID=471-0
 14	giù	giù	ADV	_	_	12	obl	_	End=873.51|KID=471-1
 
@@ -4260,7 +4260,7 @@
 # jefferson_text = se ti fai il portico da saragozza >arrivare su quando arrivi giù hai fatto un po' di< allenamento
 # speaker_id = BOI012
 1	se	se	SCONJ	_	_	3	mark	_	Begin=874.365|KID=472-0
-2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	Clitic=Yes|KID=472-1
+2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	KID=472-1
 3	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	KID=472-2
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=472-3
 5	portico	portico	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	KID=472-4
@@ -4284,7 +4284,7 @@
 # speaker_id = BOI013
 1	sì	sì	ADV	_	_	6	advmod	_	Begin=877.9|KID=473-0|PaceFast=Yes
 2	sì	sì	ADV	_	_	6	advmod	_	KID=473-1|PaceFast=Yes
-3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|KID=473-2
+3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	KID=473-2
 4	vuol	volere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=473-3
 5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=473-4|SpaceAfter=No
 6	ambulanza	ambulanza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=473-5
@@ -4357,11 +4357,11 @@
 # jefferson_text = >che si vede anche l'aeropor[to<,]
 # speaker_id = BOR005
 1	che	che	SCONJ	_	_	3	mark	_	Begin=891.83|KID=480-0|PaceFast=Yes
-2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	Clitic=Yes|KID=480-1|PaceFast=Yes
+2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	KID=480-1|PaceFast=Yes
 3	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=480-2|PaceFast=Yes
 4	anche	anche	ADV	_	_	6	advmod	_	KID=480-3|PaceFast=Yes
 5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=480-4|PaceFast=Yes|SpaceAfter=No
-6	aeroporto	aeroporto	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	End=893.14|Intonation=weakly_rising|KID=480-5|OverlappingGroup=235|PaceFast=Yes
+6	aeroporto	aeroporto	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	End=893.14|Intonation=WeaklyRising|KID=480-5|OverlappingGroup=235|PaceFast=Yes
 
 # sent_id = PBB004_482
 # text = anche lo stadio lo lo stadio vedi sì
@@ -4370,9 +4370,9 @@
 1	anche	anche	ADV	_	_	3	advmod	_	Begin=893.07|KID=482-0|OverlappingGroup=235
 2	lo	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=482-1
 3	stadio	stadio	NOUN	_	_	7	obj	_	Interrupted=Yes|KID=482-2
-4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	reparandum	_	Clitic=Yes|KID=482-3|Prolonged=Yes
+4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	reparandum	_	KID=482-3|Prolonged=Yes
 5	lo	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=482-4
-6	stadio	stadio	NOUN	_	Gender=Masc|Number=Sing	3	reparandum	_	Intonation=weakly_rising|KID=482-5
+6	stadio	stadio	NOUN	_	Gender=Masc|Number=Sing	3	reparandum	_	Intonation=WeaklyRising|KID=482-5
 7	vedi	vedere	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=482-6
 8	sì	sì	ADV	_	_	7	advmod	_	End=895.39|KID=482-7
 
@@ -4423,10 +4423,10 @@
 4	san	San	ADJ	_	Gender=Fem|Number=Sing	2	obl	_	KID=486-4
 5	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	4	nmod	_	KID=486-5|PauseAfter=Yes
 6	sopra	sopra	ADV	_	_	4	advmod	_	End=905.735|KID=486-7
-7	c'	ci	PRON	_	PronType=Prs	8	expl	_	Begin=906.04|Clitic=Yes|KID=487-0|PaceFast=Yes|SpaceAfter=No
+7	c'	ci	PRON	_	PronType=Prs	8	expl	_	Begin=906.04|KID=487-0|PaceFast=Yes|SpaceAfter=No
 8	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=487-1|PaceFast=Yes
 9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=487-2|PaceFast=Yes
-10	camminamento	camminamento	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	End=907.1|Intonation=weakly_rising|KID=487-3|PaceFast=Yes
+10	camminamento	camminamento	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	End=907.1|Intonation=WeaklyRising|KID=487-3|PaceFast=Yes
 
 # sent_id = PBB004_488
 # text = sì
@@ -4478,9 +4478,9 @@
 # jefferson_text = in autostrada:, tangenziale, >si vede da< da un sacco di:: di pa~
 # speaker_id = BOI012
 1	in	in	ADP	_	_	2	case	_	Begin=916.31|KID=493-0
-2	autostrada	autostrada	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	Intonation=weakly_rising|KID=493-1|Prolonged=Yes
-3	tangenziale	tangenziale	NOUN	_	Number=Sing	5	obl	_	Intonation=weakly_rising|KID=493-2
-4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:pass	_	Clitic=Yes|KID=493-3|PaceFast=Yes
+2	autostrada	autostrada	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	Intonation=WeaklyRising|KID=493-1|Prolonged=Yes
+3	tangenziale	tangenziale	NOUN	_	Number=Sing	5	obl	_	Intonation=WeaklyRising|KID=493-2
+4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:pass	_	KID=493-3|PaceFast=Yes
 5	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=493-4|PaceFast=Yes
 6	da	da	ADP	_	_	7	reparandum	_	End=918.74|KID=493-5|PaceFast=Yes
 7	da	da	ADP	_	_	9	case	_	Begin=919.025|KID=494-0
@@ -4497,7 +4497,7 @@
 1	anche	anche	ADV	_	_	2	advmod	_	Begin=920.365|KID=495-0|PaceFast=Yes
 2	da	da	ADP	_	_	3	case	_	KID=495-1|PaceFast=Yes
 3	qua	qua	ADV	_	_	5	advmod	_	KID=495-2|PaceFast=Yes
-4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:impers	_	Clitic=Yes|KID=495-3|PaceFast=Yes
+4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:impers	_	KID=495-3|PaceFast=Yes
 5	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=495-4|PaceFast=Yes
 6	san	San	ADJ	_	_	7	amod	_	KID=495-5|PaceFast=Yes
 7	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	5	obj	_	KID=495-6|PaceFast=Yes
@@ -4522,7 +4522,7 @@
 # speaker_id = BOI012
 1	da	da	ADP	_	_	2	case	_	Begin=923.413|KID=497-0|OverlappingGroup=103
 2	qua	qua	ADV	_	_	4	advmod	_	KID=497-1|OverlappingGroup=103
-3	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	Clitic=Yes|KID=497-2|OverlappingGroup=103
+3	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	KID=497-2|OverlappingGroup=103
 4	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=497-3
 5	san	San	ADJ	_	_	6	amod	_	KID=497-4
 6	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	4	obj	_	KID=497-5|OverlappingGroup=104
@@ -4534,7 +4534,7 @@
 # speaker_id = BOI013
 1	a	a	ADP	_	_	2	case	_	Begin=924.48|KID=498-0|OverlappingGroup=104
 2	bologna	Bologna	PROPN	_	Gender=Fem|Number=Sing	4	obl	_	KID=498-1|OverlappingGroup=104
-3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=498-2
+3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=498-2
 4	vedi	vedere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=498-3
 5	sempre	sempre	ADV	_	_	4	advmod	_	KID=498-4
 6	da	da	ADP	_	_	10	reparandum	_	KID=498-5|PaceFast=Yes
@@ -4546,7 +4546,7 @@
 12	arrivi	arrivare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=498-11
 13	san	San	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	KID=498-12
 14	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	16	nsubj	_	KID=498-13
-15	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	16	obj	_	Clitic=Yes|KID=498-14
+15	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	16	obj	_	KID=498-14
 16	saluta	salutare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj:reform	_	End=928.62|KID=498-15
 
 # sent_id = PBB004_499
@@ -4562,7 +4562,7 @@
 1	sì	sì	ADV	_	_	5	advmod	_	Begin=929.32|End=929.62|KID=500-0
 2	da	da	ADP	_	_	3	case	_	Begin=929.907|KID=501-0
 3	qua	qua	ADV	_	_	5	advmod	_	KID=501-1
-4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:impers	_	Clitic=Yes|KID=501-2
+4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:impers	_	KID=501-2
 5	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=930.503|KID=501-3
 
 # sent_id = PBB004_502
@@ -4578,10 +4578,10 @@
 1	dopo	dopo	ADP	_	_	2	case	_	Begin=931.182|KID=503-0
 2	quando	quando	SCONJ	_	_	3	mark	_	KID=503-1|Prolonged=Yes
 3	usciamo	uscire	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	End=932.613|KID=503-2
-4	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	5	iobj	_	Begin=933.229|Clitic=Yes|KID=504-0|PaceFast=Yes
-5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	reparandum	_	Clitic=Yes|KID=504-1|PaceFast=Yes
-6	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	7	iobj	_	Clitic=Yes|KID=504-2
-7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=504-3
+4	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	5	iobj	_	Begin=933.229|KID=504-0|PaceFast=Yes
+5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	reparandum	_	KID=504-1|PaceFast=Yes
+6	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	7	iobj	_	KID=504-2
+7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=504-3
 8	faccio	fare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=504-4
 9	notare	notare	VERB	_	VerbForm=Inf	8	xcomp	_	End=934.321|KID=504-5
 
@@ -4637,7 +4637,7 @@
 4	di	di	ADP	_	_	5	case	_	KID=508-3
 5	degrado	degrado	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	KID=508-4|PaceSlow=Yes
 6	sì	sì	ADV	_	Polarity=Pos	9	advmod	_	KID=508-5
-7	c'	ci	PRON	_	PronType=Prs	9	expl	_	Clitic=Yes|KID=508-6|SpaceAfter=No
+7	c'	ci	PRON	_	PronType=Prs	9	expl	_	KID=508-6|SpaceAfter=No
 8	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	KID=508-7
 9	stato	essere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=508-8
 10	però	però	ADV	_	_	9	cc	_	KID=508-9|Prolonged=Yes
@@ -4655,7 +4655,7 @@
 1	cioè	cioè	CCONJ	_	_	7	cc	_	Begin=950.387|KID=509-0|PaceFast=Yes
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=509-1|PaceFast=Yes
 3	gente	gente	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	KID=509-2|PaceFast=Yes
-4	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	7	obj	_	Clitic=Yes|KID=509-3|PaceFast=Yes
+4	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	7	obj	_	KID=509-3|PaceFast=Yes
 5	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=509-4|PaceFast=Yes
 6	sempre	sempre	ADV	_	_	7	advmod	_	KID=509-5|PaceFast=Yes
 7	tenuto	tenere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=509-6
@@ -4744,24 +4744,24 @@
 # text = c'è la parte bassa dove ci sono i negozi ci sono i negozianti che ci tengon dietro e su la parte ah per esempio su
 # jefferson_text = c'è la parte bassa >dove ci sono i negozi ci sono i negozianti che ci tengon dietro<, e su la parte [>ah per esempio su:<]
 # speaker_id = BOI012
-1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Begin=975.0|Clitic=Yes|KID=519-0|SpaceAfter=No
+1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Begin=975.0|KID=519-0|SpaceAfter=No
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=519-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=519-2
 4	parte	parte	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	KID=519-3
 5	bassa	basso	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	KID=519-4
 6	dove	dove	ADV	_	_	8	advmod	_	KID=519-5|PaceFast=Yes
-7	ci	ci	PRON	_	PronType=Prs	8	expl	_	Clitic=Yes|KID=519-6|PaceFast=Yes
+7	ci	ci	PRON	_	PronType=Prs	8	expl	_	KID=519-6|PaceFast=Yes
 8	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	KID=519-7|PaceFast=Yes
 9	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=519-8|PaceFast=Yes
 10	negozi	negozio	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	KID=519-9|PaceFast=Yes
-11	ci	ci	PRON	_	PronType=Prs	12	expl	_	Clitic=Yes|KID=519-10|PaceFast=Yes
+11	ci	ci	PRON	_	PronType=Prs	12	expl	_	KID=519-10|PaceFast=Yes
 12	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj:reform	_	KID=519-11|PaceFast=Yes
 13	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=519-12|PaceFast=Yes
 14	negozianti	negoziante	NOUN	_	Number=Plur	12	nsubj	_	KID=519-13|PaceFast=Yes
 15	che	che	PRON	_	PronType=Rel	17	nsubj	_	KID=519-14|PaceFast=Yes
-16	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	17	expl	_	Clitic=Yes|KID=519-15|PaceFast=Yes
+16	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	17	expl	_	KID=519-15|PaceFast=Yes
 17	tengon	tenere	VERB	_	_	14	acl:relcl	_	KID=519-16|PaceFast=Yes
-18	dietro	dietro	ADV	_	_	17	fixed	_	End=978.146|Intonation=weakly_rising|KID=519-17|PaceFast=Yes
+18	dietro	dietro	ADV	_	_	17	fixed	_	End=978.146|Intonation=WeaklyRising|KID=519-17|PaceFast=Yes
 19	e	e	CCONJ	_	_	22	cc	_	Begin=979.01|KID=521-0
 20	su	su	ADP	_	_	22	case	_	KID=521-1
 21	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	KID=521-2
@@ -4792,7 +4792,7 @@
 # text = ti ripeto comunque io sono anni che non ci vado
 # jefferson_text = >ti ripeto comunque< io sono [anni che n]on ci vado
 # speaker_id = BOI012
-1	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	2	iobj	_	Begin=981.065|Clitic=Yes|KID=523-0|PaceFast=Yes
+1	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	2	iobj	_	Begin=981.065|KID=523-0|PaceFast=Yes
 2	ripeto	ripetere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	csubj	_	KID=523-1|PaceFast=Yes
 3	comunque	comunque	ADV	_	_	2	advmod	_	KID=523-2|PaceFast=Yes
 4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	KID=523-3
@@ -4800,7 +4800,7 @@
 6	anni	anno	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	KID=523-5|OverlappingGroup=107
 7	che	che	SCONJ	_	_	10	mark	_	KID=523-6|OverlappingGroup=107
 8	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=523-7|OverlappingGroup=107
-9	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|KID=523-8
+9	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	KID=523-8
 10	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	ccomp	_	End=983.083|KID=523-9
 
 # sent_id = PBB004_524_525
@@ -4833,7 +4833,7 @@
 2	tutti	tutto	DET	_	Gender=Masc|Number=Plur|PronType=Tot	4	det:predet	_	KID=526-1|Prolonged=Yes
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=526-2
 4	negozianti	negoziante	NOUN	_	Number=Plur	6	nsubj	_	End=988.476|KID=526-3
-5	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Begin=988.624|Clitic=Yes|KID=527-0
+5	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Begin=988.624|KID=527-0
 6	tengono	tenere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=527-1
 7	a	a	ADP	_	_	8	mark	_	KID=527-2
 8	tenere	tenere	VERB	_	VerbForm=Inf	6	xcomp	_	KID=527-3|OverlappingGroup=109
@@ -4862,7 +4862,7 @@
 6	ma~	ma~	PROPN	_	_	4	obl	_	Interrupted=Yes|KID=529-5
 7	quando	quando	SCONJ	_	_	9	mark	_	KID=529-6
 8	a	a	ADP	_	_	9	case	_	KID=529-7
-9	maggio	maggio	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	End=993.242|Intonation=rising|KID=529-8
+9	maggio	maggio	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	End=993.242|Intonation=Rising|KID=529-8
 
 # sent_id = PBB004_530
 # text = mh un bel portico quello lì sì
@@ -4892,7 +4892,7 @@
 10	non	non	ADV	_	PronType=Neg	12	advmod	_	KID=532-2
 11	vuol	volere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	KID=532-3
 12	lasciare	lasciare	VERB	_	VerbForm=Inf	8	advcl	_	End=1000.363|KID=532-4|OverlappingGroup=112|Prolonged=Yes
-13	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	reparandum	_	Begin=1000.905|Clitic=Yes|KID=534-0|Prolonged=Yes
+13	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	reparandum	_	Begin=1000.905|KID=534-0|Prolonged=Yes
 14	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=534-1
 15	ca~	X	X	_	_	12	obj	_	Interrupted=Yes|KID=534-2
 16	lì	lì	ADV	_	_	18	advmod	_	KID=534-3|Prolonged=Yes
@@ -4902,7 +4902,7 @@
 20	e	e	CCONJ	_	_	22	cc	_	KID=534-7
 21	quando	quando	SCONJ	_	_	22	mark	_	KID=534-8|Prolonged=Yes
 22	torna	tornare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	KID=534-9
-23	su	su	ADP	_	_	22	case	_	End=1004.18|Intonation=weakly_rising|KID=534-10
+23	su	su	ADP	_	_	22	case	_	End=1004.18|Intonation=WeaklyRising|KID=534-10
 
 # sent_id = PBB004_533
 # text = mhmh
@@ -4961,7 +4961,7 @@
 1	quattro	quattro	NUM	_	NumType=Card	2	nummod	_	Begin=1013.519|KID=540-0|OverlappingGroup=113
 2	gocce	goccia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=540-1
 3	ma	ma	CCONJ	_	_	5	cc	_	KID=540-2
-4	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|KID=540-3
+4	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	KID=540-3
 5	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=540-4
 6	sempre	sempre	ADV	_	_	5	advmod	_	End=1015.345|KID=540-5|OverlappingGroup=114
 
@@ -4979,7 +4979,7 @@
 8	bologna	Bologna	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=541-7
 9	che	che	PRON	_	PronType=Rel	12	nsubj	_	KID=541-8
 10	quando	quando	SCONJ	_	_	12	mark	_	KID=541-9|PaceFast=Yes
-11	si	si	PRON	_	Person=3|PronType=Prs	12	expl:impers	_	Clitic=Yes|KID=541-10|OverlappingGroup=115|PaceFast=Yes
+11	si	si	PRON	_	Person=3|PronType=Prs	12	expl:impers	_	KID=541-10|OverlappingGroup=115|PaceFast=Yes
 12	muove	muovere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	KID=541-11|OverlappingGroup=115|PaceFast=Yes
 13	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=541-12|PaceFast=Yes
 14	madonna	Madonna	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	KID=541-13|PaceFast=Yes
@@ -5043,7 +5043,7 @@
 5	madonna	madonna	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	KID=549-4|PaceFast=Yes
 6	di	di	ADP	_	_	7	case	_	KID=549-5|PaceFast=Yes
 7	san	sano	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	KID=549-6|PaceFast=Yes
-8	luca	luca	PROPN	_	Gender=Fem|Number=Sing	7	flat:name	_	End=1028.498|Intonation=weakly_rising|KID=549-7|OverlappingGroup=117|PaceFast=Yes
+8	luca	luca	PROPN	_	Gender=Fem|Number=Sing	7	flat:name	_	End=1028.498|Intonation=WeaklyRising|KID=549-7|OverlappingGroup=117|PaceFast=Yes
 9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	Begin=1028.874|KID=551-0
 10	scura	scuro	ADJ	_	Gender=Fem|Number=Sing	9	xcomp	_	KID=551-1
 11	in	in	ADP	_	_	12	case	_	KID=551-2
@@ -5146,7 +5146,7 @@
 # text = sì
 # jefferson_text = sì?
 # speaker_id = BOR005
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=PBB004_PBB004_559_560::10|Begin=1055.483|End=1055.841|Intonation=rising|KID=561-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=PBB004_PBB004_559_560::10|Begin=1055.483|End=1055.841|Intonation=Rising|KID=561-0
 
 # sent_id = PBB004_562
 # text = beh cioè enr~ siamo andati a roma i portici non c'erano
@@ -5162,7 +5162,7 @@
 8	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=562-7
 9	portici	portico	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	KID=562-8
 10	non	non	ADV	_	PronType=Neg	12	advmod	_	KID=562-9
-11	c'	ci	PRON	_	PronType=Prs	12	expl	_	Clitic=Yes|KID=562-10|SpaceAfter=No
+11	c'	ci	PRON	_	PronType=Prs	12	expl	_	KID=562-10|SpaceAfter=No
 12	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	End=1058.34|KID=562-11
 
 # sent_id = PBB004_563
@@ -5328,7 +5328,7 @@
 2	torre	torre	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	KID=580-1
 3	melissa	melisso	ADJ	_	Gender=Fem|Number=Sing	2	flat:name	_	KID=580-2
 4	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=580-3
-5	ci	ci	PRON	_	PronType=Prs	6	expl	_	Clitic=Yes|KID=580-4
+5	ci	ci	PRON	_	PronType=Prs	6	expl	_	KID=580-4
 6	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=580-5
 7	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=580-6
 8	portici	portico	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	End=1089.952|KID=580-7
@@ -5338,7 +5338,7 @@
 # jefferson_text = però c'è il mare
 # speaker_id = BOI013
 1	però	però	ADV	_	_	3	advmod	_	Begin=1090.825|KID=582-0
-2	c'	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=582-1|SpaceAfter=No
+2	c'	ci	PRON	_	PronType=Prs	3	expl	_	KID=582-1|SpaceAfter=No
 3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=582-2
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=582-3
 5	mare	mare	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	End=1091.58|KID=582-4
@@ -5372,7 +5372,7 @@
 1	quando	quando	SCONJ	_	_	2	mark	_	Begin=1094.798|KID=585-0|OverlappingGroup=124
 2	piove	piovere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=585-1|OverlappingGroup=124
 3	oh	oh	ADV	_	_	2	discourse	_	KID=585-2|Prolonged=Yes
-4	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=585-3
+4	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	expl	_	KID=585-3
 5	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=585-4
 6	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=585-5
 7	uragani	uragano	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	End=1096.447|KID=585-6
@@ -5453,7 +5453,7 @@
 # speaker_id = BOR005
 1	sì	sì	ADV	_	_	4	advmod	_	Backchannel=PBB004_PBB004_592::2|Begin=1115.056|End=1115.461|KID=593-0
 2	se	se	SCONJ	_	_	4	mark	_	Begin=1115.944|KID=594-0
-3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=594-1
+3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=594-1
 4	sapete	sapetere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=594-2
 5	eh	eh	ADV	_	_	4	discourse	_	KID=594-3
 6	se	se	SCONJ	_	_	7	mark	_	KID=594-4
@@ -5481,11 +5481,11 @@
 3	portici	portico	NOUN	_	Gender=Masc|Number=Plur	7	parataxis	_	KID=596-2
 4	no	no	ADV	_	PronType=Neg	3	advmod	_	End=1121.727|KID=596-3
 5	eh	eh	INTJ	_	_	7	discourse:filledpause	_	Begin=1121.775|KID=597-0
-6	c'	ci	PRON	_	PronType=Prs	7	expl	_	Clitic=Yes|KID=597-1|SpaceAfter=No
+6	c'	ci	PRON	_	PronType=Prs	7	expl	_	KID=597-1|SpaceAfter=No
 7	eran	erande	ADJ	_	Number=Sing	0	root	_	KID=597-2
 8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=597-3
-9	mura	muro	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	Intonation=weakly_rising|KID=597-4
-10	attorno	attorno	ADV	_	_	7	advmod	_	End=1123.169|Intonation=weakly_rising|KID=597-5
+9	mura	muro	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	Intonation=WeaklyRising|KID=597-4
+10	attorno	attorno	ADV	_	_	7	advmod	_	End=1123.169|Intonation=WeaklyRising|KID=597-5
 
 # sent_id = PBB004_598
 # text = sai che non lo so
@@ -5494,7 +5494,7 @@
 1	sai	sare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1123.555|Coconstruct=conj:reform_PBB004_PBB004_590_591::18|KID=598-0|Volume=low
 2	che	che	SCONJ	_	_	5	mark	_	KID=598-1|Volume=low
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=598-2|Volume=low
-4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|KID=598-3|Volume=low
+4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	KID=598-3|Volume=low
 5	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	End=1124.321|KID=598-4|Volume=low
 
 # sent_id = PBB004_599
@@ -5559,7 +5559,7 @@
 1	mh	mh	INTJ	_	Gender=Masc	5	discourse	_	Begin=1138.635|End=1138.89|KID=602-0
 2	anche	anche	ADV	_	_	5	advmod	_	Begin=1139.758|KID=603-0
 3	secondo	secondo	ADP	_	_	4	case	_	KID=603-1
-4	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obl	_	Clitic=Yes|KID=603-2
+4	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obl	_	KID=603-2
 5	gina	ginare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1140.992|KID=603-3
 
 # sent_id = PBB004_604
@@ -5570,7 +5570,7 @@
 2	di	di	ADP	_	_	3	case	_	KID=604-1
 3	sì	sì	ADV	_	_	1	advmod	_	KID=604-2
 4	non	non	ADV	_	PronType=Neg	8	advmod	_	KID=604-3|PaceSlow=Yes
-5	c'	ci	PRON	_	PronType=Prs	8	expl	_	Clitic=Yes|KID=604-4|PaceFast=Yes|SpaceAfter=No
+5	c'	ci	PRON	_	PronType=Prs	8	expl	_	KID=604-4|PaceFast=Yes|SpaceAfter=No
 6	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	KID=604-5|PaceFast=Yes
 7	mai	mai	ADV	_	_	8	advmod	_	KID=604-6|PaceFast=Yes
 8	pensato	pensare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	End=1142.705|KID=604-7|PaceFast=Yes|Volume=low
@@ -5627,7 +5627,7 @@
 4	han	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=608-3
 5	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	Coconstruct=conj:reform_PBB004_PBB004_607::5|KID=608-4
 6	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	KID=608-5
-7	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Clitic=Yes|KID=608-6
+7	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	KID=608-6
 8	han	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	KID=608-7
 9	fatti	fare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=608-8
 10	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=608-9
@@ -5640,7 +5640,7 @@
 1	quindi	quindi	ADV	_	_	0	root	_	Begin=1159.145|KID=609-0
 2	più	più	ADV	_	_	1	advmod	_	KID=609-1
 3	o	o	CCONJ	_	_	4	cc	_	KID=609-2
-4	meno	meno	ADV	_	_	2	conj	_	End=1160.006|Intonation=rising|KID=609-3
+4	meno	meno	ADV	_	_	2	conj	_	End=1160.006|Intonation=Rising|KID=609-3
 
 # sent_id = PBB004_610_611
 # text = ah millequattrocento mh milletrecento
@@ -5649,7 +5649,7 @@
 1	ah	ah	INTJ	_	_	4	discourse:filledpause	_	Backchannel=PBB004_PBB004_609::1|Begin=1160.537|KID=610-0|Prolonged=Yes|Volume=high
 2	millequattrocento	millequattrocento	NUM	_	NumType=Card	4	reparandum	_	KID=610-1
 3	mh	mh	INTJ	_	Gender=Masc	4	discourse:filledpause	_	End=1162.76|KID=610-2|Prolonged=Yes
-4	milletrecento	milletrecento	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1163.057|End=1164.281|Intonation=weakly_rising|KID=611-0
+4	milletrecento	milletrecento	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1163.057|End=1164.281|Intonation=WeaklyRising|KID=611-0
 
 # sent_id = PBB004_613_615_PBB004_616_PBB004_617_PBB004_618_PBB004_620
 # text = penso di sì ma questo mo c'ho me~ sì i portici sono i più è come l'università che sono è l'unis~ ~versità più più vecchia del eh de non è la d'europa
@@ -5766,7 +5766,7 @@
 14	conoscerci	conoscere	VERB	_	VerbForm=Inf	7	advcl	_	End=1196.267|KID=628-2
 15	che	che	DET	_	PronType=Int	16	det	_	Begin=1197.045|KID=630-0
 16	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	KID=630-1
-17	fate	fare	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	End=1198.236|Intonation=rising|KID=630-2
+17	fate	fare	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	End=1198.236|Intonation=Rising|KID=630-2
 
 # sent_id = PBB004_631
 # text = io faccio l'operaio metalmeccanico
@@ -5826,7 +5826,7 @@
 2	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	KID=639-1|PaceFast=Yes|SpaceAfter=No
 3	operaio	operaio	ADJ	_	Gender=Masc|Number=Sing	6	dislocated	_	KID=639-2|PaceFast=Yes
 4	metalmeccanico	metalmeccanico	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	KID=639-3|PaceFast=Yes
-5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=639-4
+5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=639-4
 6	faccio	fare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=639-5
 7	da	da	ADP	_	_	11	case	_	End=1212.482|KID=639-6|Prolonged=Yes
 8	ventisei	ventisei	NUM	_	NumType=Card	10	reparandum	_	Begin=1212.557|KID=640-0|PaceSlow=Yes
@@ -5960,7 +5960,7 @@
 2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=655-2
 3	tuo	tuo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	KID=655-3
 4	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=655-4
-5	gina	ginare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	vocative	_	End=1247.618|Intonation=rising|KID=655-5|OverlappingGroup=128
+5	gina	ginare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	vocative	_	End=1247.618|Intonation=Rising|KID=655-5|OverlappingGroup=128
 
 # sent_id = PBB004_656_657
 # text = io aiuto infermiera in una erressea
@@ -5983,7 +5983,7 @@
 4	sempre	sempre	ADV	_	_	5	advmod	_	KID=659-2
 5	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=659-3
 6	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	KID=659-4
-7	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	End=1254.208|Intonation=rising|KID=659-5|OverlappingGroup=129
+7	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	End=1254.208|Intonation=Rising|KID=659-5|OverlappingGroup=129
 
 # sent_id = PBB004_660
 # text = sì
@@ -6035,7 +6035,7 @@
 13	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=666-9
 14	possibilità	possibilità	NOUN	_	Gender=Fem	12	obj	_	End=1268.606|KID=666-10
 15	cambiereste	cambieresta	NOUN	_	Gender=Fem|Number=Plur	3	parataxis	_	Begin=1269.159|KID=668-0|OverlappingGroup=130
-16	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	End=1270.457|Intonation=rising|KID=668-1
+16	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	End=1270.457|Intonation=Rising|KID=668-1
 
 # sent_id = PBB004_667_669
 # text = no io no io voglio andare in pensio~ {ride}
@@ -6093,13 +6093,13 @@
 # text = ci vuole il turn around come lo chiamano i in inglese
 # jefferson_text = [ci vuole il t]urn around >come lo chiamano< i:: [in inglese]
 # speaker_id = BOI012
-1	ci	ci	PRON	_	PronType=Prs	2	expl	_	Begin=1277.958|Clitic=Yes|KID=675-0|OverlappingGroup=134
+1	ci	ci	PRON	_	PronType=Prs	2	expl	_	Begin=1277.958|KID=675-0|OverlappingGroup=134
 2	vuole	volere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=675-1|OverlappingGroup=134
 3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=675-2|OverlappingGroup=134
 4	turn	turn	NOUN	_	Gender=Masc	2	nsubj	_	KID=675-3|OverlappingGroup=134
 5	around	around	NOUN	_	_	4	flat:name	_	KID=675-4
 6	come	come	ADV	_	_	8	advmod	_	KID=675-5|PaceFast=Yes
-7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=675-6|PaceFast=Yes
+7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=675-6|PaceFast=Yes
 8	chiamano	chiamare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=675-7|PaceFast=Yes
 9	i	i	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	reparandum	_	KID=675-8|Prolonged=Yes
 10	in	in	ADP	_	_	11	case	_	KID=675-9|OverlappingGroup=135
@@ -6148,7 +6148,7 @@
 # jefferson_text = non ci sei con la testa
 # speaker_id = BOI013
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=1287.038|KID=680-0
-2	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	obj	_	Clitic=Yes|KID=680-1
+2	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	obj	_	KID=680-1
 3	sei	se	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=680-2
 4	con	con	ADP	_	_	6	case	_	KID=680-3
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=680-4
@@ -6183,10 +6183,10 @@
 # jefferson_text = [sì] [si invecchia, (.) sì: si invecchia]
 # speaker_id = BOI013 BOI012
 1	sì	sì	ADV	_	_	6	advmod	_	Backchannel=PBB004_PBB004_681_682::7|Begin=1293.181|End=1293.553|KID=683-0|OverlappingGroup=138
-2	si	si	PRON	_	Person=3|PronType=Prs	5	reparandum	_	Begin=1294.091|Clitic=Yes|KID=684-0|OverlappingGroup=236
-3	invecchia	invecchiare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	Intonation=weakly_rising|KID=684-1|OverlappingGroup=236|PauseAfter=Yes
+2	si	si	PRON	_	Person=3|PronType=Prs	5	reparandum	_	Begin=1294.091|KID=684-0|OverlappingGroup=236
+3	invecchia	invecchiare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	Intonation=WeaklyRising|KID=684-1|OverlappingGroup=236|PauseAfter=Yes
 4	sì	sì	ADV	_	_	6	flat	_	KID=684-3|OverlappingGroup=236|Prolonged=Yes
-5	si	si	PRON	_	Person=3|PronType=Prs	6	expl:impers	_	Clitic=Yes|KID=684-4|OverlappingGroup=236
+5	si	si	PRON	_	Person=3|PronType=Prs	6	expl:impers	_	KID=684-4|OverlappingGroup=236
 6	invecchia	invecchiare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1296.336|KID=684-5|OverlappingGroup=236
 
 # sent_id = PBB004_685
@@ -6212,9 +6212,9 @@
 # text = si invecchia si invecchia
 # jefferson_text = si invecchia si invecch[ia]
 # speaker_id = BOI012
-1	si	si	PRON	_	Person=3|PronType=Prs	3	reparandum	_	Begin=1296.607|Clitic=Yes|KID=687-0
+1	si	si	PRON	_	Person=3|PronType=Prs	3	reparandum	_	Begin=1296.607|KID=687-0
 2	invecchia	invecchiare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	reparandum	_	KID=687-1
-3	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	Clitic=Yes|KID=687-2
+3	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	KID=687-2
 4	invecchia	invecchiare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1297.968|KID=687-3|OverlappingGroup=139
 
 # sent_id = PBB004_688
@@ -6236,7 +6236,7 @@
 # text = cioè
 # jefferson_text = [cioè]?
 # speaker_id = BOR005
-1	cioè	cioè	ADV	_	_	0	root	_	Begin=1299.452|End=1299.888|Intonation=rising|KID=689-0|OverlappingGroup=140
+1	cioè	cioè	ADV	_	_	0	root	_	Begin=1299.452|End=1299.888|Intonation=Rising|KID=689-0|OverlappingGroup=140
 
 # sent_id = PBB004_690_691_PBB004_692_PBB004_693_PBB004_694
 # text = adesso entrano persone giovani con malattie v~ eh prima sconosciute tipo l'alzheimer tipo il parkinson
@@ -6247,17 +6247,17 @@
 3	persone	persone	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	KID=690-2|Prolonged=Yes
 4	giovani	giovane	ADJ	_	Number=Plur	3	amod	_	End=1302.926|KID=690-3
 5	con	con	ADP	_	_	6	case	_	Begin=1303.325|KID=691-0
-6	malattie	malattia	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	End=1304.452|Intonation=weakly_rising|KID=691-1|Prolonged=Yes
+6	malattie	malattia	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	End=1304.452|Intonation=WeaklyRising|KID=691-1|Prolonged=Yes
 7	v~	v~	PROPN	_	_	2	dep	_	Begin=1304.838|Interrupted=Yes|KID=692-0
 8	eh	eh	INTJ	_	_	2	discourse	_	KID=692-1|Prolonged=Yes
 9	prima	prima	ADV	_	_	10	advmod	_	KID=692-2
-10	sconosciute	sconosciuto	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	End=1307.21|Intonation=weakly_rising|KID=692-3
+10	sconosciute	sconosciuto	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	End=1307.21|Intonation=WeaklyRising|KID=692-3
 11	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	Begin=1307.717|KID=693-0
 12	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	KID=693-1|SpaceAfter=No
-13	alzheimer	alzheimer	NOUN	_	Gender=Masc	6	conj	_	End=1308.993|Intonation=weakly_rising|KID=693-2
+13	alzheimer	alzheimer	NOUN	_	Gender=Masc	6	conj	_	End=1308.993|Intonation=WeaklyRising|KID=693-2
 14	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	Begin=1309.407|KID=694-0|Prolonged=Yes
 15	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	KID=694-1
-16	parkinson	parkinson	NOUN	_	Gender=Masc	6	conj	_	End=1311.025|Intonation=weakly_rising|KID=694-2
+16	parkinson	parkinson	NOUN	_	Gender=Masc	6	conj	_	End=1311.025|Intonation=WeaklyRising|KID=694-2
 
 # sent_id = PBB004_695_696_PBB004_697
 # text = persone che sono in fase terminale di malattie neo~ neoplastiche prima entravano gli anziani di c~ novanta anni
@@ -6272,11 +6272,11 @@
 7	di	di	ADP	_	_	8	case	_	KID=696-5
 8	malattie	malattia	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	End=1315.347|KID=696-6|Prolonged=Yes
 9	neo~	neo~	PROPN	_	_	8	dep	_	Begin=1315.744|Interrupted=Yes|KID=697-0
-10	neoplastiche	neoplastico	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	Intonation=weakly_rising|KID=697-1
+10	neoplastiche	neoplastico	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	Intonation=WeaklyRising|KID=697-1
 11	prima	prima	ADV	_	_	12	advmod	_	KID=697-2
 12	entravano	entrare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	parataxis	_	KID=697-3
 13	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=697-4
-14	anziani	anziano	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	Intonation=weakly_rising|KID=697-5
+14	anziani	anziano	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	Intonation=WeaklyRising|KID=697-5
 15	di	di	ADP	_	_	16	case	_	KID=697-6
 16	c~	c~	PROPN	_	_	14	dep	_	Interrupted=Yes|KID=697-7|PauseAfter=Yes
 17	novanta	novanta	NUM	_	NumType=Card	18	nummod	_	KID=697-9
@@ -6291,10 +6291,10 @@
 3	anche	anche	ADV	_	_	2	advmod	_	End=1322.07|KID=698-2
 4	persone	persona	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	Begin=1322.345|KID=699-0
 5	di	di	ADP	_	_	9	case	_	KID=699-1
-6	sessanta	sessanta	NUM	_	NumType=Card	9	nummod	_	Intonation=weakly_rising|KID=699-2
-7	cinquanta	cinquanta	NUM	_	NumType=Card	9	nummod	_	Intonation=weakly_rising|KID=699-3
+6	sessanta	sessanta	NUM	_	NumType=Card	9	nummod	_	Intonation=WeaklyRising|KID=699-2
+7	cinquanta	cinquanta	NUM	_	NumType=Card	9	nummod	_	Intonation=WeaklyRising|KID=699-3
 8	quarantacinque	quarantacinque	NUM	_	NumType=Card	9	nummod	_	KID=699-4
-9	anni	anno	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	End=1325.813|Intonation=weakly_rising|KID=699-5
+9	anni	anno	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	End=1325.813|Intonation=WeaklyRising|KID=699-5
 10	in	in	ADP	_	_	11	case	_	Begin=1326.154|KID=700-0
 11	coma	coma	NOUN	_	Gender=Masc	4	nmod	_	End=1326.92|KID=700-1
 12	cioè	cioé	ADV	_	_	16	advmod	_	Begin=1327.135|KID=701-0|PaceFast=Yes
@@ -6398,7 +6398,7 @@
 9	pubblica	pubblica	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	KID=717-1
 10	non	non	ADV	_	PronType=Neg	11	advmod	_	KID=717-2
 11	privata	privare	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	KID=717-3
-12	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	15	nsubj	_	End=1356.418|Intonation=weakly_rising|KID=717-4|Prolonged=Yes
+12	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	15	nsubj	_	End=1356.418|Intonation=WeaklyRising|KID=717-4|Prolonged=Yes
 13	non	non	ADV	_	PronType=Neg	15	advmod	_	Begin=1356.951|KID=718-0
 14	possiamo	potere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	KID=718-1
 15	far	fare	VERB	_	VerbForm=Inf	0	root	_	KID=718-2
@@ -6423,7 +6423,7 @@
 # jefferson_text = [no (.) ci sono] i privati che fanno le scelte
 # speaker_id = BOI013
 1	no	no	ADV	_	PronType=Neg	3	advmod	_	Begin=1360.277|KID=721-0|OverlappingGroup=144|PauseAfter=Yes
-2	ci	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=721-2|OverlappingGroup=144
+2	ci	ci	PRON	_	PronType=Prs	3	expl	_	KID=721-2|OverlappingGroup=144
 3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=721-3|OverlappingGroup=144
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=721-4
 5	privati	privato	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	KID=721-5
@@ -6494,7 +6494,7 @@
 2	siamo	essere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=729-1
 3	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	End=1374.825|KID=729-2
 4	che	che	SCONJ	_	_	6	mark	_	Begin=1375.476|KID=730-0
-5	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|KID=730-1
+5	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	KID=730-1
 6	formano	formare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	End=1376.412|KID=730-2
 7	che	che	SCONJ	_	_	8	mark	_	Begin=1376.666|KID=731-0|PaceFast=Yes
 8	facciamo	fare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	KID=731-1|PaceFast=Yes
@@ -6546,10 +6546,10 @@
 # text = li chiamo come mi passa in ma~
 # jefferson_text = li chiamo::: come mi passa in ma~
 # speaker_id = BOI013
-1	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Begin=1388.033|Clitic=Yes|KID=736-0
+1	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Begin=1388.033|KID=736-0
 2	chiamo	chare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=736-1|Prolonged=Yes
 3	come	come	SCONJ	_	_	5	mark	_	KID=736-2
-4	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=736-3
+4	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	expl	_	KID=736-3
 5	passa	passare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=736-4
 6	in	in	ADP	_	_	7	case	_	KID=736-5
 7	ma~	ma~	PROPN	_	_	5	dep	_	End=1390.258|Interrupted=Yes|KID=736-6
@@ -6560,7 +6560,7 @@
 # speaker_id = BOI013
 1	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=1392.894|KID=740-0
 2	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	KID=740-1
-3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=740-2
+3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	KID=740-2
 4	ricordo	ricordare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=740-3
 5	più	più	ADV	_	_	4	advmod	_	End=1393.979|KID=740-4
 
@@ -6593,7 +6593,7 @@
 1	però	però	ADV	_	_	5	advmod	_	Begin=1401.998|KID=743-0
 2	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj:pass	_	KID=743-1
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=743-2
-4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:pass	_	Clitic=Yes|KID=743-3
+4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:pass	_	KID=743-3
 5	può	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1403.146|KID=743-4
 
 # sent_id = PBB004_744
@@ -6669,7 +6669,7 @@
 7	buon	buono	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	KID=750-6
 8	posto	posto	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	KID=750-7
 9	per	per	ADP	_	_	10	mark	_	KID=750-8
-10	lavorare	lavorare	VERB	_	VerbForm=Inf	4	advcl	_	End=1417.417|Intonation=rising|KID=750-9
+10	lavorare	lavorare	VERB	_	VerbForm=Inf	4	advcl	_	End=1417.417|Intonation=Rising|KID=750-9
 
 # sent_id = PBB004_751
 # text = oh dio cioè non lo so mh
@@ -6679,7 +6679,7 @@
 2	dio	diare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	discourse	_	KID=751-1|OverlappingGroup=148
 3	cioè	cioè	ADV	_	_	6	discourse	_	KID=751-2|Prolonged=Yes
 4	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=751-3
-5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=751-4
+5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=751-4
 6	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=751-5
 7	mh	mh	INTJ	_	_	6	discourse:filledpause	_	End=1421.669|KID=751-6|OverlappingGroup=149|Prolonged=Yes
 
@@ -6697,7 +6697,7 @@
 # jefferson_text = non lo so
 # speaker_id = BOI012
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=1421.808|KID=754-0
-2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Clitic=Yes|KID=754-1
+2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	KID=754-1
 3	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=1422.393|KID=754-2
 
 # sent_id = PBB004_755
@@ -6705,8 +6705,8 @@
 # jefferson_text = [non te lo so] dire
 # speaker_id = BOI012
 1	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=1422.59|KID=755-0|OverlappingGroup=150
-2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	4	iobj	_	Clitic=Yes|KID=755-1|OverlappingGroup=150
-3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=755-2|OverlappingGroup=150
+2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	4	iobj	_	KID=755-1|OverlappingGroup=150
+3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=755-2|OverlappingGroup=150
 4	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=755-3|OverlappingGroup=150
 5	dire	dire	VERB	_	VerbForm=Inf	4	xcomp	_	End=1423.484|KID=755-4
 
@@ -6724,7 +6724,7 @@
 1	ma	ma	CCONJ	_	_	5	cc	_	Begin=1423.965|KID=757-0
 2	secondo	secondo	ADP	_	_	3	case	_	KID=757-1
 3	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	5	obl	_	KID=757-2|Prolonged=Yes
-4	ci	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=757-3
+4	ci	ci	PRON	_	PronType=Prs	5	expl	_	KID=757-3
 5	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=conj:reform_PBB004_PBB004_756::1|KID=757-4
 6	città	città	NOUN	_	Gender=Fem	5	nsubj	_	KID=757-5
 7	che	che	PRON	_	PronType=Rel	12	nsubj	_	KID=757-6
@@ -6871,10 +6871,10 @@
 # jefferson_text = qui ci sono diritti (.) ci sono
 # speaker_id = BOI013
 1	qui	qui	ADV	_	_	3	advmod	_	Begin=1459.629|KID=770-0
-2	ci	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=770-1
+2	ci	ci	PRON	_	PronType=Prs	3	expl	_	KID=770-1
 3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=770-2
 4	diritti	diritto	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	KID=770-3|PauseAfter=Yes
-5	ci	ci	PRON	_	PronType=Prs	6	expl	_	Clitic=Yes|KID=770-5
+5	ci	ci	PRON	_	PronType=Prs	6	expl	_	KID=770-5
 6	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	End=1461.341|KID=770-6
 
 # sent_id = PBB004_771
@@ -6883,7 +6883,7 @@
 # speaker_id = BOI013
 1	giù	giù	ADV	_	_	4	advmod	_	Begin=1461.861|KID=771-0
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=771-1
-3	ci	ci	PRON	_	PronType=Prs	2	expl	_	Clitic=Yes|KID=771-2
+3	ci	ci	PRON	_	PronType=Prs	2	expl	_	KID=771-2
 4	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1462.605|KID=771-3
 
 # sent_id = PBB004_772
@@ -6897,12 +6897,12 @@
 # jefferson_text = qui c'è >una< uno stipendio sicuro,
 # speaker_id = BOI013
 1	qui	qui	ADV	_	_	3	advmod	_	Begin=1462.91|KID=773-0
-2	c'	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=773-1|SpaceAfter=No
+2	c'	ci	PRON	_	PronType=Prs	3	expl	_	KID=773-1|SpaceAfter=No
 3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=773-2
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	reparandum	_	End=1463.495|KID=773-3|PaceFast=Yes
 5	uno	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Begin=1463.892|KID=774-0
 6	stipendio	Stipendio	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	KID=774-1
-7	sicuro	sicuro	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	End=1465.392|Intonation=weakly_rising|KID=774-2
+7	sicuro	sicuro	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	End=1465.392|Intonation=WeaklyRising|KID=774-2
 
 # sent_id = PBB004_775
 # text = che giù non ce l'hanno
@@ -6911,8 +6911,8 @@
 1	che	che	SCONJ	_	_	6	mark	_	Begin=1465.448|KID=775-0
 2	giù	giù	ADV	_	_	6	advmod	_	KID=775-1|Prolonged=Yes
 3	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=775-2
-4	ce	ce	PRON	_	PronType=Prs	6	expl	_	Clitic=Yes|KID=775-3
-5	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=775-4|SpaceAfter=No
+4	ce	ce	PRON	_	PronType=Prs	6	expl	_	KID=775-3
+5	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=775-4|SpaceAfter=No
 6	hanno	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1467.076|KID=775-5
 
 # sent_id = PBB004_776
@@ -6922,11 +6922,11 @@
 1	però	però	ADV	_	_	9	discourse	_	Begin=1467.14|KID=776-0
 2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	KID=776-1
 3	da	da	ADP	_	_	4	case	_	KID=776-2
-4	milano	milano	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Intonation=weakly_rising|KID=776-3
+4	milano	milano	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Intonation=WeaklyRising|KID=776-3
 5	a	a	ADP	_	_	6	case	_	KID=776-4
 6	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	KID=776-5
 7	non	non	ADV	_	PronType=Neg	9	advmod	_	KID=776-6
-8	ne	ne	PRON	_	PronType=Prs	9	iobj	_	Clitic=Yes|KID=776-7
+8	ne	ne	PRON	_	PronType=Prs	9	iobj	_	KID=776-7
 9	viene	venire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=776-8
 10	a	a	ADP	_	_	11	case	_	KID=776-9|PaceFast=Yes
 11	lavorar~	lavorar~	PROPN	_	_	9	obl	_	Interrupted=Yes|KID=776-10|PaceFast=Yes
@@ -6941,7 +6941,7 @@
 1	a	a	ADP	_	_	2	case	_	Begin=1470.686|KID=777-0
 2	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=777-1
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=777-2
-4	ne	ne	PRON	_	PronType=Prs	5	iobj	_	Clitic=Yes|KID=777-3
+4	ne	ne	PRON	_	PronType=Prs	5	iobj	_	KID=777-3
 5	viene	venere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1471.845|KID=777-4|OverlappingGroup=151
 
 # sent_id = PBB004_778
@@ -6976,12 +6976,12 @@
 9	di	di	ADP	_	_	10	case	_	KID=781-3
 10	milano	milano	ADJ	_	Gender=Masc|Number=Sing	8	nmod	_	KID=781-4
 11	perché	perché	SCONJ	_	_	13	mark	_	KID=781-5
-12	c'	ci	PRON	_	PronType=Prs	13	expl	_	Clitic=Yes|KID=781-6|SpaceAfter=No
+12	c'	ci	PRON	_	PronType=Prs	13	expl	_	KID=781-6|SpaceAfter=No
 13	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	KID=781-7
 14	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	KID=781-8
 15	mio	mio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	KID=781-9
 16	contratto	contratto	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	End=1478.428|KID=781-10
-17	nazionale	nazionale	ADJ	_	Number=Sing	16	amod	_	Begin=1478.866|End=1479.844|Intonation=weakly_rising|KID=782-0
+17	nazionale	nazionale	ADJ	_	Number=Sing	16	amod	_	Begin=1478.866|End=1479.844|Intonation=WeaklyRising|KID=782-0
 
 # sent_id = PBB004_783
 # text = ed è messo in regola
@@ -6991,7 +6991,7 @@
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	KID=783-1|Prolonged=Yes
 3	messo	mettere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=783-2
 4	in	in	ADP	_	_	5	case	_	KID=783-3
-5	regola	regola	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	End=1481.957|Intonation=weakly_rising|KID=783-4
+5	regola	regola	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	End=1481.957|Intonation=WeaklyRising|KID=783-4
 
 # sent_id = PBB004_784
 # text = invece vengono persone che lavorano in nero giù
@@ -7136,7 +7136,7 @@
 # speaker_id = BOI012
 1	vabbè	vabbè	INTJ	_	_	4	discourse	_	Begin=1500.356|KID=796-0|PaceFast=Yes
 2	che	che	SCONJ	_	_	4	mark	_	KID=796-1|OverlappingGroup=160|PaceFast=Yes
-3	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	Clitic=Yes|KID=796-2|OverlappingGroup=160|PaceFast=Yes
+3	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	KID=796-2|OverlappingGroup=160|PaceFast=Yes
 4	lavora	lavorare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=796-3|OverlappingGroup=160|PaceFast=Yes
 5	male	male	ADV	_	_	4	advmod	_	KID=796-4|PaceFast=Yes
 6	là	là	ADV	_	_	4	advmod	_	End=1501.696|KID=796-5|PaceFast=Yes
@@ -7157,7 +7157,7 @@
 1	se	se	SCONJ	_	_	3	mark	_	Begin=1503.362|KID=799-0
 2	vuoi	volere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	KID=799-1
 3	lavorare	lavorare	VERB	_	VerbForm=Inf	5	advcl	_	KID=799-2
-4	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obj	_	Clitic=Yes|KID=799-3
+4	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obj	_	KID=799-3
 5	prendi	prendere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=799-4
 6	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=799-5
 7	tuoi	tuo	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	KID=799-6|PauseAfter=Yes
@@ -7190,7 +7190,7 @@
 3	dicono	dire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=803-2
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=803-3
 5	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	KID=803-4
-6	colleghi	collega	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	Intonation=weakly_rising|KID=803-5
+6	colleghi	collega	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	Intonation=WeaklyRising|KID=803-5
 7	perché	perché	SCONJ	_	_	9	mark	_	KID=803-6
 8	allora	allora	ADV	_	_	9	advmod	_	KID=803-7
 9	fanno	fare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	KID=803-8
@@ -7351,12 +7351,12 @@
 # text = ci vanno perché guadagnan di più
 # jefferson_text = ci vanno perché::: >guadagnan di più::<,
 # speaker_id = BOI012
-1	ci	ci	PRON	_	PronType=Prs	2	expl	_	Begin=1545.861|Clitic=Yes|KID=815-0
+1	ci	ci	PRON	_	PronType=Prs	2	expl	_	Begin=1545.861|KID=815-0
 2	vanno	andare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Backchannel=conj:reform_PBB004_PBB004_813::4|KID=815-1
 3	perché	perché	SCONJ	_	_	4	mark	_	KID=815-2|Prolonged=Yes
 4	guadagnan	guadagnan	NOUN	_	Gender=Masc	2	advcl	_	KID=815-3|PaceFast=Yes
 5	di	di	ADP	_	_	6	case	_	KID=815-4|PaceFast=Yes
-6	più	più	ADV	_	_	4	advmod	_	End=1548.641|Intonation=weakly_rising|KID=815-5|PaceFast=Yes|Prolonged=Yes
+6	più	più	ADV	_	_	4	advmod	_	End=1548.641|Intonation=WeaklyRising|KID=815-5|PaceFast=Yes|Prolonged=Yes
 
 # sent_id = PBB004_816_817_PBB004_818
 # text = se trovi dei lavori che sono più vicini a alla tua idea di di lavoro e via discorrendo
@@ -7437,7 +7437,7 @@
 2	dire	dire	VERB	_	VerbForm=Inf	0	root	_	End=1570.32|KID=824-1
 3	eh	eh	INTJ	_	_	2	discourse	_	Begin=1570.615|End=1570.998|KID=825-0
 4	se	se	SCONJ	_	_	6	mark	_	Begin=1571.126|KID=826-0|PaceFast=Yes
-5	c'	ci	PRON	_	PronType=Prs	6	expl	_	Clitic=Yes|KID=826-1|PaceFast=Yes|SpaceAfter=No
+5	c'	ci	PRON	_	PronType=Prs	6	expl	_	KID=826-1|PaceFast=Yes|SpaceAfter=No
 6	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=826-2|PaceFast=Yes
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=826-3|PaceFast=Yes
 8	possibilità	possibilità	NOUN	_	Gender=Fem	6	obj	_	KID=826-4|PaceFast=Yes
@@ -7526,7 +7526,7 @@
 # jefferson_text = tu gina?
 # speaker_id = BOR005
 1	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	Begin=1587.925|KID=835-0
-2	gina	Gina	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	vocative	_	End=1588.478|Intonation=rising|KID=835-1
+2	gina	Gina	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	vocative	_	End=1588.478|Intonation=Rising|KID=835-1
 
 # sent_id = PBB004_836_837
 # text = no a me piace l'italia
@@ -7559,7 +7559,7 @@
 # jefferson_text = [e ti s]aresti trasferita in (.) qualche altra parte d'italia? (.) per lavoro?
 # speaker_id = BOR005
 1	e	e	CCONJ	_	_	4	discourse	_	Begin=1597.743|KID=840-0|OverlappingGroup=164
-2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	4	expl	_	Clitic=Yes|KID=840-1|OverlappingGroup=164
+2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	4	expl	_	KID=840-1|OverlappingGroup=164
 3	saresti	saere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	KID=840-2|OverlappingGroup=164
 4	trasferita	trasferire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=840-3
 5	in	in	ADP	_	_	8	case	_	KID=840-4|PauseAfter=Yes
@@ -7567,9 +7567,9 @@
 7	altra	altro	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	KID=840-7
 8	parte	parte	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	KID=840-8
 9	d'	di	ADP	_	_	10	case	_	KID=840-9|SpaceAfter=No
-10	italia	italia	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	Intonation=rising|KID=840-10|PauseAfter=Yes
+10	italia	italia	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	Intonation=Rising|KID=840-10|PauseAfter=Yes
 11	per	per	ADP	_	_	12	case	_	KID=840-12
-12	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	End=1601.178|Intonation=rising|KID=840-13
+12	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	End=1601.178|Intonation=Rising|KID=840-13
 
 # sent_id = PBB004_841
 # text = mh
@@ -7696,9 +7696,9 @@
 2	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	KID=853-1
 3	enrico	enrire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	vocative	_	KID=853-2
 4	invece	invece	ADV	_	_	7	advmod	_	KID=853-3
-5	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	7	expl	_	Clitic=Yes|KID=853-4
+5	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	7	expl	_	KID=853-4
 6	saresti	essere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	KID=853-5
-7	trasferito	trasferire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=1623.934|Intonation=rising|KID=853-6
+7	trasferito	trasferire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=1623.934|Intonation=Rising|KID=853-6
 
 # sent_id = PBB004_854_855
 # text = beh io non son mai stato costretto a trasferirmi cioè nel senso che ho sempre trovato qualche cosa da fare qui e son riuscito a vivere qui
@@ -7749,7 +7749,7 @@
 7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=856-6
 8	logico	logico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	End=1635.82|KID=856-7
 9	che	che	SCONJ	_	_	12	mark	_	Begin=1636.35|KID=857-0
-10	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|KID=857-1
+10	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	expl	_	KID=857-1
 11	sarei	essere	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	KID=857-2
 12	trasferito	trasferire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	KID=857-3|PauseAfter=Yes
 13	cioè	cioè	ADV	_	_	8	discourse	_	End=1638.127|KID=857-5
@@ -7816,7 +7816,7 @@
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=864-3
 11	po'	poco	ADV	_	_	9	advmod	_	KID=864-4
 12	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	KID=864-5
-13	tromba	tromba	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	End=1660.115|Intonation=weakly_rising|KID=864-6|OverlappingGroup=167|Prolonged=Yes
+13	tromba	tromba	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	End=1660.115|Intonation=WeaklyRising|KID=864-6|OverlappingGroup=167|Prolonged=Yes
 
 # sent_id = PBB004_865
 # text = mhmh
@@ -7892,11 +7892,11 @@
 # text = mi piace la mattina mi guardo agorà
 # jefferson_text = mi piace:::: la mattina mi guardo agorà
 # speaker_id = BOI013
-1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=1676.396|Clitic=Yes|KID=878-0
+1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=1676.396|KID=878-0
 2	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	KID=878-1|Prolonged=Yes
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=878-2
 4	mattina	mattina	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	KID=878-3
-5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|KID=878-4
+5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	expl	_	KID=878-4
 6	guardo	guardare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=conj:reform_PBB004_PBB004_871::2|KID=878-5
 7	agorà	agore	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	obj	_	End=1679.662|KID=878-6
 
@@ -7950,12 +7950,12 @@
 # jefferson_text = perché <mi piace> sapere::: quello che succede, ch[e::::]
 # speaker_id = BOI013
 1	perché	perché	SCONJ	_	_	3	mark	_	Begin=1685.986|KID=883-0
-2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	Clitic=Yes|KID=883-1|PaceSlow=Yes
+2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	KID=883-1|PaceSlow=Yes
 3	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=883-2|PaceSlow=Yes
 4	sapere	sapere	VERB	_	VerbForm=Inf	3	xcomp	_	End=1688.252|KID=883-3|Prolonged=Yes
 5	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	Begin=1688.52|KID=884-0
 6	che	che	PRON	_	PronType=Rel	7	nsubj	_	KID=884-1
-7	succede	succedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	End=1689.701|Intonation=weakly_rising|KID=884-2
+7	succede	succedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	End=1689.701|Intonation=WeaklyRising|KID=884-2
 8	che	che	SCONJ	_	_	3	orphan	_	Begin=1690.153|End=1691.684|KID=885-0|OverlappingGroup=170|Prolonged=Yes
 
 # sent_id = PBB004_886
@@ -8002,7 +8002,7 @@
 6	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=889-6
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=889-7
 8	nostra	nostro	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	KID=889-8
-9	regione	regione	NOUN	_	Gender=Fem|Number=Sing	2	xcomp	_	End=1699.96|Intonation=weakly_rising|KID=889-9
+9	regione	regione	NOUN	_	Gender=Fem|Number=Sing	2	xcomp	_	End=1699.96|Intonation=WeaklyRising|KID=889-9
 
 # sent_id = PBB004_890
 # text = guardo molto queste queste cose qui poi le teleno~ le telenovelas
@@ -8015,7 +8015,7 @@
 5	cose	cosa	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	KID=890-4
 6	qui	qui	ADV	_	_	5	advmod	_	KID=890-5
 7	poi	poi	ADV	_	_	1	advmod	_	KID=890-6|Prolonged=Yes
-8	le	le	DET	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	9	det	_	Clitic=Yes|KID=890-7|Volume=low
+8	le	le	DET	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	9	det	_	KID=890-7|Volume=low
 9	teleno~	teleno~	VERB	_	_	11	reparandum	_	KID=890-8|Prolonged=Yes|Volume=low
 10	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	KID=890-9|Volume=low
 11	telenovelas	telenovelas	NOUN	_	Gender=Masc	5	conj	_	Coconstruct=conj:reform_PBB004_PBB004_871::2|End=1705.085|KID=890-10|Volume=low
@@ -8108,7 +8108,7 @@
 1	però	però	ADV	_	_	5	advmod	_	Begin=1719.756|KID=898-0
 2	quando	quando	SCONJ	_	_	5	mark	_	KID=898-1
 3	posso	potere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=898-2
-4	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Clitic=Yes|KID=898-3
+4	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	KID=898-3
 5	guardo	guardare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	KID=898-4
 6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=898-5
 7	t~	t~	X	_	_	5	dep	_	Interrupted=Yes|KID=898-6
@@ -8117,7 +8117,7 @@
 10	torno	tornare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	advcl	_	KID=898-10|PaceFast=Yes
 11	da	da	ADP	_	_	12	case	_	KID=898-11|PaceFast=Yes
 12	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	End=1723.064|KID=898-12|PaceFast=Yes
-13	c'	ci	PRON	_	PronType=Prs	14	expl	_	Begin=1723.471|Clitic=Yes|KID=899-0|PaceFast=Yes|SpaceAfter=No
+13	c'	ci	PRON	_	PronType=Prs	14	expl	_	Begin=1723.471|KID=899-0|PaceFast=Yes|SpaceAfter=No
 14	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=899-1|PaceFast=Yes
 15	proprio	proprio	ADV	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	advmod	_	KID=899-2|PaceFast=Yes
 16	bisogno	bisogno	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	KID=899-3|PaceFast=Yes
@@ -8183,8 +8183,8 @@
 # jefferson_text = doppia mascherina, camice, no >°cioè no°<
 # speaker_id = BOI013
 1	doppia	doppio	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	Begin=1738.255|KID=906-0
-2	mascherina	mascherina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=1739.457|Intonation=weakly_rising|KID=906-1
-3	camice	camice	NOUN	_	_	2	conj	_	Begin=1739.861|Intonation=weakly_rising|KID=907-0
+2	mascherina	mascherina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=1739.457|Intonation=WeaklyRising|KID=906-1
+3	camice	camice	NOUN	_	_	2	conj	_	Begin=1739.861|Intonation=WeaklyRising|KID=907-0
 4	no	no	ADV	_	_	2	advmod	_	KID=907-1
 5	cioè	cioè	INTJ	_	_	2	discourse	_	KID=907-2|PaceFast=Yes|Volume=low
 6	no	no	ADV	_	_	2	advmod	_	End=1740.925|KID=907-3|PaceFast=Yes|Volume=low
@@ -8255,8 +8255,8 @@
 2	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	KID=915-1|PaceFast=Yes
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=915-2|PaceFast=Yes
 4	tv	tv	NOUN	_	Gender=Fem	6	obj	_	KID=915-3|PaceFast=Yes
-5	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=915-4|PaceFast=Yes
-6	guardi	guardare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	End=1749.866|Intonation=rising|KID=915-5|PaceFast=Yes
+5	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=915-4|PaceFast=Yes
+6	guardi	guardare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	End=1749.866|Intonation=Rising|KID=915-5|PaceFast=Yes
 
 # sent_id = PBB004_916_917
 # text = sì sì
@@ -8350,19 +8350,19 @@
 # text = mi piacciono i film di fantascienza ma li ho già visti tutti mi sa
 # jefferson_text = (mi) piacciono i film di fantascienza, ma li ho già visti tutti °mi sa°
 # speaker_id = BOI012
-1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=1766.926|Clitic=Yes|KID=924-0
+1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=1766.926|KID=924-0
 2	piacciono	piacere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=924-1
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=924-2
 4	film	film	NOUN	_	Gender=Masc	2	obj	_	KID=924-3
 5	di	di	ADP	_	_	6	case	_	KID=924-4
-6	fantascienza	fantascienza	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	Intonation=weakly_rising|KID=924-5
+6	fantascienza	fantascienza	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	Intonation=WeaklyRising|KID=924-5
 7	ma	ma	CCONJ	_	_	11	cc	_	KID=924-6
-8	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obj	_	Clitic=Yes|KID=924-7
+8	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obj	_	KID=924-7
 9	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	KID=924-8
 10	già	già	ADV	_	_	11	advmod	_	KID=924-9
 11	visti	vedere	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	KID=924-10
 12	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	11	obj	_	KID=924-11
-13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	Clitic=Yes|KID=924-12|Volume=low
+13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	KID=924-12|Volume=low
 14	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	End=1769.83|KID=924-13|Volume=low
 
 # sent_id = PBB004_926
@@ -8382,8 +8382,8 @@
 2	a	a	ADP	_	_	3	case	_	Begin=1773.199|KID=928-0
 3	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	KID=928-1
 4	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1774.38|KID=928-2|Prolonged=Yes
-5	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	8	iobj	_	Begin=1774.632|Clitic=Yes|KID=929-0
-6	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=929-1|SpaceAfter=No
+5	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	8	iobj	_	Begin=1774.632|KID=929-0
+6	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=929-1|SpaceAfter=No
 7	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	KID=929-2
 8	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	End=1775.419|KID=929-3
 
@@ -8403,19 +8403,19 @@
 4	di	di	ADP	_	_	5	case	_	KID=931-3
 5	sera	sera	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	KID=931-4
 6	no	no	INTJ	_	PronType=Neg	8	discourse	_	KID=931-5
-7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	iobj	_	Clitic=Yes|KID=931-6
+7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	iobj	_	KID=931-6
 8	guardo	guardare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=931-7|Prolonged=Yes
 9	ormai	ormai	ADV	_	_	11	advmod	_	KID=931-8|PaceFast=Yes
-10	c'	ci	PRON	_	PronType=Prs	11	expl	_	Clitic=Yes|KID=931-9|PaceFast=Yes|SpaceAfter=No
+10	c'	ci	PRON	_	PronType=Prs	11	expl	_	KID=931-9|PaceFast=Yes|SpaceAfter=No
 11	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	KID=931-10|PaceFast=Yes
 12	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=931-11|PaceFast=Yes
 13	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	KID=931-12|PaceFast=Yes
 14	fissi	fisso	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	End=1779.744|KID=931-13|PaceFast=Yes
 15	carta	carta	NOUN	_	Gender=Fem|Number=Sing	16	compound	_	Begin=1780.186|KID=932-0
-16	bianca	bianco	ADJ	_	Gender=Fem|Number=Sing	14	nmod	_	End=1781.388|Intonation=weakly_rising|KID=932-1
+16	bianca	bianco	ADJ	_	Gender=Fem|Number=Sing	14	nmod	_	End=1781.388|Intonation=WeaklyRising|KID=932-1
 17	con	con	ADP	_	_	19	case	_	Begin=1782.132|KID=933-0
 18	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	KID=933-1
-19	berlinguer	berlinguer	NOUN	_	_	16	nmod	_	End=1783.217|Intonation=weakly_rising|KID=933-2|OverlappingGroup=177
+19	berlinguer	berlinguer	NOUN	_	_	16	nmod	_	End=1783.217|Intonation=WeaklyRising|KID=933-2|OverlappingGroup=177
 
 # sent_id = PBB004_934
 # text = sì anche a me capita di vedere
@@ -8434,11 +8434,11 @@
 # jefferson_text = [perché mi] interes[sa: sa~] >te l'ho detto [poi mi<]
 # speaker_id = BOI013
 1	perché	perché	SCONJ	_	_	3	mark	_	Begin=1784.517|KID=935-0|OverlappingGroup=178
-2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	Clitic=Yes|KID=935-1|OverlappingGroup=178
+2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	KID=935-1|OverlappingGroup=178
 3	interessa	interessare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	Coconstruct=advcl_PBB004_PBB004_931_932_PBB004_933::8|KID=935-2|OverlappingGroup=179|Prolonged=Yes
 4	sa~	sa~	PROPN	_	_	3	dep	_	Interrupted=Yes|KID=935-3|OverlappingGroup=179
-5	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	8	obl	_	Clitic=Yes|KID=935-4|PaceFast=Yes
-6	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=935-5|PaceFast=Yes|SpaceAfter=No
+5	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	8	obl	_	KID=935-4|PaceFast=Yes
+6	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=935-5|PaceFast=Yes|SpaceAfter=No
 7	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	KID=935-6|PaceFast=Yes
 8	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=935-7|PaceFast=Yes
 9	poi	poi	ADV	_	_	8	advmod	_	KID=935-8|OverlappingGroup=180|PaceFast=Yes
@@ -8471,8 +8471,8 @@
 # text = te mi mi
 # jefferson_text = [te mi:::] mi
 # speaker_id = BOI013
-1	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Begin=1789.079|Clitic=Yes|KID=938-0|OverlappingGroup=181
-2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	reparandum	_	Clitic=Yes|KID=938-1|OverlappingGroup=181|Prolonged=Yes
+1	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Begin=1789.079|KID=938-0|OverlappingGroup=181
+2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	reparandum	_	KID=938-1|OverlappingGroup=181|Prolonged=Yes
 3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	Clitic=Yes|End=1790.111|KID=938-2
 
 # sent_id = PBB004_939
@@ -8486,13 +8486,13 @@
 # jefferson_text = mercoledì mi devo guardare chi l'ha visto,
 # speaker_id = BOI013
 1	mercoledì	mercoledì	NOUN	_	Gender=Masc	4	advmod	_	Begin=1790.303|KID=940-0
-2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes|KID=940-1
+2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	KID=940-1
 3	devo	dovere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	KID=940-2
 4	guardare	guardare	VERB	_	VerbForm=Inf	0	root	_	KID=940-3
 5	chi	chi	PRON	_	Number=Sing|PronType=Rel	8	nsubj	_	KID=940-4
-6	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=940-5|SpaceAfter=No
+6	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=940-5|SpaceAfter=No
 7	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	KID=940-6
-8	visto	vedere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	obj	_	End=1792.92|Intonation=weakly_rising|KID=940-7
+8	visto	vedere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	obj	_	End=1792.92|Intonation=WeaklyRising|KID=940-7
 
 # sent_id = PBB004_942
 # text = martedì carta bianca io c'ho i miei
@@ -8500,9 +8500,9 @@
 # speaker_id = BOI013
 1	martedì	martedì	NOUN	_	Gender=Masc	6	advmod	_	Begin=1793.632|KID=942-0
 2	carta	carta	NOUN	_	Gender=Fem|Number=Sing	3	compound	_	KID=942-1
-3	bianca	bianco	ADJ	_	Gender=Fem|Number=Sing	6	obj	_	Intonation=weakly_rising|KID=942-2
+3	bianca	bianco	ADJ	_	Gender=Fem|Number=Sing	6	obj	_	Intonation=WeaklyRising|KID=942-2
 4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	KID=942-3
-5	c'	ci	PRON	_	PronType=Prs	6	expl	_	Clitic=Yes|KID=942-4|SpaceAfter=No
+5	c'	ci	PRON	_	PronType=Prs	6	expl	_	KID=942-4|SpaceAfter=No
 6	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=942-5
 7	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=942-6
 8	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	advmod	_	End=1796.749|KID=942-7|Prolonged=Yes
@@ -8512,14 +8512,14 @@
 # jefferson_text = [m]artedì ci sei te in tv ti dobbiamo vedere,
 # speaker_id = BOI012
 1	martedì	martedì	NOUN	_	Gender=Masc	3	advmod	_	Begin=1796.672|KID=943-0|OverlappingGroup=182
-2	ci	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=943-1
+2	ci	ci	PRON	_	PronType=Prs	3	expl	_	KID=943-1
 3	sei	essere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=943-2
 4	te	re	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	nsubj	_	KID=943-3
 5	in	in	ADP	_	_	6	case	_	KID=943-4
 6	tv	tv	NOUN	_	Gender=Fem	3	obl	_	KID=943-5
-7	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	9	obj	_	Clitic=Yes|KID=943-6
+7	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	9	obj	_	KID=943-6
 8	dobbiamo	dovere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	KID=943-7
-9	vedere	vedere	VERB	_	VerbForm=Inf	3	parataxis	_	End=1798.981|Intonation=weakly_rising|KID=943-8
+9	vedere	vedere	VERB	_	VerbForm=Inf	3	parataxis	_	End=1798.981|Intonation=WeaklyRising|KID=943-8
 
 # sent_id = PBB004_947
 # text = che scherzi
@@ -8577,15 +8577,15 @@
 6	che	che	SCONJ	_	_	10	mark	_	KID=953-5|PaceFast=Yes
 7	a	a	ADP	_	_	8	case	_	KID=953-6
 8	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	KID=953-7
-9	ci	ci	PRON	_	PronType=Prs	10	expl	_	Clitic=Yes|KID=953-8
+9	ci	ci	PRON	_	PronType=Prs	10	expl	_	KID=953-8
 10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	KID=953-9
 11	parecchie	parecchio	DET	_	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	KID=953-10
-12	squadre	squadra	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	Intonation=weakly_rising|KID=953-11
+12	squadre	squadra	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	Intonation=WeaklyRising|KID=953-11
 13	fra	fra	ADP	_	_	14	case	_	KID=953-12
-14	basket	basket	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	Intonation=weakly_rising|KID=953-13
+14	basket	basket	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	Intonation=WeaklyRising|KID=953-13
 15	calcio	calcio	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	KID=953-14
 16	seguite	seguire	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=953-15
-17	qualcuna	qualcuno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	16	obj	_	End=1814.67|Intonation=rising|KID=953-16
+17	qualcuna	qualcuno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	16	obj	_	End=1814.67|Intonation=Rising|KID=953-16
 
 # sent_id = PBB004_954
 # text = no se no
@@ -8634,7 +8634,7 @@
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=957-3
 5	basket	basket	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	KID=957-4
 6	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=957-5
-7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	Clitic=Yes|KID=957-6
+7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	KID=957-6
 8	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	KID=957-7
 9	mai	mai	ADV	_	_	10	advmod	_	KID=957-8
 10	interessato	interessare	VERB	_	Gender=Masc|Number=Sing	0	root	_	End=1823.764|KID=957-9
@@ -8643,7 +8643,7 @@
 # text = lo so che bologna è basket city ma eh il basket non mi ha mai mh
 # jefferson_text = >lo so che bologna< è basket city ma:: e::::h il basket non mi ha mai:::: mh
 # speaker_id = BOI012
-1	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Begin=1824.291|Clitic=Yes|KID=958-0|PaceFast=Yes
+1	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Begin=1824.291|KID=958-0|PaceFast=Yes
 2	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=958-1|PaceFast=Yes
 3	che	che	SCONJ	_	_	5	mark	_	KID=958-2|PaceFast=Yes
 4	bologna	bolognare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	nsubj	_	KID=958-3|PaceFast=Yes
@@ -8655,7 +8655,7 @@
 10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=959-1
 11	basket	basket	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	KID=959-2
 12	non	non	ADV	_	PronType=Neg	14	advmod	_	KID=959-3
-13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	Clitic=Yes|KID=959-4
+13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	KID=959-4
 14	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	KID=959-5
 15	mai	mai	ADV	_	_	14	advmod	_	KID=959-6|Prolonged=Yes
 16	mh	mh	INTJ	_	Gender=Masc	14	discourse:filledpause	_	End=1829.754|KID=959-7
@@ -8688,7 +8688,7 @@
 5	che	che	PRON	_	PronType=Rel	9	nsubj	_	KID=962-4
 6	non	non	ADV	_	PronType=Neg	9	advmod	_	KID=962-5
 7	eh	eh	INTJ	_	_	9	discourse	_	KID=962-6|Prolonged=Yes
-8	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	Clitic=Yes|KID=962-7
+8	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	KID=962-7
 9	sento	sentire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	KID=962-8
 10	lontana	lontano	ADJ	_	Gender=Fem|Number=Sing	9	xcomp	_	KID=962-9
 11	da	da	ADP	_	_	12	case	_	KID=962-10
@@ -8719,7 +8719,7 @@
 # speaker_id = BOI013
 1	sì	sì	ADV	_	_	4	advmod	_	Backchannel=PBB004_PBB004_964::4|Begin=1841.299|KID=965-0|OverlappingGroup=185|Prolonged=Yes
 2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	KID=965-1
-3	c'	ci	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=965-2|SpaceAfter=No
+3	c'	ci	PRON	_	PronType=Prs	4	expl	_	KID=965-2|SpaceAfter=No
 4	andavo	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	KID=965-3|PauseAfter=Yes
 5	seguivo	seguivo	ADJ	_	Gender=Masc|Number=Sing	4	xcomp	_	KID=965-5
 6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=965-6
@@ -8733,14 +8733,14 @@
 2	sì	sì	ADV	_	_	6	advmod	_	Backchannel=PBB004_PBB004_964::4ioPRONio|KID=968-1
 3	sì	sì	ADV	_	_	2	flat	_	KID=968-2
 4	che	che	SCONJ	_	_	6	mark	_	KID=968-3
-5	c'	ci	PRON	_	PronType=Prs	6	expl	_	Clitic=Yes|KID=968-4|SpaceAfter=No
+5	c'	ci	PRON	_	PronType=Prs	6	expl	_	KID=968-4|SpaceAfter=No
 6	andavo	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	End=1848.204|KID=968-5|Prolonged=Yes
 
 # sent_id = PBB004_969
 # text = abbonamento
 # jefferson_text = abbonamento?
 # speaker_id = BOR005
-1	abbonamento	abbonamento	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1849.32|End=1850.384|Intonation=rising|KID=969-0
+1	abbonamento	abbonamento	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1849.32|End=1850.384|Intonation=Rising|KID=969-0
 
 # sent_id = PBB004_970_971
 # text = no anda~ no no però andavamo anche fu~ andavamo a reggio emilia quando giocava con il milan
@@ -8757,12 +8757,12 @@
 9	andavamo	andare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Begin=1854.353|KID=971-0
 10	a	a	ADP	_	_	12	case	_	KID=971-1
 11	reggio	reggio	NOUN	_	Gender=Masc|Number=Sing	12	compound	_	KID=971-2
-12	emilia	emiliare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	obl	_	Intonation=weakly_rising|KID=971-3|Prolonged=Yes
+12	emilia	emiliare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	obl	_	Intonation=WeaklyRising|KID=971-3|Prolonged=Yes
 13	quando	quando	SCONJ	_	_	14	mark	_	KID=971-4
 14	giocava	giocare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	KID=971-5
 15	con	con	ADP	_	_	17	case	_	KID=971-6
 16	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	KID=971-7
-17	milan	milan	NOUN	_	Gender=Masc	14	obl	_	End=1858.108|Intonation=weakly_rising|KID=971-8|OverlappingGroup=186
+17	milan	milan	NOUN	_	Gender=Masc	14	obl	_	End=1858.108|Intonation=WeaklyRising|KID=971-8|OverlappingGroup=186
 
 # sent_id = PBB004_972
 # text = però poco io non son mai stato uno sportivo
@@ -8836,7 +8836,7 @@
 # text = mhmh
 # jefferson_text = mhmh?
 # speaker_id = BOR005
-1	mhmh	mhmh	INTJ	_	Gender=Masc	0	root	_	Backchannel=PBB004_PBB004_976_978::2|Begin=1867.839|End=1868.308|Intonation=rising|KID=977-0
+1	mhmh	mhmh	INTJ	_	Gender=Masc	0	root	_	Backchannel=PBB004_PBB004_976_978::2|Begin=1867.839|End=1868.308|Intonation=Rising|KID=977-0
 
 # sent_id = PBB004_979
 # text = tu gina hai fatto sport
@@ -8913,7 +8913,7 @@
 # jefferson_text = o veronica,
 # speaker_id = BOI012
 1	o	o	CCONJ	_	_	2	cc	_	Begin=1884.889|KID=987-0
-2	veronica	veronico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj_PBB004_PBB004_984::14|End=1885.836|Intonation=weakly_rising|KID=987-1
+2	veronica	veronico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj_PBB004_PBB004_984::14|End=1885.836|Intonation=WeaklyRising|KID=987-1
 
 # sent_id = PBB004_988_989
 # text = e in fretta e furia son scappato via non ho fatto non ho visto neanche sul podio
@@ -8962,7 +8962,7 @@
 6	arrivato	arrivare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	KID=992-5|PaceFast=Yes
 7	primo	primo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	xcomp	_	KID=992-6|PaceFast=Yes
 8	non	non	ADV	_	PronType=Neg	12	advmod	_	KID=992-7|PaceFast=Yes
-9	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	iobj	_	Clitic=Yes|KID=992-8|PaceFast=Yes
+9	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	iobj	_	KID=992-8|PaceFast=Yes
 10	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	KID=992-9|PaceFast=Yes
 11	ne~	ne~	X	_	_	12	dep	_	End=1895.775|Interrupted=Yes|KID=992-10|PaceFast=Yes
 12	gustato	gustare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Begin=1896.0|KID=994-0
@@ -8992,12 +8992,12 @@
 1	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	reparandum	_	Begin=1901.727|KID=999-0
 2	beh	beh	INTJ	_	_	5	discourse	_	KID=999-1|PaceFast=Yes
 3	oh	oh	INTJ	_	_	5	discourse	_	KID=999-2|PaceFast=Yes
-4	c'	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=999-3|SpaceAfter=No
+4	c'	ci	PRON	_	PronType=Prs	5	expl	_	KID=999-3|SpaceAfter=No
 5	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=999-4
 6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=999-5
 7	torta	torta	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	End=1903.429|KID=999-6
 8	eh	eh	INTJ	_	_	10	discourse	_	Begin=1905.558|KID=1001-0|OverlappingGroup=191|PaceFast=Yes
-9	c'	ci	PRON	_	PronType=Prs	10	expl	_	Clitic=Yes|KID=1001-1|PaceFast=Yes|SpaceAfter=No
+9	c'	ci	PRON	_	PronType=Prs	10	expl	_	KID=1001-1|PaceFast=Yes|SpaceAfter=No
 10	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	KID=1001-2|PaceFast=Yes
 11	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	KID=1001-3|PaceFast=Yes
 12	torta	torta	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	End=1906.654|KID=1001-4|PaceFast=Yes
@@ -9012,12 +9012,12 @@
 4	musica	musica	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	End=1910.016|KID=1003-3
 5	a	a	ADP	_	_	6	case	_	Begin=1910.155|KID=1004-0
 6	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	KID=1004-1
-7	ci	ci	PRON	_	PronType=Prs	8	expl	_	Clitic=Yes|KID=1004-2
+7	ci	ci	PRON	_	PronType=Prs	8	expl	_	KID=1004-2
 8	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1004-3
 9	tanti	tanto	DET	_	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	KID=1004-4|PauseAfter=Yes
 10	artisti	artista	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	KID=1004-6|PauseAfter=Yes
-11	ce	ce	PRON	_	PronType=Prs	15	expl	_	Clitic=Yes|KID=1004-8
-12	ne	ne	PRON	_	PronType=Prs	15	expl	_	Clitic=Yes|KID=1004-9
+11	ce	ce	PRON	_	PronType=Prs	15	expl	_	KID=1004-8
+12	ne	ne	PRON	_	PronType=Prs	15	expl	_	KID=1004-9
 13	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	KID=1004-10
 14	anche	anche	ADV	_	_	15	advmod	_	KID=1004-11
 15	stati	essere	AUX	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	parataxis	_	End=1914.677|KID=1004-12
@@ -9031,11 +9031,11 @@
 23	incontrare	incontrare	VERB	_	VerbForm=Inf	21	xcomp	_	KID=1005-7
 24	qualche	qualche	DET	_	Number=Sing|PronType=Ind	25	det	_	KID=1005-8
 25	artista	artista	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	KID=1005-9
-26	bolognese	bolognese	ADJ	_	Number=Sing	25	amod	_	Intonation=weakly_rising|KID=1005-10
+26	bolognese	bolognese	ADJ	_	Number=Sing	25	amod	_	Intonation=WeaklyRising|KID=1005-10
 27	in	in	ADP	_	_	28	case	_	KID=1005-11|OverlappingGroup=192
 28	giro	giro	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	KID=1005-12|OverlappingGroup=192
 29	per	per	ADP	_	_	30	case	_	KID=1005-13|OverlappingGroup=192
-30	strada	strada	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	End=1920.214|Intonation=rising|KID=1005-14|OverlappingGroup=192
+30	strada	strada	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	End=1920.214|Intonation=Rising|KID=1005-14|OverlappingGroup=192
 
 # sent_id = PBB004_1006
 # text = uh avoglia sì eh
@@ -9051,7 +9051,7 @@
 # jefferson_text = [luc]a carboni,
 # speaker_id = BOI013
 1	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	2	compound	_	Begin=1920.299|KID=1007-0|OverlappingGroup=193
-2	carboni	Carboni	PROPN	_	Gender=Fem|Number=Plur	0	root	_	End=1921.48|Intonation=weakly_rising|KID=1007-1
+2	carboni	Carboni	PROPN	_	Gender=Fem|Number=Plur	0	root	_	End=1921.48|Intonation=WeaklyRising|KID=1007-1
 
 # sent_id = PBB004_1008
 # text = mhmh
@@ -9063,7 +9063,7 @@
 # text = si chiama luca carbo~ sì sì in chiesa l'ho incontra~
 # jefferson_text = °si chiama lu[ca carbo~°] >sì sì< in chiesa °l'ho incontra~°
 # speaker_id = BOI013
-1	si	si	PRON	_	Person=3|PronType=Prs	2	expl	_	Begin=1923.002|Clitic=Yes|KID=1009-0|Volume=low
+1	si	si	PRON	_	Person=3|PronType=Prs	2	expl	_	Begin=1923.002|KID=1009-0|Volume=low
 2	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1009-1|Volume=low
 3	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	2	obj	_	KID=1009-2|OverlappingGroup=194|Volume=low
 4	carbo~	carbo~	X	_	_	3	dep	_	Interrupted=Yes|KID=1009-3|OverlappingGroup=194|Volume=low
@@ -9109,7 +9109,7 @@
 # jefferson_text = gianni morandi,
 # speaker_id = BOI013
 1	gianni	gianno	PROPN	_	Gender=Masc|Number=Plur	0	root	_	Begin=1930.307|KID=1014-0
-2	morandi	morande	PROPN	_	Number=Plur	1	flat:name	_	End=1931.435|Intonation=weakly_rising|KID=1014-1
+2	morandi	morande	PROPN	_	Number=Plur	1	flat:name	_	End=1931.435|Intonation=WeaklyRising|KID=1014-1
 
 # sent_id = PBB004_1015
 # text = sì
@@ -9130,7 +9130,7 @@
 # speaker_id = BOI012
 1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	2	reparandum	_	Begin=1935.275|KID=1017-0|PauseAfter=Yes
 2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	KID=1017-2
-3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=1017-3
+3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	KID=1017-3
 4	frequento	frequegnere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=1017-4
 5	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=1017-5
 6	grandi	grande	ADJ	_	Number=Plur	7	amod	_	KID=1017-6
@@ -9142,7 +9142,7 @@
 # speaker_id = BOI013
 1	beppe	Beppe	PROPN	_	Gender=Fem|Number=Plur|PronType=Ind	2	reparandum	_	Begin=1937.326|KID=1018-0|OverlappingGroup=195|PauseAfter=Yes
 2	beppe	Beppe	PROPN	_	Gender=Fem|Number=Plur	0	root	_	KID=1018-2|PaceFast=Yes
-3	maniglia	Maniglia	PROPN	_	Gender=Fem|Number=Plur	2	flat:name	_	End=1939.145|Intonation=weakly_rising|KID=1018-3|PaceFast=Yes
+3	maniglia	Maniglia	PROPN	_	Gender=Fem|Number=Plur	2	flat:name	_	End=1939.145|Intonation=WeaklyRising|KID=1018-3|PaceFast=Yes
 
 # sent_id = PBB004_1019
 # text = mh
@@ -9156,10 +9156,10 @@
 # speaker_id = BOI012
 1	no	no	ADV	_	Polarity=Neg	4	advmod	_	Begin=1939.952|KID=1021-0|Prolonged=Yes
 2	sì	sì	ADV	_	_	1	flat	_	KID=1021-1
-3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|KID=1021-2
+3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	expl	_	KID=1021-2
 4	vedo	vedere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=1021-3
 5	con	con	ADP	_	_	6	case	_	KID=1021-4
-6	domenico	Domenico	PROPN	_	Gender=Masc|Number=Sing	4	obl	_	Intonation=weakly_rising|KID=1021-5|Prolonged=Yes
+6	domenico	Domenico	PROPN	_	Gender=Masc|Number=Sing	4	obl	_	Intonation=WeaklyRising|KID=1021-5|Prolonged=Yes
 7	che	che	PRON	_	PronType=Rel	10	nsubj	_	KID=1021-6
 8	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	KID=1021-7
 9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=1021-8
@@ -9172,15 +9172,15 @@
 # text = mhmh
 # jefferson_text = mhmh,
 # speaker_id = BOR005
-1	mhmh	mhmh	INTJ	_	Gender=Masc	0	root	_	Backchannel=PBB004_PBB004_1021::4|Begin=1943.93|End=1944.44|Intonation=weakly_rising|KID=1022-0
+1	mhmh	mhmh	INTJ	_	Gender=Masc	0	root	_	Backchannel=PBB004_PBB004_1021::4|Begin=1943.93|End=1944.44|Intonation=WeaklyRising|KID=1022-0
 
 # sent_id = PBB004_1023
 # text = eh li lo conosco è un mio amico
 # jefferson_text = e::h °li° >lo conosco è un mio amico<
 # speaker_id = BOI012
 1	eh	eh	INTJ	_	_	4	discourse	_	Begin=1944.757|KID=1023-0|Prolonged=Yes
-2	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	reparandum	_	Clitic=Yes|KID=1023-1|Volume=low
-3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=1023-2|PaceFast=Yes
+2	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	reparandum	_	KID=1023-1|Volume=low
+3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=1023-2|PaceFast=Yes
 4	conosco	conoscere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=1023-3|PaceFast=Yes
 5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	KID=1023-4|PaceFast=Yes
 6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=1023-5|PaceFast=Yes
@@ -9241,8 +9241,8 @@
 11	ascoltate	ascoltare	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=1029-11|Prolonged=Yes
 12	qualche	qualche	DET	_	Number=Sing|PronType=Ind	13	det	_	KID=1029-12|PaceFast=Yes
 13	volta	volta	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	KID=1029-13|PaceFast=Yes
-14	vi	vi	PRON	_	PronType=Prs	15	iobj	_	Clitic=Yes|KID=1029-14|OverlappingGroup=198|PaceFast=Yes
-15	capita	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	End=1961.667|Intonation=rising|KID=1029-15|OverlappingGroup=198|PaceFast=Yes
+14	vi	vi	PRON	_	PronType=Prs	15	iobj	_	KID=1029-14|OverlappingGroup=198|PaceFast=Yes
+15	capita	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	End=1961.667|Intonation=Rising|KID=1029-15|OverlappingGroup=198|PaceFast=Yes
 
 # sent_id = PBB004_1030
 # text = italiana
@@ -9293,7 +9293,7 @@
 # text = cantautori pu~ tutto
 # jefferson_text = [cant]autori, pu:~ tutto
 # speaker_id = BOI013
-1	cantautori	cantautore	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Begin=1970.233|Coconstruct=conj:reform_PBB004_ PBB004_1033::8|End=1971.467|Intonation=weakly_rising|KID=1034-0|OverlappingGroup=200
+1	cantautori	cantautore	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Begin=1970.233|Coconstruct=conj:reform_PBB004_ PBB004_1033::8|End=1971.467|Intonation=WeaklyRising|KID=1034-0|OverlappingGroup=200
 2	pu~	pu~	X	_	_	1	dep	_	Begin=1971.818|Interrupted=Yes|KID=1035-0|Prolonged=Yes
 3	tutto	tutto	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	End=1972.563|KID=1035-1
 
@@ -9312,7 +9312,7 @@
 9	straniera	straniero	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	KID=1036-9
 10	non	non	ADV	_	PronType=Neg	12	advmod	_	KID=1036-10
 11	la	il	PRON	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	obj	_	KID=1036-11
-12	capisco	capire	VERB	_	Gender=Masc|Number=Sing	4	parataxis	_	End=1976.367|Intonation=weakly_rising|KID=1036-12
+12	capisco	capire	VERB	_	Gender=Masc|Number=Sing	4	parataxis	_	End=1976.367|Intonation=WeaklyRising|KID=1036-12
 13	e	e	CCONJ	_	_	16	cc	_	Begin=1976.442|KID=1037-0
 14	non	non	ADV	_	PronType=Neg	16	advmod	_	KID=1037-1
 15	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	16	det	_	KID=1037-2|SpaceAfter=No
@@ -9340,7 +9340,7 @@
 2	sì	sì	ADV	_	_	4	advmod	_	KID=1039-1
 3	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=1039-2
 4	anni	anno	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Coconstruct=conj:reform_PBB004_ PBB004_1038::5|KID=1039-3
-5	novanta	novanta	NUM	_	NumType=Card	4	nummod	_	End=1985.068|Intonation=weakly_rising|KID=1039-4
+5	novanta	novanta	NUM	_	NumType=Card	4	nummod	_	End=1985.068|Intonation=WeaklyRising|KID=1039-4
 
 # sent_id = PBB004_1040
 # text = mhmh
@@ -9353,7 +9353,7 @@
 # jefferson_text = gli ottanta,
 # speaker_id = BOI013
 1	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Begin=1985.626|KID=1041-0
-2	ottanta	ottanta	NUM	_	NumType=Card	0	root	_	Coconstruct=conj_PBB004_PBB004_1039::4|End=1986.605|Intonation=weakly_rising|KID=1041-1
+2	ottanta	ottanta	NUM	_	NumType=Card	0	root	_	Coconstruct=conj_PBB004_PBB004_1039::4|End=1986.605|Intonation=WeaklyRising|KID=1041-1
 
 # sent_id = PBB004_1042
 # text = no gli ultimi no non non non mi interessa
@@ -9366,7 +9366,7 @@
 5	non	non	ADV	_	PronType=Neg	7	reparandum	_	KID=1042-4
 6	non	non	ADV	_	PronType=Neg	7	reparandum	_	KID=1042-5
 7	non	non	ADV	_	PronType=Neg	9	advmod	_	KID=1042-6
-8	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	Clitic=Yes|KID=1042-7
+8	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	KID=1042-7
 9	interessa	interessare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1989.559|KID=1042-8
 
 # sent_id = PBB004_1043_1044
@@ -9378,10 +9378,10 @@
 3	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obl	_	KID=1043-2|PaceFast=Yes
 4	piacciono	piacere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1043-3|PaceFast=Yes
 5	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=1043-4
-6	cantautori	cantautore	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	Intonation=weakly_rising|KID=1043-5
+6	cantautori	cantautore	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	Intonation=WeaklyRising|KID=1043-5
 7	gianni	Gianni	PROPN	_	Number=Plur	6	appos	_	End=1992.698|KID=1043-6|Prolonged=Yes
 8	che	che	PRON	_	_	10	nsubj	_	Begin=1993.017|KID=1044-0|OverlappingGroup=201|PaceFast=Yes
-9	c'	ci	PRON	_	PronType=Prs	10	expl	_	Clitic=Yes|KID=1044-1|OverlappingGroup=201|PaceFast=Yes|SpaceAfter=No
+9	c'	ci	PRON	_	PronType=Prs	10	expl	_	KID=1044-1|OverlappingGroup=201|PaceFast=Yes|SpaceAfter=No
 10	erano	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	KID=1044-2|OverlappingGroup=201|PaceFast=Yes
 11	prima	prima	ADV	_	_	10	advmod	_	End=1993.804|KID=1044-3|OverlappingGroup=201|PaceFast=Yes
 
@@ -9390,7 +9390,7 @@
 # jefferson_text = [xx]x ti piacciono i (.) qu[elli n]uovi
 # speaker_id = BOI012
 1	x	x	X	_	_	3	dep	_	Begin=1993.046|KID=1045-0|OverlappingGroup=201|Unintelligible=Yes
-2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	Clitic=Yes|KID=1045-1
+2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	KID=1045-1
 3	piacciono	piacere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1045-2
 4	quelli	quello	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	3	obj	_	KID=1045-5|OverlappingGroup=202
 5	nuovi	nuovo	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	End=1995.493|KID=1045-6|OverlappingGroup=202
@@ -9411,7 +9411,7 @@
 # text = fedez eh
 # jefferson_text = [f]edez, e::h
 # speaker_id = BOI012
-1	fedez	Fedez	PROPN	_	Gender=Masc	0	root	_	Begin=1996.836|Intonation=weakly_rising|KID=1048-0|OverlappingGroup=203
+1	fedez	Fedez	PROPN	_	Gender=Masc	0	root	_	Begin=1996.836|Intonation=WeaklyRising|KID=1048-0|OverlappingGroup=203
 2	eh	eh	INTJ	_	_	1	discourse	_	End=1998.347|KID=1048-1|Prolonged=Yes
 
 # sent_id = PBB004_1049
@@ -9447,7 +9447,7 @@
 # text = mi piace i vecchi
 # jefferson_text = mi piace:::: i vecchi
 # speaker_id = BOI013
-1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=2004.214|Clitic=Yes|KID=1053-0
+1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=2004.214|KID=1053-0
 2	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1053-1|Prolonged=Yes
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=1053-2
 4	vecchi	vecchio	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	End=2005.916|KID=1053-3
@@ -9471,7 +9471,7 @@
 7	se	se	SCONJ	_	_	8	mark	_	KID=1055-6
 8	no	no	INTJ	_	PronType=Neg	4	discourse	_	End=2009.109|KID=1055-7
 9	cosa	cosa	PRON	_	Number=Sing|PronType=Int	11	obj	_	Begin=2009.209|KID=1056-0
-10	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	Clitic=Yes|KID=1056-1
+10	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	KID=1056-1
 11	ascolto	ascogliere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	KID=1056-2
 12	a	a	ADP	_	_	13	case	_	KID=1056-3
 13	fa~	fa~	X	_	_	11	dep	_	Interrupted=Yes|KID=1056-4
@@ -9494,10 +9494,10 @@
 3	che	che	PRON	_	PronType=Rel	7	obj	_	KID=1058-2
 4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	KID=1058-3
 5	non	non	ADV	_	PronType=Neg	7	advmod	_	KID=1058-4|PaceFast=Yes
-6	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|KID=1058-5|PaceFast=Yes
+6	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	KID=1058-5|PaceFast=Yes
 7	capisco	capire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=1058-6|PaceFast=Yes
 8	che	che	SCONJ	_	_	10	mark	_	KID=1058-7|PaceFast=Yes
-9	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	Clitic=Yes|KID=1058-8|PaceFast=Yes
+9	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	KID=1058-8|PaceFast=Yes
 10	parlano	parlare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	KID=1058-9|PaceFast=Yes
 11	inglese	inglese	ADJ	_	Number=Sing	10	obj	_	End=2013.941|KID=1058-10|PaceFast=Yes
 
@@ -9556,17 +9556,17 @@
 4	jazz	jazz	NOUN	_	Gender=Masc	3	nmod	_	KID=1063-3
 5	dove	dove	ADV	_	_	8	advmod	_	KID=1063-4|PaceFast=Yes
 6	non	non	ADV	_	PronType=Neg	8	advmod	_	KID=1063-5|PaceFast=Yes
-7	c'	ci	PRON	_	PronType=Prs	8	expl	_	Clitic=Yes|KID=1063-6|SpaceAfter=No
+7	c'	ci	PRON	_	PronType=Prs	8	expl	_	KID=1063-6|SpaceAfter=No
 8	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	KID=1063-7
 9	nessuno	nessuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	KID=1063-8
 10	che	che	PRON	_	PronType=Rel	11	nsubj	_	KID=1063-9
-11	canta	cantare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	End=2022.542|Intonation=weakly_rising|KID=1063-10|OverlappingGroup=208|Prolonged=Yes
+11	canta	cantare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	End=2022.542|Intonation=WeaklyRising|KID=1063-10|OverlappingGroup=208|Prolonged=Yes
 
 # sent_id = PBB004_1064
 # text = mi dà fastidio
 # jefferson_text = [>mi dà] fastidio<
 # speaker_id = BOI013
-1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=2022.202|Clitic=Yes|KID=1064-0|OverlappingGroup=208|PaceFast=Yes
+1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=2022.202|KID=1064-0|OverlappingGroup=208|PaceFast=Yes
 2	dà	dare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1064-1|OverlappingGroup=208|PaceFast=Yes
 3	fastidio	fastidio	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	End=2023.01|KID=1064-2|PaceFast=Yes
 
@@ -9582,7 +9582,7 @@
 # text = m'innervosisce
 # jefferson_text = [m'innervo]sisce
 # speaker_id = BOI013
-1	m'	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	obj	_	Begin=2023.423|Clitic=Yes|KID=1066-0|OverlappingGroup=209|SpaceAfter=No
+1	m'	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	obj	_	Begin=2023.423|KID=1066-0|OverlappingGroup=209|SpaceAfter=No
 2	innervosisce	innervosire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=2024.401|KID=1066-1|OverlappingGroup=209
 
 # sent_id = PBB004_1067_1068_PBB004_1069
@@ -9616,12 +9616,12 @@
 3	classica	classico	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	KID=1072-2|OverlappingGroup=210
 4	dove	dove	ADV	_	_	7	advmod	_	KID=1072-3|PaceFast=Yes
 5	non	non	ADV	_	PronType=Neg	7	advmod	_	KID=1072-4|PaceFast=Yes
-6	c'	ci	PRON	_	PronType=Prs	7	expl	_	Clitic=Yes|KID=1072-5|PaceFast=Yes|SpaceAfter=No
+6	c'	ci	PRON	_	PronType=Prs	7	expl	_	KID=1072-5|PaceFast=Yes|SpaceAfter=No
 7	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	KID=1072-6|PaceFast=Yes
 8	nessuno	nessuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	KID=1072-7|PaceFast=Yes
 9	che	che	PRON	_	PronType=Rel	10	reparandum	_	KID=1072-8|PaceFast=Yes|PauseAfter=Yes
 10	che	che	PRON	_	PronType=Rel	11	nsubj	_	KID=1072-10
-11	canta	cantare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	End=2032.148|Intonation=weakly_rising|KID=1072-11
+11	canta	cantare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	End=2032.148|Intonation=WeaklyRising|KID=1072-11
 
 # sent_id = PBB004_1073
 # text = orrore
@@ -9666,13 +9666,13 @@
 # text = mi capitava prima che conoscessi lei mi capitava dopo
 # jefferson_text = [mi capita]va prima che conoscessi lei mi capitava dopo
 # speaker_id = BOI012
-1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	expl	_	Begin=2046.188|Clitic=Yes|KID=1084-0|OverlappingGroup=213
+1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	expl	_	Begin=2046.188|KID=1084-0|OverlappingGroup=213
 2	capitava	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=1084-1|OverlappingGroup=213
 3	prima	prima	ADV	_	_	2	advmod	_	KID=1084-2
 4	che	che	SCONJ	_	_	5	mark	_	KID=1084-3
 5	conoscessi	conoscettere	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	KID=1084-4
 6	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	KID=1084-5
-7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obj	_	Clitic=Yes|KID=1084-6
+7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obj	_	KID=1084-6
 8	capitava	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	parataxis	_	KID=1084-7
 9	dopo	dopo	ADP	_	_	8	advmod	_	End=2049.283|KID=1084-8
 
@@ -9698,13 +9698,13 @@
 7	in	in	ADP	_	_	8	case	_	KID=1086-6
 8	discoteca	discoteca	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	KID=1086-7
 9	non	non	ADV	_	PronType=Neg	11	advmod	_	KID=1086-8
-10	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	11	expl	_	Clitic=Yes|KID=1086-9
+10	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	11	expl	_	KID=1086-9
 11	vengo	venire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=1086-10
 12	non	non	ADV	_	PronType=Neg	14	advmod	_	KID=1086-11
-13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	Clitic=Yes|KID=1086-12
+13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	KID=1086-12
 14	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	KID=1086-13
 15	non	non	ADV	_	PronType=Neg	14	advmod	_	KID=1086-14
-16	c'	ci	PRON	_	PronType=Prs	17	expl	_	Clitic=Yes|KID=1086-15|SpaceAfter=No
+16	c'	ci	PRON	_	PronType=Prs	17	expl	_	KID=1086-15|SpaceAfter=No
 17	andiamo	andare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	End=2054.454|KID=1086-16
 
 # sent_id = PBB004_1087
@@ -9713,7 +9713,7 @@
 # speaker_id = BOI013
 1	no	no	ADV	_	Polarity=Neg	4	advmod	_	Backchannel=PBB004_PBB004_1086::11|Begin=2054.519|KID=1087-0
 2	invece	invece	ADV	_	_	4	advmod	_	KID=1087-1
-3	c'	ci	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=1087-2|OverlappingGroup=214|SpaceAfter=No
+3	c'	ci	PRON	_	PronType=Prs	4	expl	_	KID=1087-2|OverlappingGroup=214|SpaceAfter=No
 4	andavo	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	End=2055.988|KID=1087-3|OverlappingGroup=214
 
 # sent_id = PBB004_1088
@@ -9735,7 +9735,7 @@
 # text = risparmi
 # jefferson_text = ris[par]mi,
 # speaker_id = BOI013
-1	risparmi	risparmio	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Begin=2058.056|End=2058.95|Intonation=weakly_rising|KID=1090-0|OverlappingGroup=215
+1	risparmi	risparmio	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Begin=2058.056|End=2058.95|Intonation=WeaklyRising|KID=1090-0|OverlappingGroup=215
 
 # sent_id = PBB004_1091_1092
 # text = e e là non c'andiamo x cioè
@@ -9745,7 +9745,7 @@
 2	e	e	CCONJ	_	_	6	discourse	_	Begin=2059.122|KID=1092-0|Prolonged=Yes
 3	là	là	ADV	_	_	6	advmod	_	KID=1092-1
 4	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=1092-2
-5	c'	ci	PRON	_	PronType=Prs	6	expl	_	Clitic=Yes|KID=1092-3|SpaceAfter=No
+5	c'	ci	PRON	_	PronType=Prs	6	expl	_	KID=1092-3|SpaceAfter=No
 6	andiamo	andare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=1092-4
 7	x	x	X	_	_	6	dep	_	KID=1092-5|Unintelligible=Yes
 8	cioè	cioè	CCONJ	_	_	6	discourse	_	End=2061.303|KID=1092-6|PaceFast=Yes
@@ -9850,7 +9850,7 @@
 8	a	a	ADP	_	_	9	mark	_	KID=1103-8
 9	ballare	ballare	VERB	_	VerbForm=Inf	7	xcomp	_	KID=1103-9
 10	qualche	qualche	DET	_	Number=Sing|PronType=Ind	11	det	_	KID=1103-10
-11	volta	volta	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	End=2079.223|Intonation=rising|KID=1103-11|OverlappingGroup=221
+11	volta	volta	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	End=2079.223|Intonation=Rising|KID=1103-11|OverlappingGroup=221
 
 # sent_id = PBB004_1104
 # text = al living sì
@@ -9895,11 +9895,11 @@
 # jefferson_text = e:: ci sono ancora questi posti?
 # speaker_id = BOR005
 1	e	e	CCONJ	_	_	3	discourse	_	Begin=2087.154|KID=1109-0|Prolonged=Yes
-2	ci	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=1109-1
+2	ci	ci	PRON	_	PronType=Prs	3	expl	_	KID=1109-1
 3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1109-2
 4	ancora	ancora	ADV	_	_	3	advmod	_	KID=1109-3
 5	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	KID=1109-4
-6	posti	posta	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	End=2088.856|Intonation=rising|KID=1109-5
+6	posti	posta	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	End=2088.856|Intonation=Rising|KID=1109-5
 
 # sent_id = PBB004_1110
 # text = no
@@ -9920,7 +9920,7 @@
 1	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=2089.494|KID=1112-0|PaceFast=Yes
 2	living	living	NOUN	_	Gender=Masc	5	nsubj	_	KID=1112-1|PaceFast=Yes
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=1112-2|PaceFast=Yes
-4	c'	ci	PRON	_	PronType=Prs	5	expl	_	Clitic=Yes|KID=1112-3|PaceFast=Yes|SpaceAfter=No
+4	c'	ci	PRON	_	PronType=Prs	5	expl	_	KID=1112-3|PaceFast=Yes|SpaceAfter=No
 5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1112-4|PaceFast=Yes
 6	più	più	ADV	_	_	5	advmod	_	End=2090.217|KID=1112-5|PaceFast=Yes
 
@@ -9929,11 +9929,11 @@
 # jefferson_text = >poi c'era una sala< bingo,
 # speaker_id = BOI012
 1	poi	poi	ADV	_	_	3	advmod	_	Begin=2090.789|KID=1113-0|PaceFast=Yes
-2	c'	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=1113-1|PaceFast=Yes|SpaceAfter=No
+2	c'	ci	PRON	_	PronType=Prs	3	expl	_	KID=1113-1|PaceFast=Yes|SpaceAfter=No
 3	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=1113-2|PaceFast=Yes
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=1113-3|PaceFast=Yes
 5	sala	sala	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	KID=1113-4|PaceFast=Yes
-6	bingo	bingo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	End=2092.066|Intonation=weakly_rising|KID=1113-5
+6	bingo	bingo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	End=2092.066|Intonation=WeaklyRising|KID=1113-5
 
 # sent_id = PBB004_1114
 # text = a corticella
@@ -9968,7 +9968,7 @@
 # text = c'è più niente
 # jefferson_text = °c'è più niente°
 # speaker_id = BOI012
-1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Begin=2097.408|Clitic=Yes|KID=1118-0|SpaceAfter=No|Volume=low
+1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Begin=2097.408|KID=1118-0|SpaceAfter=No|Volume=low
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1118-1|Volume=low
 3	più	più	ADV	_	_	2	advmod	_	KID=1118-2|Volume=low
 4	niente	niente	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	End=2098.099|KID=1118-3|Volume=low
@@ -9979,7 +9979,7 @@
 # speaker_id = BOI013
 1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=2098.376|KID=1119-0
 2	aperto	aperto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	KID=1119-1
-3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=1119-2|PaceFast=Yes
+3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	expl	_	KID=1119-2|PaceFast=Yes
 4	siamo	essere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=1119-3|PaceFast=Yes
 5	andati	andare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	KID=1119-4|PaceFast=Yes
 6	prima	prima	ADV	_	_	8	advmod	_	KID=1119-5|PaceFast=Yes
@@ -10010,7 +10010,7 @@
 8	lì	lì	ADV	_	_	12	advmod	_	KID=1123-2
 9	che	che	SCONJ	_	_	12	mark	_	KID=1123-3
 10	non	non	ADV	_	PronType=Neg	12	advmod	_	KID=1123-4
-11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	iobj	_	Clitic=Yes|KID=1123-5
+11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	iobj	_	KID=1123-5
 12	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	reparandum	_	KID=1123-6
 13	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=1123-7|Prolonged=Yes
 14	quarant'	quaranta	NUM	_	NumType=Card	15	nummod	_	KID=1123-8|SpaceAfter=No
@@ -10110,7 +10110,7 @@
 2	quando	quando	ADV	_	_	3	advmod	_	KID=1131-1
 3	uscite	uscire	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	KID=1131-2|PauseAfter=Yes
 4	dove	dove	ADV	_	_	6	advmod	_	KID=1131-4
-5	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	Clitic=Yes|KID=1131-5
+5	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	KID=1131-5
 6	capita	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1131-6
 7	di	di	ADP	_	_	8	mark	_	KID=1131-7
 8	andare	andare	VERB	_	VerbForm=Inf	6	xcomp	_	End=2124.438|KID=1131-8
@@ -10125,11 +10125,11 @@
 4	a	a	ADP	_	_	5	case	_	KID=1132-3
 5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	KID=1132-4|PaceFast=Yes
 6	da	da	ADP	_	_	7	case	_	KID=1132-5|PaceFast=Yes
-7	parenti	parente	NOUN	_	Number=Plur	5	obl	_	Intonation=weakly_rising|KID=1132-6|PaceFast=Yes
+7	parenti	parente	NOUN	_	Number=Plur	5	obl	_	Intonation=WeaklyRising|KID=1132-6|PaceFast=Yes
 8	a	a	ADP	_	_	9	case	_	KID=1132-7
 9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	KID=1132-8|OverlappingGroup=227
 10	di	di	ADP	_	_	11	case	_	KID=1132-9|OverlappingGroup=227
-11	amici	amico	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	End=2126.676|Intonation=weakly_rising|KID=1132-10|OverlappingGroup=227
+11	amici	amico	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	End=2126.676|Intonation=WeaklyRising|KID=1132-10|OverlappingGroup=227
 
 # sent_id = PBB004_1133
 # text = o andare a mangiare la pizza con mio cugino
@@ -10156,7 +10156,7 @@
 5	pizza	pizzo	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	KID=1134-4|OverlappingGroup=230
 6	con	con	ADP	_	_	8	case	_	KID=1134-5
 7	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=1134-6
-8	amici	amico	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	Intonation=weakly_rising|KID=1134-7
+8	amici	amico	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	Intonation=WeaklyRising|KID=1134-7
 9	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	End=2129.856|KID=1134-8|OverlappingGroup=229
 
 # sent_id = PBB004_1135
@@ -10173,7 +10173,7 @@
 2	con	con	ADP	_	_	5	case	_	KID=1136-1
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=1136-2
 4	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	KID=1136-3
-5	colleghi	collega	NOUN	_	Gender=Masc|Number=Plur	0	root	_	End=2130.916|Intonation=weakly_rising|KID=1136-4
+5	colleghi	collega	NOUN	_	Gender=Masc|Number=Plur	0	root	_	End=2130.916|Intonation=WeaklyRising|KID=1136-4
 
 # sent_id = PBB004_1137
 # text = mh

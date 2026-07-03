@@ -15,14 +15,14 @@
 # text = c' è solo lei vero non non ci sono altre
 # jefferson_text = c' è solo lei vero non non ci sono [altre],
 # speaker_id = BO026
-1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Begin=7.84|Clitic=Yes|KID=2-0|Truncated=Yes
+1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Begin=7.84|KID=2-0|Truncated=Yes
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=2-1
 3	solo	solo	ADV	_	_	4	advmod	_	KID=2-2
 4	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	KID=2-3
 5	vero	vero	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	KID=2-4
 6	non	non	ADV	_	PronType=Neg	7	reparandum	_	KID=2-5
 7	non	non	ADV	_	PronType=Neg	9	advmod	_	KID=2-6
-8	ci	ci	PRON	_	PronType=Prs	9	expl	_	Clitic=Yes|KID=2-7
+8	ci	ci	PRON	_	PronType=Prs	9	expl	_	KID=2-7
 9	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	KID=2-8
 10	altre	altro	ADJ	_	Gender=Fem|Number=Plur	9	obj	_	End=10.07|Intonation=WeaklyRising|KID=2-9|OverlappingGroup=0|Promotion=amod|Scrap=yes
 
@@ -55,7 +55,7 @@
 7	di	di	ADP	_	_	8	case	_	KID=5-6
 8	correlazione	correlazione	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=5-7
 9	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	KID=5-8
-10	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	iobj	_	Clitic=Yes|KID=5-9
+10	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	iobj	_	KID=5-9
 11	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	KID=5-10
 12	mandato	mandare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	parataxis	_	KID=5-11
 13	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=5-12
@@ -113,7 +113,7 @@
 # jefferson_text = [°come si chiama lei?°]
 # speaker_id = BO026
 1	come	come	SCONJ	_	_	3	mark	_	Begin=25.22|KID=11-0|OverlappingGroup=2|Volume=low
-2	si	si	PRON	_	Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|KID=11-1|OverlappingGroup=2|Volume=low
+2	si	si	PRON	_	Person=3|PronType=Prs	3	expl:impers	_	KID=11-1|OverlappingGroup=2|Volume=low
 3	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=11-2|OverlappingGroup=2|Volume=low
 4	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	End=26.093|Intonation=Rising|KID=11-3|OverlappingGroup=2|Volume=low
 
@@ -122,7 +122,7 @@
 # jefferson_text = °come si chia[ma?°]
 # speaker_id = BO026
 1	come	come	SCONJ	_	_	3	mark	_	Begin=27.85|KID=12-0|Volume=low
-2	si	si	PRON	_	Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|KID=12-1|Volume=low
+2	si	si	PRON	_	Person=3|PronType=Prs	3	expl:impers	_	KID=12-1|Volume=low
 3	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=28.488|Intonation=Rising|KID=12-2|OverlappingGroup=3|Volume=low
 
 # sent_id = BOA1008_13
@@ -138,7 +138,7 @@
 # jefferson_text = ah. le avevo detto di sì [com]unque. sì.
 # speaker_id = BO026
 1	ah	ah	INTJ	_	_	4	discourse	_	Begin=30.243|Intonation=Falling|KID=14-0
-2	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=14-1
+2	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=14-1
 3	avevo	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	KID=14-2
 4	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=14-3
 5	di	di	ADP	_	_	6	case	_	KID=14-4
@@ -160,7 +160,7 @@
 2	lei	lei	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	KID=16-1
 3	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=16-2
 4	conclus~	concludere	VERB	_	_	6	reparandum	_	Interrupted=Yes|KID=16-3
-5	si	si	PRON	_	Person=3|PronType=Prs	6	expl:impers	_	Clitic=Yes|KID=16-4
+5	si	si	PRON	_	Person=3|PronType=Prs	6	expl:impers	_	KID=16-4
 6	laurea	laureare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=16-5
 7	adesso	adesso	ADV	_	_	6	advmod	_	End=34.519|Intonation=Rising|KID=16-6|OverlappingGroup=5
 
@@ -198,9 +198,9 @@
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	7	advmod	_	Begin=37.495|KID=21-0
 2	sì	sì	ADV	_	_	1	flat	_	Intonation=Falling|KID=21-1
-3	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=21-2
+3	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=21-2
 4	avevo	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	reparandum	_	End=39.73|KID=21-3|Prolonged=Yes
-5	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	Begin=39.88|Clitic=Yes|KID=22-0
+5	le	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	Begin=39.88|KID=22-0
 6	avevo	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	KID=22-1
 7	risposto	rispondere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=22-2
 8	dicendo	dire	VERB	_	VerbForm=Ger	7	advcl	_	KID=22-3
@@ -231,7 +231,7 @@
 6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=24-5|OverlappingGroup=8
 7	tesi	tesi	NOUN	_	Gender=Fem	5	obj	_	KID=24-6|OverlappingGroup=8
 8	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	KID=24-7|OverlappingGroup=8
-9	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	iobj	_	Clitic=Yes|KID=24-8|OverlappingGroup=8
+9	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	iobj	_	KID=24-8|OverlappingGroup=8
 10	aveva	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	KID=24-9|OverlappingGroup=8
 11	mandato	mandato	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	parataxis	_	KID=24-10|OverlappingGroup=8
 12	anche	anche	ADV	_	_	11	advmod	_	End=46.346|KID=24-11|Prolonged=Yes
@@ -298,7 +298,7 @@
 # text = mi manda il lavoro comunque prima della quand'è la sessione la prima settimana di luglio
 # jefferson_text = mi manda il lavoro comunque prima della:: | quand'è la: sessione la prima settimana [di lu]glio?
 # speaker_id = BO026
-1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=52.5|Clitic=Yes|KID=31-0
+1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=52.5|KID=31-0
 2	manda	mandare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=31-1
 3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=31-2
 4	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	KID=31-3
@@ -336,11 +336,11 @@
 # jefferson_text = q[uindi lo deve mandare l~] lo deve caricare: a metà giugno,
 # speaker_id = BO026
 1	quindi	quindi	ADV	_	_	4	advmod	_	Begin=60.925|KID=36-0|OverlappingGroup=13
-2	lo	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=36-1|OverlappingGroup=13
+2	lo	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=36-1|OverlappingGroup=13
 3	deve	dovere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=36-2|OverlappingGroup=13
 4	mandare	mandare	VERB	_	VerbForm=Inf	0	root	_	KID=36-3|OverlappingGroup=13
 5	l~	l~	X	_	_	6	reparandum	_	Interrupted=Yes|KID=36-4|OverlappingGroup=13
-6	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=36-5
+6	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=36-5
 7	deve	dovere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	KID=36-6
 8	caricare	caricare	VERB	_	VerbForm=Inf	4	conj	_	KID=36-7|Prolonged=Yes
 9	a	a	ADP	_	_	10	case	_	KID=36-8
@@ -352,7 +352,7 @@
 # jefferson_text = [°quindi le mando il lavoro.°]
 # speaker_id = BO036
 1	quindi	quindi	ADV	_	_	3	advmod	_	Begin=61.083|KID=37-0|OverlappingGroup=13|Volume=low
-2	le	le	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	iobj	_	Clitic=Yes|KID=37-1|OverlappingGroup=13|Volume=low
+2	le	le	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	iobj	_	KID=37-1|OverlappingGroup=13|Volume=low
 3	mando	mare	VERB	_	VerbForm=Ger	0	root	_	KID=37-2|OverlappingGroup=13|Volume=low
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=37-3|OverlappingGroup=13|Volume=low
 5	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	End=62.29|Intonation=Falling|KID=37-4|OverlappingGroup=13|Volume=low
@@ -382,10 +382,10 @@
 # speaker_id = BO026
 1	e	e	CCONJ	_	_	4	discourse	_	Begin=66.48|KID=41-0|Prolonged=Yes
 2	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	KID=41-1
-3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=41-2
+3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=41-2
 4	manda	mandare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=41-3|Prolonged=Yes
 5	adesso	adesso	ADV	_	_	4	advmod	_	KID=41-4
-6	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=41-5|Truncated=Yes
+6	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=41-5|Truncated=Yes
 7	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	KID=41-6
 8	concluso	concludere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	Intonation=WeaklyRising|KID=41-7
 9	quasi	quasi	ADV	_	_	10	advmod	_	KID=41-8
@@ -492,7 +492,7 @@
 9	va	andare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	KID=50-8
 10	bene	bene	ADV	_	_	9	advmod	_	KID=50-9
 11	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obj	_	KID=50-10
-12	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	Clitic=Yes|KID=50-11
+12	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	KID=50-11
 13	scrivo	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	Intonation=Falling|KID=50-12
 14	sì	sì	ADV	_	_	13	advmod	_	KID=50-13
 15	sì	sì	ADV	_	_	14	flat	_	KID=50-14
@@ -599,7 +599,7 @@
 3	già	già	ADV	_	_	4	advmod	_	KID=60-2
 4	comunicato	comunicato	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=60-3
 5	che	che	SCONJ	_	_	7	mark	_	End=118.503|Intonation=WeaklyRising|KID=60-4
-6	ci	ci	PRON	_	PronType=Prs	7	expl	_	Begin=120.669|Clitic=Yes|KID=61-0
+6	ci	ci	PRON	_	PronType=Prs	7	expl	_	Begin=120.669|KID=61-0
 7	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	KID=61-1
 8	solo	solo	ADV	_	_	10	advmod	_	KID=61-2
 9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=61-3
@@ -757,5 +757,5 @@
 # speaker_id = BO026
 1-2	arrivederci	_	_	_	_	_	_	_	Begin=147.118|End=147.888|Intonation=Falling|KID=75-0|OverlappingGroup=28
 1	arriveder	arrivedere	VERB	_	VerbForm=Inf	0	root	_	KID=75-0a
-2	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	1	obj	_	Clitic=Yes|KID=75-0b
+2	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	1	obj	_	KID=75-0b
 
